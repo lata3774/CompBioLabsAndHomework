@@ -1,0 +1,3304 @@
+             Abronia alpina Brandegee-accepted
+             Abronia ameliae Lundell-accepted
+             Abronia ammophila Greene-accepted
+             Abronia angustifolia Greene-accepted
+             Abronia bigelovii Heimerl-accepted
+             Abronia elliptica A. Nelson-accepted
+             Abronia fragrans Nutt. ex Hook.-accepted
+             Abronia glabrifolia Standley-accepted
+             Abronia gracilis Benth.-accepted
+             Abronia latifolia Eschsch.-accepted
+             Abronia macrocarpa L.A. Galloway-accepted
+             Abronia maritima Nutt. ex S. Watson-accepted
+             Abronia mellifera Douglas ex Hook.-accepted
+             Abronia minor Standl.-accepted
+             Abronia nana S. Watson-accepted
+             Abronia nealleyi Standl.-accepted
+             Abronia pogonantha Heimerl-accepted
+             Abronia turbinata Torr. ex S. Watson-accepted
+             Abronia umbellata Lam.-accepted
+             Abronia villosa S. Watson-accepted
+             Acanthocereus tetragonus (L.) Hummelinck-accepted
+             Acanthoscyphus parishii (Parry) Small-accepted
+             Acharagma aguirreanum (Glass & R.A. Foster) Glass-accepted
+             Acharagma roseanum (Boed.) E.F. Anderson-accepted
+             Achyranthes aspera L.-accepted
+             Achyranthes atollensis H. St. John-accepted
+             Achyranthes bidentata Blume-accepted
+             Achyranthes canescens R. Br.-accepted
+             Achyranthes japonica (Miq.) Nakai-accepted
+             Achyranthes mutica A. Gray-accepted
+             Achyranthes splendens Mart. ex Moq.-accepted
+             Achyronychia cooperi Torr. & A. Gray-accepted
+             Acleisanthes acutifolia Standl.-accepted
+             Acleisanthes angustifolia (Torr.) R.A. Levin-accepted
+             Acleisanthes anisophylla A. Gray-accepted
+             Acleisanthes chenopodioides (A. Gray) R.A. Levin-accepted
+             Acleisanthes crassifolia A. Gray-accepted
+             Acleisanthes diffusa (A. Gray) R.A. Levin-accepted
+             Acleisanthes lanceolata (Wooton) R.A. Levin-accepted
+             Acleisanthes longiflora A. Gray-accepted
+             Acleisanthes nevadensis (Standl.) B.L. Turner-accepted
+             Acleisanthes obtusa (Choisy) Standl.-accepted
+             Acleisanthes parvifolia (Torr.) R.A. Levin-accepted
+             Acleisanthes wrightii (A. Gray) Benth. & Hook. f. ex Hemsl.-accepted
+             Aconogonon alaskanum (W. Wight ex Harshb.) Soják-accepted
+             Aconogonon alpinum (All.) Schur-accepted
+             Aconogonon campanulatum (Hook. f.) H. Hara-accepted
+             Aconogonon davisiae (W.H. Brewer ex A. Gray) Soják-accepted
+             Aconogonon phytolaccifolium (Meisn. ex Small) Small-accepted
+             Aerva javanica (Burm. f.) Juss. ex Schult.-accepted
+             Aerva lanata (L.) Juss. ex Schult.-accepted
+             Aerva sericea Moq.-accepted
+             Agdestis clematidea Moc. & Sessé ex DC.-accepted
+             Agrostemma brachyloba (Fenzl) Hammer-accepted
+             Agrostemma githago L.-accepted
+             Allenrolfea occidentalis (S. Watson) Kuntze-accepted
+             Allionia choisyi Standl.-accepted
+             Allionia incarnata L.-accepted
+             Alternanthera achyranthes Forssk.-accepted
+             Alternanthera brasiliana (L.) Kuntze-accepted
+             Alternanthera caracasana Kunth-accepted
+             Alternanthera crucis Bold.-accepted
+             Alternanthera echinocephala (Hook. f.) Christoph.-accepted
+             Alternanthera ficoidea (L.) P. Beauv.-accepted
+             Alternanthera flavescens Kunth-accepted
+             Alternanthera hassleriana Chodat ex Chodat & Hassler-accepted
+             Alternanthera ingramiana (Standl.) Schinz-accepted
+             Alternanthera maritima (Mart.) A. St.-Hil.-accepted
+             Alternanthera olivacea (Urb.) Urb.-accepted
+             Alternanthera paronychioides A. St.-Hil.-accepted
+             Alternanthera philoxeroides (Mart.) Griseb.-accepted
+             Alternanthera pungens Kunth-accepted
+             Alternanthera sessilis (L.) R. Br. ex DC.-accepted
+             Amaranthus acanthochiton J.D. Sauer-accepted
+             Amaranthus acutilobus Uline & W.L. Bray-accepted
+             Amaranthus albus L.-accepted
+             Amaranthus arenicola I.M. Johnst.-accepted
+             Amaranthus australis (A. Gray) J.D. Sauer-accepted
+             Amaranthus blitoides S. Watson-accepted
+             Amaranthus blitum L.-accepted
+             Amaranthus brownii Christoph. & Caum-accepted
+             Amaranthus californicus (Moq.) S. Watson-accepted
+             Amaranthus cannabinus (L.) J.D. Sauer-accepted
+             Amaranthus caudatus L.-accepted
+             Amaranthus chihuahuensis S. Watson-accepted
+             Amaranthus crassipes Schltdl.-accepted
+             Amaranthus crispus (Lesp. & Thev.) N. Terracc.-accepted
+             Amaranthus cruentus L.-accepted
+             Amaranthus deflexus L.-accepted
+             Amaranthus dubius Mart. ex Thell.-accepted
+             Amaranthus fimbriatus (Torr.) Benth. ex S. Watson-accepted
+             Amaranthus floridanus (S. Watson) J.D. Sauer-accepted
+             Amaranthus graecizans L.-accepted
+             Amaranthus greggii S. Watson-accepted
+             Amaranthus hybridus L.-accepted
+             Amaranthus hypochondriacus L.-accepted
+             Amaranthus lineatus R. Br.-accepted
+             Amaranthus muricatus (Moq.) Hieron.-accepted
+             Amaranthus obcordatus (A. Gray) Standl.-accepted
+             Amaranthus palmeri S. Watson-accepted
+             Amaranthus polygonoides L.-accepted
+             Amaranthus powellii S. Watson-accepted
+             Amaranthus pumilus Raf.-accepted
+             Amaranthus retroflexus L.-accepted
+             Amaranthus scleropoides Uline & W.L. Bray-accepted
+             Amaranthus spinosus L.-accepted
+             Amaranthus tamaulipensis Henrickson-accepted
+             Amaranthus thunbergii Moq.-accepted
+             Amaranthus torreyi (A. Gray) Benth. ex S. Watson-accepted
+             Amaranthus tricolor L.-accepted
+             Amaranthus tuberculatus (Moq.) J.D. Sauer-accepted
+             Amaranthus viridis L.-accepted
+             Amaranthus viscidulus Greene-accepted
+             Amaranthus watsonii Standl.-accepted
+             Amaranthus wrightii S. Watson-accepted
+             Amaranthus X texensis Henrickson-accepted
+             Amaranthus X tucsonensis Henrickson-accepted
+             Anacampseros albidiflora Poelln.-accepted
+             Anacampseros arachnoides (Haw.) Sims-accepted
+             Anacampseros baeseckei Dinter-accepted
+             Anacampseros bayeriana S.A. Hammer-accepted
+             Anacampseros comptonii Pillans-accepted
+             Anacampseros decapitata Burgoyne & J. van Thiel-accepted
+             Anacampseros dielsiana Dinter-accepted
+             Anacampseros filamentosa (Haw.) Sims-accepted
+             Anacampseros hillii G. Will.-accepted
+             Anacampseros lanceolata (Haw.) Sweet-accepted
+             Anacampseros marlothii Poelln.-accepted
+             Anacampseros pisina Williamson-accepted
+             Anacampseros retusa Poelln.-accepted
+             Anacampseros rufescens (Haw.) Sweet-accepted
+             Anacampseros scopata G. Will.-accepted
+             Anacampseros subnuda Poelln.-accepted
+             Anacampseros telephiastrum DC.-accepted
+             Anacampseros vespertina Thulin-accepted
+             Anredera baselloides (Kunth) Baill.-accepted
+             Anredera cordifolia (Ten.) Steenis-accepted
+             Anredera vesicaria (Lam.) C.F. Gaertn.-accepted
+             Antenoron filiforme (Thunb.) Roberty & Vautier-accepted
+             Antigonon flavescens S. Watson-accepted
+             Antigonon guatimalense Meisn.-accepted
+             Antigonon leptopus Hook. & Arn.-accepted
+             Anulocaulis annulatus (Coville) Standl.-accepted
+             Anulocaulis eriosolenus (A. Gray) Standl.-accepted
+             Anulocaulis leiosolenus (Torr.) Standl.-accepted
+             Anulocaulis reflexus I.M. Johnst.-accepted
+             Aphanisma blitoides Nutt. ex Moq.-accepted
+             Aptenia cordifolia (L. f.) Schwantes-accepted
+             Arenaria benthamii Fenzl ex Torr. & A. Gray-accepted
+             Arenaria ciliata L.-accepted
+             Arenaria gothica Fr.-accepted
+             Arenaria humifusa Wahlenb.-accepted
+             Arenaria lanuginosa (Michx.) Rohrb.-accepted
+             Arenaria livermorensis Correll-accepted
+             Arenaria longipedunculata Hultén-accepted
+             Arenaria ludens Shinners-accepted
+             Arenaria montana L.-accepted
+             Arenaria norvegica Gunnerus-accepted
+             Arenaria paludicola B.L. Rob.-accepted
+             Arenaria procera Spreng.-accepted
+             Arenaria pseudofrigida (Ostenf. & O.C. Dahl) Juz. ex Schischk. & Knorring-accepted
+             Arenaria serpyllifolia L.-accepted
+             Ariocarpus agavoides (Castañeda) E.F. Anderson-accepted
+             Ariocarpus bravoanus H.M. Hern. & E.F. Anderson-accepted
+             Ariocarpus fissuratus (Engelm.) K. Schum.-accepted
+             Ariocarpus kotschoubeyanus (Lem.) K. Schum.-accepted
+             Ariocarpus retusus Scheidw.-accepted
+             Ariocarpus scaphirostris Boed.-accepted
+             Ariocarpus trigonus (F.A.C. Weber) K. Schum.-accepted
+             Aristocapsa insignis (Curran) Reveal & Hardham-accepted
+             Armatocereus cartwrightianus (Britton & Rose) Backeb.-accepted
+             Armatocereus godingianus (Britton & Rose) Backeb.-accepted
+             Armatocereus laetus (Britton & Rose) Backeb.-accepted
+             Armatocereus matucanensis Backeb.-accepted
+             Armatocereus procerus Rauh & Backeb.-accepted
+             Armatocereus rauhii Backeb.-accepted
+             Armatocereus riomajensis Rauh & Backeb.-accepted
+             Armeria alboi (Bernis) Nieto Fel.-accepted
+             Armeria alliacea (Cav.) Hoffmanns. & Link-accepted
+             Armeria alpina Willd.-accepted
+             Armeria arenaria (Pers.) Schult.-accepted
+             Armeria caespitosa (Ortega) Boiss.-accepted
+             Armeria gaditana Boiss.-accepted
+             Armeria girardii (Bernis) Litard.-accepted
+             Armeria leucocephala W.D.J. Koch-accepted
+             Armeria maritima (Mill.) Willd.-accepted
+             Armeria nebrodensis (Guss.) Boiss.-accepted
+             Armeria pseudarmeria (Murray) Mansf.-accepted
+             Armeria pubigera (Desf.) Boiss.-accepted
+             Armeria pungens (Link) Hoffmanns. & Link-accepted
+             Armeria rumelica Boiss.-accepted
+             Armeria undulata (Bory & Chaub.) Boiss.-accepted
+             Armeria villosa Girard-accepted
+             Armeria welwitschii Boiss.-accepted
+             Arrojadoa dinae Buining & Brederoo-accepted
+             Arrojadoa eriocaulis Buining & Brederoo-accepted
+             Arrojadoa marylaniae Soares Filho & M. Machado-accepted
+             Arrojadoa penicillata (Gürke) Britton & Rose-accepted
+             Arrojadoa rhodantha (Gürke) Britton & Rose-accepted
+             Arrojadoa X albiflora Buining & Brederoo-accepted
+             Arthrocereus glaziovii (K. Schum.) N.P. Taylor & Zappi-accepted
+             Arthrocereus melanurus (K. Schum.) Diers, P.J. Braun & Esteves-accepted
+             Arthrocereus rondonianus Backeb. & Voll-accepted
+             Arthrocereus spinosissimus (Buining & Brederoo) F. Ritter-accepted
+             Arthrocnemum subterminale (Parish) Standl.-accepted
+             Astrophytum asterias (Zucc.) Lem.-accepted
+             Astrophytum capricorne (A. Dietr.) Britton & Rose-accepted
+             Astrophytum caput-medusae (Velazco & Nevárez) D.R. Hunt-accepted
+             Astrophytum coahuilense (H. Moeller) K. Kayser-accepted
+             Astrophytum myriostigma Lem.-accepted
+             Astrophytum ornatum (DC.) Britton & Rose-accepted
+             Atriplex acanthocarpa (Torr.) S. Watson-accepted
+             Atriplex amnicola Paul G. Wilson-accepted
+             Atriplex argentea Nutt.-accepted
+             Atriplex atacamensis Phil.-accepted
+             Atriplex barclayana (Benth.) D. Dietr.-accepted
+             Atriplex bunburyana F. Muell.-accepted
+             Atriplex calotheca (Rafn) Fr.-accepted
+             Atriplex canescens (Pursh) Nutt.-accepted
+             Atriplex cinerea Poir.-accepted
+             Atriplex confertifolia (Torr. & Frém.) S. Watson-accepted
+             Atriplex coquimbana Phil.-accepted
+             Atriplex cordifolia J.M. Black-accepted
+             Atriplex cordulata Jeps.-accepted
+             Atriplex coronata S. Watson-accepted
+             Atriplex corrugata S. Watson-accepted
+             Atriplex coulteri (Moq.) D. Dietr.-accepted
+             Atriplex cristata Humb. & Bonpl. ex Willd.-accepted
+             Atriplex dioica Raf.-accepted
+             Atriplex eardleyae Aellen-accepted
+             Atriplex elegans (Moq.) D. Dietr.-accepted
+             Atriplex farinosa Forssk.-accepted
+             Atriplex fruticulosa Jeps.-accepted
+             Atriplex gardneri (Moq.) D. Dietr.-accepted
+             Atriplex garrettii Rydb.-accepted
+             Atriplex glabriuscula Edmondston-accepted
+             Atriplex glauca L.-accepted
+             Atriplex gmelinii C.A. Mey. ex Bong.-accepted
+             Atriplex graciliflora M.E. Jones-accepted
+             Atriplex halimus L.-accepted
+             Atriplex holocarpa F. Muell.-accepted
+             Atriplex hortensis L.-accepted
+             Atriplex hymenelytra (Torr.) S. Watson-accepted
+             Atriplex klebergorum M.C. Johnst.-accepted
+             Atriplex laciniata L.-accepted
+             Atriplex lampa (Moq.) Gillies ex Small-accepted
+             Atriplex lentiformis (Torr.) S. Watson-accepted
+             Atriplex leptocarpa F. Muell.-accepted
+             Atriplex leucoclada Boiss.-accepted
+             Atriplex leucophylla (Moq.) D. Dietr.-accepted
+             Atriplex lindleyi Moq.-accepted
+             Atriplex linearis S. Watson-accepted
+             Atriplex littoralis L.-accepted
+             Atriplex malvana Aellen & Sauvage-accepted
+             Atriplex matamorensis A. Nelson-accepted
+             Atriplex maximowicziana Makino-accepted
+             Atriplex micrantha Ledeb.-accepted
+             Atriplex mucronata Raf.-accepted
+             Atriplex muelleri Benth.-accepted
+             Atriplex nudicaulis Boguslaw-accepted
+             Atriplex nummularia Lindl.-accepted
+             Atriplex oblongifolia Waldst. & Kit.-accepted
+             Atriplex obovata Moq.-accepted
+             Atriplex pacifica A. Nelson-accepted
+             Atriplex paludosa R. Br.-accepted
+             Atriplex parishii S. Watson-accepted
+             Atriplex parryi S. Watson-accepted
+             Atriplex patula L.-accepted
+             Atriplex phyllostegia (Torr. ex S. Watson) S. Watson-accepted
+             Atriplex polycarpa (Torr.) S. Watson-accepted
+             Atriplex portulacoides L.-accepted
+             Atriplex powellii S. Watson-accepted
+             Atriplex prostrata Boucher ex DC.-accepted
+             Atriplex pseudocampanulata Aellen-accepted
+             Atriplex pusilla (Torr. ex S. Watson) S. Watson-accepted
+             Atriplex repanda Phil.-accepted
+             Atriplex rhagodioides F. Muell.-accepted
+             Atriplex rosea L.-accepted
+             Atriplex saccaria S. Watson-accepted
+             Atriplex semibaccata R. Br.-accepted
+             Atriplex serenana A. Nelson ex Abrams-accepted
+             Atriplex sibirica L.-accepted
+             Atriplex spinifera J.F. Macbr.-accepted
+             Atriplex spongiosa F. Muell.-accepted
+             Atriplex suberecta I. Verd.-accepted
+             Atriplex tatarica L.-accepted
+             Atriplex torreyi (S. Watson) S. Watson-accepted
+             Atriplex truncata (Torr. ex S. Watson) A. Gray-accepted
+             Atriplex tularensis Coville-accepted
+             Atriplex undulata (Moq.) D. Dietr.-accepted
+             Atriplex verrucifera M. Bieb.-accepted
+             Atriplex vesicaria Heward ex Benth.-accepted
+             Atriplex watsonii A. Nelson ex Abrams-accepted
+             Atriplex wolfii S. Watson-accepted
+             Atriplex wrightii S. Watson-accepted
+             Atriplex X neomexicana Standl. (pro. sp.)-accepted
+             Atriplex X odontoptera Rydb. (pro. sp.)-accepted
+             Austrocactus bertinii (Cels ex Hérincq) Britton & Rose-accepted
+             Austrocactus philippii (Regel & Schmidt) Buxb.-accepted
+             Austrocactus spiniflorus (Phil.) F. Ritter-accepted
+             Austrocylindropuntia cylindrica (Lam.) Backeb.-accepted
+             Austrocylindropuntia floccosa (Salm-Dyck) F. Ritter-accepted
+             Austrocylindropuntia lagopus (K. Schum.) I. Crook, J. Arnold & M. Lowry-accepted
+             Austrocylindropuntia pachypus (K. Schum.) Backeb.-accepted
+             Austrocylindropuntia shaferi (Britton & Rose) Backeb.-accepted
+             Austrocylindropuntia subulata (Muehlenpf.) Backeb.-accepted
+             Austrocylindropuntia verschaffeltii (Cels ex F.A.C. Weber) Backeb.-accepted
+             Austrocylindropuntia vestita (Salm-Dyck) Backeb.-accepted
+             Avonia albissima (Marloth) G.D. Rowley-accepted
+             Avonia dinteri (Schinz) G.D. Rowley-accepted
+             Avonia gariepensis G. Will.-accepted
+             Avonia herreana (Poelln.) G.D. Rowley-accepted
+             Avonia mallei G. Will.-accepted
+             Avonia papyracea (E. Mey. ex Sond.) G.D. Rowley-accepted
+             Avonia perplexa G. Will.-accepted
+             Avonia prominens (G. Will.) G. Will.-accepted
+             Avonia quinaria (E. Mey. ex Fenzl) G.D. Rowley-accepted
+             Avonia recurvata (Schönland) G.D. Rowley-accepted
+             Avonia rhodesica (N.E. Br.) G.D. Rowley-accepted
+             Avonia ruschii (Dinter & Poelln.) G.D. Rowley-accepted
+             Avonia ustulata (E. Mey. ex Fenzl) G.D. Rowley-accepted
+             Avonia vanthielii G. Will.-accepted
+             Avonia variabilis (Poelln.) G. Will.-accepted
+             Axyris amaranthoides L.-accepted
+             Aztekium hintonii Glass & W.A. Fitz Maur.-accepted
+             Aztekium ritteri (Boed.) Boed.-accepted
+             Basella alba L.-accepted
+             Bassia hirsuta (L.) Asch.-accepted
+             Bassia hyssopifolia (Pall.) Kuntze-accepted
+             Bergerocactus emoryi (Engelm.) Britton & Rose-accepted
+             Beta lomatogona Fisch. & C.A. Mey.-accepted
+             Beta nana Boiss. & Heldr.-accepted
+             Beta patula Aiton-accepted
+             Beta procumbens C. Sm.-accepted
+             Beta trigyna Waldst. & Kit.-accepted
+             Beta vulgaris L.-accepted
+             Bistorta bistortoides (Pursh) Small-accepted
+             Bistorta officinalis Delarbre-accepted
+             Bistorta plumosa (Small) Greene-accepted
+             Bistorta vivipara (L.) Delarbre-accepted
+             Blossfeldia liliputana Werderm.-accepted
+             Blutaparon portulacoides (A. St.-Hil.) Mears-accepted
+             Blutaparon vermiculare (L.) Mears-accepted
+             Boerhavia acutifolia (Choisy) J.W. Moore-accepted
+             Boerhavia anisophylla Torr.-accepted
+             Boerhavia ciliata Brandegee-accepted
+             Boerhavia coccinea Mill.-accepted
+             Boerhavia coulteri (Hook. f.) S. Watson-accepted
+             Boerhavia diffusa L.-accepted
+             Boerhavia erecta L.-accepted
+             Boerhavia gracillima Heimerl-accepted
+             Boerhavia herbstii Fosberg-accepted
+             Boerhavia linearifolia A. Gray-accepted
+             Boerhavia megaptera Standl.-accepted
+             Boerhavia pterocarpa S. Watson-accepted
+             Boerhavia purpurascens A. Gray-accepted
+             Boerhavia repens L.-accepted
+             Boerhavia spicata Choisy-accepted
+             Boerhavia tetrandra G. Forst.-accepted
+             Boerhavia torreyana (S. Watson) Standl.-accepted
+             Boerhavia triquetra S. Watson-accepted
+             Boerhavia wrightii A. Gray-accepted
+             Bougainvillea glabra Choisy-accepted
+             Bougainvillea spectabilis Willd.-accepted
+             Brachycereus nesioticus (K. Schum.) Backeb.-accepted
+             Brasilicereus markgrafii Backeb. & Voll-accepted
+             Brasilicereus phaeacanthus (Gürke) Backeb.-accepted
+             Brasiliopuntia brasiliensis (Willd.) A. Berger-accepted
+             Braunsia apiculata (Kensit) L. Bolus-accepted
+             Browningia altissima (F. Ritter) Buxb.-accepted
+             Browningia amstutziae (Rauh & Backeb.) Hutchison ex Krainz-accepted
+             Browningia candelaris (Meyen) Britton & Rose-accepted
+             Browningia chlorocarpa (Kunth) W.T. Marshall-accepted
+             Browningia columnaris F. Ritter-accepted
+             Browningia hertlingiana (Backeb.) Buxb.-accepted
+             Browningia microsperma (Werderm. & Backeb.) W.T. Marshall-accepted
+             Browningia pilleifera (F. Ritter) Hutchison-accepted
+             Brunnichia ovata (Walter) Shinners-accepted
+             Calandrinia breweri S. Watson-accepted
+             Calandrinia ciliata (Ruiz & Pav.) DC.-accepted
+             Calligonum aphyllum (Pall.) Gürke-accepted
+             Calligonum caput-medusae Schrenk-accepted
+             Calligonum leucocladum (Schrenk) Bunge-accepted
+             Calligonum microcarpum I.G. Borshch.-accepted
+             Calymmanthium substerile F. Ritter-accepted
+             Camphorosma monspeliaca L.-accepted
+             Cardionema ramosissimum (Weinm.) A. Nelson & J.F. Macbr.-accepted
+             Carnegiea gigantea (Engelm.) Britton & Rose-accepted
+             Carpobrotus acinaciformis (L.) L. Bolus-accepted
+             Carpobrotus chilensis (Molina) N.E. Br.-accepted
+             Carpobrotus edulis (L.) N.E. Br.-accepted
+             Castellanosia caineana Cárdenas-accepted
+             Celosia argentea L.-accepted
+             Celosia cristata L.-accepted
+             Celosia nitida Vahl-accepted
+             Celosia palmeri S. Watson-accepted
+             Celosia trigyna L.-accepted
+             Celosia virgata Jacq.-accepted
+             Centrostachys aquatica (R. Br.) Wall.-accepted
+             Centrostegia thurberi A. Gray ex Benth.-accepted
+             Cephalocereus apicicephalium E.Y. Dawson-accepted
+             Cephalocereus columna-trajani (Karw.) K. Schum.-accepted
+             Cephalocereus senilis (Haw.) Pfeiff.-accepted
+             Cerastium aleuticum Hultén-accepted
+             Cerastium alpinum L.-accepted
+             Cerastium arcticum Lange-accepted
+             Cerastium arvense L.-accepted
+             Cerastium axillare Correll-accepted
+             Cerastium beeringianum Cham. & Schltdl.-accepted
+             Cerastium bialynickii Tolm.-accepted
+             Cerastium biebersteinii DC.-accepted
+             Cerastium brachypetalum Pers.-accepted
+             Cerastium brachypodum (Engelm. ex A. Gray) B.L. Rob.-accepted
+             Cerastium cerastoides (L.) Britton-accepted
+             Cerastium dichotomum L.-accepted
+             Cerastium diffusum Pers.-accepted
+             Cerastium dubium (Bast.) Guépin-accepted
+             Cerastium fastigiatum Greene-accepted
+             Cerastium fischerianum Ser.-accepted
+             Cerastium fontanum Baumg.-accepted
+             Cerastium glomeratum Thuill.-accepted
+             Cerastium gracile Dufour-accepted
+             Cerastium maximum L.-accepted
+             Cerastium nigrescens (H.C. Watson) Edmondston ex H.C. Watson-accepted
+             Cerastium nutans Raf.-accepted
+             Cerastium pauciflorum Steven ex Ser.-accepted
+             Cerastium pumilum W. Curtis-accepted
+             Cerastium regelii Ostenf.-accepted
+             Cerastium semidecandrum L.-accepted
+             Cerastium siculum Guss.-accepted
+             Cerastium terrae-novae Fernald & Wiegand-accepted
+             Cerastium texanum Britton-accepted
+             Cerastium tomentosum L.-accepted
+             Cerastium velutinum Raf.-accepted
+             Cerastium viride A. Heller-accepted
+             Ceratostigma plumbaginoides Bunge-accepted
+             Ceratostigma willmottianum Stapf-accepted
+             Cereus aethiops Haw.-accepted
+             Cereus albicaulis (Britton & Rose) Leutzelb.-accepted
+             Cereus argentinensis Britton & Rose-accepted
+             Cereus bicolor Rizzini & A. Mattos-accepted
+             Cereus estevesii P.J. Braun-accepted
+             Cereus fernambucensis Lem.-accepted
+             Cereus fricii Backeb.-accepted
+             Cereus hankeanus F.A.C. Weber-accepted
+             Cereus hexagonus (L.) Mill.-accepted
+             Cereus hildmannianus K. Schum.-accepted
+             Cereus horrispinus Backeb.-accepted
+             Cereus insularis Hemsl.-accepted
+             Cereus jamacaru DC.-accepted
+             Cereus kroenleinii N.P. Taylor-accepted
+             Cereus lamprospermus K. Schum.-accepted
+             Cereus lanosus (F. Ritter) P.J. Braun & Esteves-accepted
+             Cereus mirabella N.P. Taylor-accepted
+             Cereus mortensenii (Croizat) D.R. Hunt & N.P. Taylor-accepted
+             Cereus phatnospermus K. Schum.-accepted
+             Cereus pierre-braunianus Esteves-accepted
+             Cereus repandus (L.) Mill.-accepted
+             Cereus saddianus (Rizzini & A. Mattos) P.J. Braun-accepted
+             Cereus spegazzinii F.A.C. Weber-accepted
+             Cereus stenogonus K. Schum.-accepted
+             Cereus trigonodendron K. Schum. ex Vaupel-accepted
+             Cereus vargasianus Cárdenas-accepted
+             Chamissoa altissima (Jacq.) Kunth-accepted
+             Charpentiera australis Sohmer-accepted
+             Charpentiera densiflora Sohmer-accepted
+             Charpentiera elliptica (Hillebr.) A. Heller-accepted
+             Charpentiera obovata Gaudich.-accepted
+             Charpentiera ovata Gaudich.-accepted
+             Charpentiera tomentosa Sohmer-accepted
+             Cheiridopsis inaequalis L. Bolus-accepted
+             Chenopodium albescens Small-accepted
+             Chenopodium album L.-accepted
+             Chenopodium atrovirens Rydb.-accepted
+             Chenopodium berlandieri Moq.-accepted
+             Chenopodium bonus-henricus L.-accepted
+             Chenopodium californicum (S. Watson) S. Watson-accepted
+             Chenopodium capitatum (L.) Ambrosi-accepted
+             Chenopodium carnosulum Moq.-accepted
+             Chenopodium chenopodioides (L.) Aellen-accepted
+             Chenopodium cycloides A. Nelson-accepted
+             Chenopodium desiccatum A. Nelson-accepted
+             Chenopodium ficifolium Sm.-accepted
+             Chenopodium foggii Wahl-accepted
+             Chenopodium foliosum (Moench) Asch.-accepted
+             Chenopodium fremontii S. Watson-accepted
+             Chenopodium gaudichaudianum (Moq.) Paul G. Wilson-accepted
+             Chenopodium giganteum D. Don-accepted
+             Chenopodium glaucum L.-accepted
+             Chenopodium hians Standl.-accepted
+             Chenopodium hircinum Schrad.-accepted
+             Chenopodium incanum (S. Watson) A. Heller-accepted
+             Chenopodium leptophyllum (Moq.) Nutt. ex S. Watson-accepted
+             Chenopodium macrospermum Hook. f.-accepted
+             Chenopodium murale L.-accepted
+             Chenopodium neomexicanum Standl.-accepted
+             Chenopodium nevadense Standl.-accepted
+             Chenopodium oahuense (Meyen) Aellen-accepted
+             Chenopodium opulifolium Schrad. ex W.D.J. Koch & Ziz-accepted
+             Chenopodium pallescens Standl.-accepted
+             Chenopodium pallidicaule Aellen-accepted
+             Chenopodium polyspermum L.-accepted
+             Chenopodium pratericola Rydb.-accepted
+             Chenopodium quinoa Willd.-accepted
+             Chenopodium rubrum L.-accepted
+             Chenopodium simplex (Torr.) Raf.-accepted
+             Chenopodium standleyanum Aellen-accepted
+             Chenopodium strictum Roth-accepted
+             Chenopodium subglabrum (S. Watson) A. Nelson-accepted
+             Chenopodium urbicum L.-accepted
+             Chenopodium vulvaria L.-accepted
+             Chenopodium watsonii A. Nelson-accepted
+             Chenopodium X variabile Aellen-accepted
+             Chorizanthe angustifolia Nutt.-accepted
+             Chorizanthe biloba Goodman-accepted
+             Chorizanthe blakleyi Hardham-accepted
+             Chorizanthe brevicornu Torr.-accepted
+             Chorizanthe breweri S. Watson-accepted
+             Chorizanthe clevelandii Parry-accepted
+             Chorizanthe corrugata (Torr.) Torr. & A. Gray-accepted
+             Chorizanthe cuspidata S. Watson-accepted
+             Chorizanthe diffusa Benth.-accepted
+             Chorizanthe douglasii Benth.-accepted
+             Chorizanthe fimbriata Nutt.-accepted
+             Chorizanthe howellii Goodman-accepted
+             Chorizanthe leptotheca Goodman-accepted
+             Chorizanthe membranacea Benth.-accepted
+             Chorizanthe obovata Goodman-accepted
+             Chorizanthe orcuttiana Parry-accepted
+             Chorizanthe palmeri S. Watson-accepted
+             Chorizanthe parryi S. Watson-accepted
+             Chorizanthe polygonoides Torr. & A. Gray-accepted
+             Chorizanthe procumbens Nutt.-accepted
+             Chorizanthe pungens Benth.-accepted
+             Chorizanthe rectispina Goodman-accepted
+             Chorizanthe rigida (Torr.) Torr. & A. Gray-accepted
+             Chorizanthe robusta Parry-accepted
+             Chorizanthe spinosa S. Watson-accepted
+             Chorizanthe staticoides Benth.-accepted
+             Chorizanthe stellulata Benth.-accepted
+             Chorizanthe uniaristata Torr. & A. Gray-accepted
+             Chorizanthe valida S. Watson-accepted
+             Chorizanthe ventricosa Goodman-accepted
+             Chorizanthe watsonii Torr. & A. Gray-accepted
+             Chorizanthe wheeleri S. Watson-accepted
+             Chorizanthe xanti S. Watson-accepted
+             Cipocereus bradei (Backeb. & Voll) Barthlott & N.P. Taylor-accepted
+             Cipocereus crassisepalus (Buining & Brederoo) Barthlott & N.P. Taylor-accepted
+             Cipocereus laniflorus N.P. Taylor & Zappi-accepted
+             Cipocereus minensis (Werderm.) F. Ritter-accepted
+             Cipocereus pusilliflorus (F. Ritter) Barthlott & N.P. Taylor-accepted
+             Cistanthe ambigua (S. Watson) Hershk.-accepted
+             Cistanthe maritima (Nutt.) Hershk.-accepted
+             Cistanthe monandra (Nutt.) Hershk.-accepted
+             Cistanthe monosperma (Greene) Hershk.-accepted
+             Cistanthe parryi (A. Gray) Hershk.-accepted
+             Cistanthe pulchella (Eastw.) Hershk.-accepted
+             Cistanthe pygmaea (Parish ex Rydb.) Hershk.-accepted
+             Cistanthe quadripetala (S. Watson) Hershk.-accepted
+             Cistanthe rosea (S. Watson) Hershk.-accepted
+             Cistanthe tweedyi (A. Gray) Hershk.-accepted
+             Cistanthe umbellata (Torr.) Hershk.-accepted
+             Claytonia acutifolia Pall. ex Schult.-accepted
+             Claytonia arctica Adams-accepted
+             Claytonia arenicola L.F. Hend.-accepted
+             Claytonia caroliniana Michx.-accepted
+             Claytonia cordifolia S. Watson-accepted
+             Claytonia exigua Torr. & A. Gray-accepted
+             Claytonia gypsophiloides Fisch. & C.A. Mey.-accepted
+             Claytonia lanceolata Pall. ex Pursh-accepted
+             Claytonia megarhiza (A. Gray) Parry ex S. Watson-accepted
+             Claytonia multiscapa Rydb.-accepted
+             Claytonia nevadensis S. Watson-accepted
+             Claytonia ogilviensis McNeill-accepted
+             Claytonia ozarkensis John M. Mill. & K.L. Chambers-accepted
+             Claytonia palustris Swanson & Kelley-accepted
+             Claytonia parviflora Douglas ex Hook.-accepted
+             Claytonia perfoliata Donn ex Willd.-accepted
+             Claytonia rosea Rydb.-accepted
+             Claytonia rubra (Howell) Tidestr.-accepted
+             Claytonia sarmentosa C.A. Mey.-accepted
+             Claytonia saxosa Brandegee-accepted
+             Claytonia scammaniana Hultén-accepted
+             Claytonia sibirica L.-accepted
+             Claytonia tuberosa Pall. ex Willd.-accepted
+             Claytonia umbellata S. Watson-accepted
+             Claytonia virginica L.-accepted
+             Claytonia washingtoniana (Suksd.) Suksd.-accepted
+             Cleistocactus acanthurus (Vaupel) D.R. Hunt-accepted
+             Cleistocactus ayopayanus Cárdenas-accepted
+             Cleistocactus baumannii (Lem.) Lem.-accepted
+             Cleistocactus brookeae Cárdenas-accepted
+             Cleistocactus buchtienii Backeb.-accepted
+             Cleistocactus candelilla Cárdenas-accepted
+             Cleistocactus chrysocephalus (F. Ritter) Mottram-accepted
+             Cleistocactus fieldianus (Britton & Rose) D.R. Hunt-accepted
+             Cleistocactus hoffmannii G.J. Charles-accepted
+             Cleistocactus hyalacanthus (K. Schum.) Rol.-Goss.-accepted
+             Cleistocactus hystrix (Rauh & Backeb.) Ostolaza-accepted
+             Cleistocactus icosagonus (Kunth) F.A.C. Weber-accepted
+             Cleistocactus jajoanus (Backeb.) G.J. Charles-accepted
+             Cleistocactus laniceps (K. Schum.) Rol.-Goss.-accepted
+             Cleistocactus leonensis Madsen-accepted
+             Cleistocactus longiserpens Leuenb.-accepted
+             Cleistocactus luribayensis Cárdenas-accepted
+             Cleistocactus morawetzianus Backeb.-accepted
+             Cleistocactus neoroezlii (F. Ritter) Buxb.-accepted
+             Cleistocactus pachycladus (Rauh & Backeb.) Ostolaza-accepted
+             Cleistocactus parapetiensis Cárdenas-accepted
+             Cleistocactus parviflorus (K. Schum.) Rol.-Goss.-accepted
+             Cleistocactus plagiostoma (Vaupel) D.R. Hunt-accepted
+             Cleistocactus pungens F. Ritter-accepted
+             Cleistocactus pycnacanthus (Rauh & Backeb.) Backeb.-accepted
+             Cleistocactus reae Cárdenas-accepted
+             Cleistocactus ritteri Backeb.-accepted
+             Cleistocactus samaipatanus (Cárdenas) D.R. Hunt-accepted
+             Cleistocactus sepium (Kunth) F.A.C. Weber-accepted
+             Cleistocactus sextonianus (Backeb.) D.R. Hunt-accepted
+             Cleistocactus smaragdiflorus (F.A.C. Weber) Britton & Rose-accepted
+             Cleistocactus strausii (Heese) Backeb.-accepted
+             Cleistocactus sulcifer (Rauh & Backeb.) Leuenb.-accepted
+             Cleistocactus tenuiserpens Rauh & Backeb.-accepted
+             Cleistocactus tominensis (Weing.) Backeb.-accepted
+             Cleistocactus varispinus F. Ritter-accepted
+             Cleistocactus winteri D.R. Hunt-accepted
+             Cleistocactus xylorhizus (F. Ritter) Ostolaza-accepted
+             Coccoloba buchii O.C. Schmidt-accepted
+             Coccoloba costata C. Wright ex Sauvalle-accepted
+             Coccoloba diversifolia Jacq.-accepted
+             Coccoloba krugii Lindau-accepted
+             Coccoloba microstachya Willd.-accepted
+             Coccoloba pallida C. Wright ex Griseb.-accepted
+             Coccoloba pubescens L.-accepted
+             Coccoloba pyrifolia Desf.-accepted
+             Coccoloba rugosa Desf.-accepted
+             Coccoloba sintenisii Urb. ex Lindau-accepted
+             Coccoloba swartzii Meisn.-accepted
+             Coccoloba tenuifolia L.-accepted
+             Coccoloba uvifera (L.) L.-accepted
+             Coccoloba venosa L.-accepted
+             Coleocephalocereus aureus F. Ritter-accepted
+             Coleocephalocereus braunii Diers & Esteves-accepted
+             Coleocephalocereus buxbaumianus Buining-accepted
+             Coleocephalocereus diersianus P.J. Braun & Esteves-accepted
+             Coleocephalocereus fluminensis (Miq.) Backeb.-accepted
+             Coleocephalocereus goebelianus (Vaupel) Buining & Brederoo-accepted
+             Coleocephalocereus pluricostatus Buining & Brederoo-accepted
+             Coleocephalocereus purpureus (Buining & Brederoo) F. Ritter-accepted
+             Commicarpus scandens (L.) Standl.-accepted
+             Conicosia elongata (Haw.) Schwantes-accepted
+             Conicosia pugioniformis (L.) N.E. Br.-accepted
+             Consolea corallicola Small-accepted
+             Consolea macracantha (Griseb.) A. Berger-accepted
+             Consolea moniliformis (Haw. ex Steud.) A. Berger-accepted
+             Consolea rubescens (Salm-Dyck ex DC.) Lem.-accepted
+             Consolea spinosissima Lem.-accepted
+             Copiapoa ahremephiana N.P. Taylor & G.J. Charles-accepted
+             Copiapoa calderiana F. Ritter-accepted
+             Copiapoa cinerascens (Salm-Dyck) Britton & Rose-accepted
+             Copiapoa cinerea (Phil.) Britton & Rose-accepted
+             Copiapoa coquimbana (Karw. ex Rümpler) Britton & Rose-accepted
+             Copiapoa dealbata F. Ritter-accepted
+             Copiapoa decorticans N.P. Taylor & G.J. Charles-accepted
+             Copiapoa echinoides (Lem.) Britton & Rose-accepted
+             Copiapoa esmeraldana F. Ritter-accepted
+             Copiapoa fiedleriana (K. Schum.) Backeb.-accepted
+             Copiapoa grandiflora F. Ritter-accepted
+             Copiapoa humilis (Phil.) Hutchison-accepted
+             Copiapoa hypogaea F. Ritter-accepted
+             Copiapoa krainziana F. Ritter-accepted
+             Copiapoa longistaminea F. Ritter-accepted
+             Copiapoa marginata (Salm-Dyck) Britton & Rose-accepted
+             Copiapoa megarhiza Britton & Rose-accepted
+             Copiapoa montana F. Ritter-accepted
+             Copiapoa serpentisulcata F. Ritter-accepted
+             Copiapoa solaris (F. Ritter) F. Ritter-accepted
+             Copiapoa taltalensis (Werderm.) Looser-accepted
+             Corispermum americanum (Nutt.) Nutt.-accepted
+             Corispermum hookeri Mosyakin-accepted
+             Corispermum hyssopifolium L.-accepted
+             Corispermum navicula Mosyakin-accepted
+             Corispermum nitidum Kit. ex Schult.-accepted
+             Corispermum ochotense Ignatov-accepted
+             Corispermum pacificum Mosyakin-accepted
+             Corispermum pallasii Steven-accepted
+             Corispermum pallidum Mosyakin-accepted
+             Corispermum villosum Rydb.-accepted
+             Corispermum welshii Mosyakin-accepted
+             Corrigiola litoralis L.-accepted
+             Corryocactus apiciflorus (Vaupel) Hutchison-accepted
+             Corryocactus aureus (F.A.C. Weber) Hutchison-accepted
+             Corryocactus ayacuchoensis Rauh & Backeb.-accepted
+             Corryocactus brachypetalus (Vaupel) Britton & Rose-accepted
+             Corryocactus brevistylus (K. Schum. ex Vaupel) Britton & Rose-accepted
+             Corryocactus chachapoyensis Ochoa & Backeb. ex D.R. Hunt-accepted
+             Corryocactus erectus (Backeb.) F. Ritter-accepted
+             Corryocactus melanotrichus (K. Schum.) Britton & Rose-accepted
+             Corryocactus quadrangularis (Rauh & Backeb.) F. Ritter-accepted
+             Corryocactus serpens F. Ritter-accepted
+             Corryocactus squarrosus (Vaupel) Hutchison-accepted
+             Corryocactus tarijensis Cárdenas-accepted
+             Corynopuntia bulbispina (Engelm.) F.M. Knuth-accepted
+             Corynopuntia invicta (Brandegee) F.M. Knuth-accepted
+             Corynopuntia marenae (S.H. Parsons) M.P. Griff.-accepted
+             Corynopuntia moelleri (A. Berger) F.M. Knuth-accepted
+             Corynopuntia reflexispina (Wiggins & Rollins) Backeb.-accepted
+             Corynopuntia vilis (Rose) F.M. Knuth-accepted
+             Coryphantha clavata (Scheidw.) Backeb.-accepted
+             Coryphantha compacta (Engelm.) Britton & Rose-accepted
+             Coryphantha cornifera (DC.) Lem.-accepted
+             Coryphantha delaetiana (Quehl) A. Berger-accepted
+             Coryphantha delicata L. Bremer-accepted
+             Coryphantha difficilis (Quehl) Orcutt-accepted
+             Coryphantha durangensis (Runge ex K. Schum.) Britton & Rose-accepted
+             Coryphantha echinoidea (Quehl) Britton & Rose-accepted
+             Coryphantha echinus (Engelm.) Orcutt-accepted
+             Coryphantha elephantidens (Lem.) Lem.-accepted
+             Coryphantha erecta (Lem.) Lem.-accepted
+             Coryphantha georgii Boed.-accepted
+             Coryphantha glanduligera (Otto & A. Dietr.) Lem.-accepted
+             Coryphantha glassii Dicht & A. Lüthy-accepted
+             Coryphantha gracilis L. Bremer & A.B. Lau-accepted
+             Coryphantha hintoniorum Dicht & A. Lüthy-accepted
+             Coryphantha jalpanensis Buchenau-accepted
+             Coryphantha kracikii Halda, Chalupa & Kupcák-accepted
+             Coryphantha longicornis Boed.-accepted
+             Coryphantha macromeris (Engelm.) Lem.-accepted
+             Coryphantha maiz-tablasensis Fritz Schwartz ex Backeb.-accepted
+             Coryphantha neglecta L. Bremer-accepted
+             Coryphantha nickelsiae (K. Brandegee) Britton & Rose-accepted
+             Coryphantha octacantha (DC.) Britton & Rose-accepted
+             Coryphantha odorata Boed.-accepted
+             Coryphantha ottonis (Pfeiff.) Lem.-accepted
+             Coryphantha pallida Britton & Rose-accepted
+             Coryphantha poselgeriana (A. Dietr.) Britton & Rose-accepted
+             Coryphantha potosiana (Jacobi) Glass & R.A. Foster-accepted
+             Coryphantha pseudoechinus Boed.-accepted
+             Coryphantha pseudonickelsae Backeb.-accepted
+             Coryphantha pulleineana (Backeb.) Glass-accepted
+             Coryphantha pycnacantha (Mart.) Lem.-accepted
+             Coryphantha ramillosa Cutak-accepted
+             Coryphantha recurvata (Engelm.) Britton & Rose-accepted
+             Coryphantha retusa (Pfeiff.) Britton & Rose-accepted
+             Coryphantha robustispina (A. Schott ex Engelm.) Britton & Rose-accepted
+             Coryphantha salinensis (Poselg.) Dicht & A. Lüthy-accepted
+             Coryphantha sulcata (Engelm.) Britton & Rose-accepted
+             Coryphantha tripugionacantha A.B. Lau-accepted
+             Coryphantha vaupeliana Boed.-accepted
+             Coryphantha vogtherriana Werderm. & Boed.-accepted
+             Coryphantha werdermannii Boed.-accepted
+             Coryphantha wohlschlageri Holzeis-accepted
+             Cumulopuntia boliviana (Salm-Dyck) F. Ritter-accepted
+             Cumulopuntia chichensis (Cárdenas) E.F. Anderson-accepted
+             Cumulopuntia rossiana (Heinrich & Backeb.) F. Ritter-accepted
+             Cumulopuntia sphaerica (C.F. Först.) E.F. Anderson-accepted
+             Cyathula prostrata (L.) Blume-accepted
+             Cycloloma atriplicifolium (Spreng.) J.M. Coult.-accepted
+             Cylindropuntia abyssi (Hester) Backeb.-accepted
+             Cylindropuntia acanthocarpa (Engelm. & J.M. Bigelow) F.M. Knuth-accepted
+             Cylindropuntia alcahes (F.A.C. Weber) F.M. Knuth-accepted
+             Cylindropuntia anteojoensis (Pinkava) E.F. Anderson-accepted
+             Cylindropuntia arbuscula (Engelm.) F.M. Knuth-accepted
+             Cylindropuntia bigelovii (Engelm.) F.M. Knuth-accepted
+             Cylindropuntia californica (Torr. & A. Gray) F.M. Knuth-accepted
+             Cylindropuntia caribaea (Britton & Rose) F.M. Knuth-accepted
+             Cylindropuntia cholla (F.A.C. Weber) F.M. Knuth-accepted
+             Cylindropuntia davisii (Engelm. & J.M. Bigelow) F.M. Knuth-accepted
+             Cylindropuntia echinocarpa (Engelm. & J.M. Bigelow) F.M. Knuth-accepted
+             Cylindropuntia fulgida (Engelm.) F.M. Knuth-accepted
+             Cylindropuntia ganderi (C.B. Wolf) Rebman & Pinkava-accepted
+             Cylindropuntia hystrix (Griseb.) Areces-accepted
+             Cylindropuntia imbricata (Haw.) F.M. Knuth-accepted
+             Cylindropuntia kleiniae (DC.) F.M. Knuth-accepted
+             Cylindropuntia leptocaulis (DC.) F.M. Knuth-accepted
+             Cylindropuntia lindsayi (Rebman) Rebman-accepted
+             Cylindropuntia molesta (Brandegee) F.M. Knuth-accepted
+             Cylindropuntia munzii (C.B. Wolf) Backeb.-accepted
+             Cylindropuntia pallida (Rose) F.M. Knuth-accepted
+             Cylindropuntia prolifera (Engelm.) F.M. Knuth-accepted
+             Cylindropuntia ramosissima (Engelm.) F.M. Knuth-accepted
+             Cylindropuntia rosea (DC.) Backeb.-accepted
+             Cylindropuntia sanfelipensis (Rebman) Rebman-accepted
+             Cylindropuntia santamaria (E.M. Baxter) Rebman-accepted
+             Cylindropuntia spinosior (Engelm.) F.M. Knuth-accepted
+             Cylindropuntia tesajo (Engelm. ex J.M. Coult.) F.M. Knuth-accepted
+             Cylindropuntia thurberi (Engelm.) F.M. Knuth-accepted
+             Cylindropuntia tunicata (Lehm.) F.M. Knuth-accepted
+             Cylindropuntia versicolor (Engelm. ex J.M. Coult.) F.M. Knuth-accepted
+             Cylindropuntia whipplei (Engelm. & J.M. Bigelow) F.M. Knuth-accepted
+             Cylindropuntia wolfii (L.D. Benson) M.A. Baker-accepted
+             Cylindropuntia X congesta (Griffiths) F.M. Knuth-accepted
+             Cylindropuntia X deserta (Griffiths) Pinkava-accepted
+             Cylindropuntia X fosbergii (C.B. Wolf) Rebman, M.A. Baker & Pinkava-accepted
+             Cylindropuntia X kelvinensis (V.E. Grant & K.A. Grant) P.V. Heath-accepted
+             Cylindropuntia X multigeniculata (Clokey) Backeb.-accepted
+             Cylindropuntia X neoarbuscula (Griffiths) Backeb. & F.M. Knuth-accepted
+             Cylindropuntia X tetracantha (Toumey) F.M. Knuth-accepted
+             Cylindropuntia X viridiflora (Britton & Rose) F.M. Knuth-accepted
+             Cylindropuntia X vivipara (Rose) F.M. Knuth-accepted
+             Cyphomeris crassifolia (Standl.) Standl.-accepted
+             Cyphomeris gypsophiloides (M. Martens & Galeotti) Standl.-accepted
+             Cypselea humifusa Turpin-accepted
+             Dedeckera eurekensis Reveal & J.T. Howell-accepted
+             Deeringia amaranthoides (Lam.) Merr.-accepted
+             Delosperma litorale (Kensit) L. Bolus-accepted
+             Dendrocereus nudiflorus (Engelm. ex Sauvalle) Britton & Rose-accepted
+             Dendrocereus undulosus (DC.) Britton & Rose-accepted
+             Denmoza rhodacantha (Salm-Dyck) Britton & Rose-accepted
+             Dianthus arenarius L.-accepted
+             Dianthus armeria L.-accepted
+             Dianthus barbatus L.-accepted
+             Dianthus carthusianorum L.-accepted
+             Dianthus caryophyllus L.-accepted
+             Dianthus chinensis L.-accepted
+             Dianthus deltoides L.-accepted
+             Dianthus fragrans Adams-accepted
+             Dianthus gratianopolitanus Vill.-accepted
+             Dianthus plumarius L.-accepted
+             Dianthus repens Willd.-accepted
+             Dianthus seguieri Vill.-accepted
+             Dianthus sternbergii Sieber ex Capelli-accepted
+             Dianthus superbus L.-accepted
+             Dianthus sylvestris Wulfen-accepted
+             Digera muricata (L.) Mart.-accepted
+             Dionaea muscipula J. Ellis-accepted
+             Discocactus bahiensis Britton & Rose-accepted
+             Discocactus boliviensis Backeb.-accepted
+             Discocactus catingicola Buining & Brederoo-accepted
+             Discocactus diersianus Esteves-accepted
+             Discocactus ferricola Buining & Brederoo-accepted
+             Discocactus hartmannii (K. Schum.) Britton & Rose-accepted
+             Discocactus heptacanthus (Barb. Rodr.) Britton & Rose-accepted
+             Discocactus horstii Buining & Brederoo-accepted
+             Discocactus placentiformis (Lehm.) K. Schum.-accepted
+             Discocactus pseudoinsignis N.P. Taylor & Zappi-accepted
+             Discocactus zehntneri Britton & Rose-accepted
+             Disocactus ackermannii (Haw.) Barthlott-accepted
+             Disocactus biformis (Lindl.) Lindl.-accepted
+             Disocactus eichlamii (Weing.) Britton & Rose-accepted
+             Disocactus flagelliformis (L.) Barthlott-accepted
+             Disocactus kimnachii G.D. Rowley-accepted
+             Disocactus macdougallii (Alexander) Barthlott-accepted
+             Disocactus macranthus (Alexander) Kimnach & Hutchison-accepted
+             Disocactus martianus (Zucc.) Barthlott-accepted
+             Disocactus nelsonii (Britton & Rose) Linding.-accepted
+             Disocactus phyllanthoides (DC.) Barthlott-accepted
+             Disocactus quezaltecus (Standl. & Steyerm.) Kimnach-accepted
+             Disocactus speciosus (Cav.) Barthlott-accepted
+             Disphyma crassifolium (L.) L. Bolus-accepted
+             Dodecahema leptoceras (A. Gray) Reveal & Hardham-accepted
+             Drosanthemum floribundum (Haw.) Schwantes-accepted
+             Drosanthemum hispidum (L.) Schwantes-accepted
+             Drosanthemum speciosum (Haw.) Schwantes-accepted
+             Drosera aliciae Raym.-Hamet-accepted
+             Drosera anglica Huds.-accepted
+             Drosera brevifolia Pursh-accepted
+             Drosera capensis L.-accepted
+             Drosera capillaris Poir.-accepted
+             Drosera filiformis Raf.-accepted
+             Drosera intermedia Hayne-accepted
+             Drosera linearis Goldie-accepted
+             Drosera rotundifolia L.-accepted
+             Drosera tracyi Macfarl.-accepted
+             Drosera X belezeana E.G. Camus-accepted
+             Drosera X hybrida Macfarl. (pro. sp.)-accepted
+             Drosera X linglica Kusak. ex R. Gauthier & Gervais-accepted
+             Drosera X obovata Mert. & W. Koch (pro. sp.)-accepted
+             Drosera X woodii R. Gauthier & Gervais-accepted
+             Drymaria arenarioides Humb. & Bonpl. ex Schult.-accepted
+             Drymaria cordata (L.) Willd. ex Schult.-accepted
+             Drymaria depressa Greene-accepted
+             Drymaria effusa A. Gray-accepted
+             Drymaria glandulosa Bartl.-accepted
+             Drymaria gracilis Cham. & Schltdl.-accepted
+             Drymaria laxiflora Benth.-accepted
+             Drymaria leptophylla (Cham. & Schltdl.) Fenzl ex Rohrb.-accepted
+             Drymaria molluginea (Ser.) Didr.-accepted
+             Drymaria pachyphylla Wooton & Standl.-accepted
+             Drymaria viscosa S. Watson-accepted
+             Dysphania ambrosioides (L.) Mosyakin & Clemants-accepted
+             Dysphania anthelmintica (L.) Mosyakin & Clemants-accepted
+             Dysphania aristata (L.) Mosyakin & Clemants-accepted
+             Dysphania botrys (L.) Mosyakin & Clemants-accepted
+             Dysphania carinata (R. Br.) Mosyakin & Clemants-accepted
+             Dysphania chilensis (Schrad.) Mosyakin & Clemants-accepted
+             Dysphania cristata (F. Muell.) Mosyakin & Clemants-accepted
+             Dysphania graveolens (Willd.) Mosyakin & Clemants-accepted
+             Dysphania multifida (L.) Mosyakin & Clemants-accepted
+             Dysphania plantaginella F. Muell.-accepted
+             Dysphania pumilio (R. Br.) Mosyakin & Clemants-accepted
+             Dysphania schraderiana (Schult.) Mosyakin & Clemants-accepted
+             Echinocactus grusonii Hildm.-accepted
+             Echinocactus horizonthalonius Lem.-accepted
+             Echinocactus parryi Engelm.-accepted
+             Echinocactus platyacanthus Link & Otto-accepted
+             Echinocactus polycephalus Engelm. & J.M. Bigelow-accepted
+             Echinocactus texensis Hopffer-accepted
+             Echinocereus acifer (Otto ex Salm-Dyck) Lem.-accepted
+             Echinocereus adustus Engelm.-accepted
+             Echinocereus apachensis W. Blum & Rutow-accepted
+             Echinocereus arizonicus Rose ex Orcutt-accepted
+             Echinocereus barthelowanus Britton & Rose-accepted
+             Echinocereus berlandieri (Engelm.) J.N. Haage-accepted
+             Echinocereus bonkerae Thornber & Bonker-accepted
+             Echinocereus brandegeei (J.M. Coult.) K. Schum.-accepted
+             Echinocereus bristolii W.T. Marshall-accepted
+             Echinocereus chisosensis W.T. Marshall-accepted
+             Echinocereus cinerascens (DC.) H.P. Kelsey & Dayton-accepted
+             Echinocereus coccineus Engelm.-accepted
+             Echinocereus dasyacanthus Engelm.-accepted
+             Echinocereus davisii Houghton-accepted
+             Echinocereus engelmannii (Parry ex Engelm.) Lem.-accepted
+             Echinocereus enneacanthus Engelm.-accepted
+             Echinocereus fasciculatus (Engelm. ex B.D. Jacks.) L.D. Benson-accepted
+             Echinocereus fendleri (Engelm.) Sencke ex J.N. Haage-accepted
+             Echinocereus ferreirianus H.E. Gates-accepted
+             Echinocereus freudenbergii G. Frank-accepted
+             Echinocereus grandis Britton & Rose-accepted
+             Echinocereus klapperi W. Blum-accepted
+             Echinocereus knippelianus Liebm.-accepted
+             Echinocereus laui G. Frank-accepted
+             Echinocereus ledingii Peebles-accepted
+             Echinocereus leucanthus N.P. Taylor-accepted
+             Echinocereus longisetus (Engelm.) Rümpler-accepted
+             Echinocereus mapimiensis E.F. Anderson, W.C. Hodgs. & P. Quirk-accepted
+             Echinocereus maritimus (M.E. Jones) K. Schum.-accepted
+             Echinocereus metornii G. Frank-accepted
+             Echinocereus mombergerianus G. Frank-accepted
+             Echinocereus nicholii (L.D. Benson) B.D. Parfitt-accepted
+             Echinocereus nivosus Glass & R.A. Foster-accepted
+             Echinocereus ortegae Rose-accepted
+             Echinocereus pacificus (Engelm. ex Orcutt) Britton & Rose-accepted
+             Echinocereus palmeri Britton & Rose-accepted
+             Echinocereus pamanesiorum A.B. Lau-accepted
+             Echinocereus papillosus Linke ex Rümpler-accepted
+             Echinocereus parkeri N.P. Taylor-accepted
+             Echinocereus pectinatus (Scheidw.) Engelm.-accepted
+             Echinocereus pensilis (K. Brandegee) J.A. Purpus-accepted
+             Echinocereus pentalophus (DC.) Lem.-accepted
+             Echinocereus polyacanthus Engelm.-accepted
+             Echinocereus poselgeri Lem.-accepted
+             Echinocereus primolanatus N.P. Taylor-accepted
+             Echinocereus pseudopectinatus (N.P. Taylor) N.P. Taylor-accepted
+             Echinocereus pulchellus (Mart.) Seitz-accepted
+             Echinocereus rayonesensis N.P. Taylor-accepted
+             Echinocereus reichenbachii (Terscheck ex Walp.) J.N. Haage-accepted
+             Echinocereus rigidissimus (Engelm.) J.N. Haage-accepted
+             Echinocereus russanthus D. Weniger-accepted
+             Echinocereus salm-dyckianus Scheer-accepted
+             Echinocereus santaritensis W. Blum & Rutow-accepted
+             Echinocereus scheeri (Salm-Dyck) Scheer-accepted
+             Echinocereus schereri G. Frank-accepted
+             Echinocereus schmollii (Weing.) N.P. Taylor-accepted
+             Echinocereus sciurus (K. Brandegee) Dams-accepted
+             Echinocereus scopulorum Britton & Rose-accepted
+             Echinocereus spinigemmatus A.B. Lau-accepted
+             Echinocereus stoloniferus W.T. Marshall-accepted
+             Echinocereus stramineus (Engelm.) F. Seitz-accepted
+             Echinocereus subinermis Salm-Dyck ex Scheer-accepted
+             Echinocereus triglochidiatus Engelm.-accepted
+             Echinocereus viereckii Werderm.-accepted
+             Echinocereus viridiflorus Engelm.-accepted
+             Echinocereus websterianus G.E. Linds.-accepted
+             Echinocereus X roetteri (Engelm.) Rümpler-accepted
+             Echinopsis albispinosa K. Schum.-accepted
+             Echinopsis ancistrophora Speg.-accepted
+             Echinopsis angelesiae (R. Kiesling) G.D. Rowley-accepted
+             Echinopsis arachnacantha (Buining & F. Ritter) H. Friedrich-accepted
+             Echinopsis arboricola (Kimnach) Mottram-accepted
+             Echinopsis atacamensis (Phil.) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis aurea Britton & Rose-accepted
+             Echinopsis ayopayana F. Ritter & Rausch-accepted
+             Echinopsis backebergii Werderm.-accepted
+             Echinopsis bolligeriana Mächler & Helmut Walter-accepted
+             Echinopsis breviflora (Backeb.) M. Lowry-accepted
+             Echinopsis bridgesii Salm-Dyck-accepted
+             Echinopsis caineana (Cárdenas) D.R. Hunt-accepted
+             Echinopsis calochlora K. Schum.-accepted
+             Echinopsis calorubra Cárdenas-accepted
+             Echinopsis camarguensis (Cárdenas) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis candicans (Gillies ex Salm-Dyck) D.R. Hunt-accepted
+             Echinopsis caulescens (F. Ritter) M. Lowry-accepted
+             Echinopsis chamaecereus H. Friedrich & Glaetzle-accepted
+             Echinopsis chiloensis (Colla) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis chrysantha Werderm.-accepted
+             Echinopsis chrysochete Werderm.-accepted
+             Echinopsis cinnabarina (Hook.) Labour.-accepted
+             Echinopsis clavata (F. Ritter) D.R. Hunt-accepted
+             Echinopsis coquimbana (Molina) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis cuzcoensis (Britton & Rose) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis densispina Werderm.-accepted
+             Echinopsis deserticola (Werderm.) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis famatimensis (Speg.) Werderm.-accepted
+             Echinopsis ferox (Britton & Rose) Backeb.-accepted
+             Echinopsis formosa (Pfeiff.) Jacobi ex Salm-Dyck-accepted
+             Echinopsis glauca (F. Ritter) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis haematantha (Speg.) D.R. Hunt-accepted
+             Echinopsis hahniana (Backeb.) R.S. Wallace-accepted
+             Echinopsis hertrichiana (Backeb.) D.R. Hunt-accepted
+             Echinopsis huascha (F.A.C. Weber) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis jajoana (Backeb.) Blos.-accepted
+             Echinopsis lageniformis (C.F. Först.) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis lateritia Gürke-accepted
+             Echinopsis leucantha (Gillies ex Salm-Dyck) Walp.-accepted
+             Echinopsis mamillosa Gürke-accepted
+             Echinopsis marsoneri Werderm.-accepted
+             Echinopsis maximiliana Heyder ex A. Dietr.-accepted
+             Echinopsis mirabilis Speg.-accepted
+             Echinopsis obrepanda (Salm-Dyck) K. Schum.-accepted
+             Echinopsis oligotricha (Cárdenas) M. Lowry-accepted
+             Echinopsis oxygona (Link) Zucc. ex Pfeiff.-accepted
+             Echinopsis pachanoi (Britton & Rose) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis pampana (Britton & Rose) D.R. Hunt-accepted
+             Echinopsis pampariuzii Cárdenas-accepted
+             Echinopsis pentlandii (Hook.) Salm-Dyck ex A. Dietr.-accepted
+             Echinopsis peruviana (Britton & Rose) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis pugionacantha Rose & Boed.-accepted
+             Echinopsis quadratiumbonata (F. Ritter) D.R. Hunt-accepted
+             Echinopsis rhodotricha K. Schum.-accepted
+             Echinopsis rojasii Cárdenas-accepted
+             Echinopsis rowleyi H. Friedrich-accepted
+             Echinopsis saltensis Speg.-accepted
+             Echinopsis schickendantzii F.A.C. Weber-accepted
+             Echinopsis schieliana (Backeb.) D.R. Hunt-accepted
+             Echinopsis spiniflora (K. Schum.) A. Berger-accepted
+             Echinopsis stilowiana (Backeb.) Lam.-accepted
+             Echinopsis strigosa (Salm-Dyck) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis tacaquirensis (Vaupel) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis tarijensis (Vaupel) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis tegeleriana (Backeb.) D.R. Hunt-accepted
+             Echinopsis terscheckii (J. Parm. ex Pfeiff.) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis thelegona (F.A.C. Weber) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis thelegonoides (Speg.) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis thionantha (Speg.) Werderm.-accepted
+             Echinopsis tiegeliana (Wessner) D.R. Hunt-accepted
+             Echinopsis tunariensis (Cárdenas) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis vasquezii (Rausch) G.D. Rowley-accepted
+             Echinopsis volliana (Backeb.) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis walteri (R. Kiesling) Friedrich & Glaetzle-accepted
+             Echinopsis werdermanniana (Backeb.) H. Friedrich & G.D. Rowley-accepted
+             Echinopsis X cabrerae (R. Kiesling) G.D. Rowley-accepted
+             Echinopsis yuquina D.R. Hunt-accepted
+             Emex australis Steinh.-accepted
+             Emex spinosa (L.) Campd.-accepted
+             Enchylaena tomentosa R. Br.-accepted
+             Epiphyllum anguliger (Lem.) G. Don ex Loudon-accepted
+             Epiphyllum baueri Dorsch-accepted
+             Epiphyllum cartagense (F.A.C. Weber) Britton & Rose-accepted
+             Epiphyllum crenatum (Lindl.) G. Don-accepted
+             Epiphyllum grandilobum (F.A.C. Weber) Britton & Rose-accepted
+             Epiphyllum hookeri Haw.-accepted
+             Epiphyllum laui Kimnach-accepted
+             Epiphyllum lepidocarpum (F.A.C. Weber) Britton & Rose-accepted
+             Epiphyllum oxypetalum (DC.) Haw.-accepted
+             Epiphyllum phyllanthus (L.) Haw.-accepted
+             Epiphyllum pumilum Britton & Rose-accepted
+             Epiphyllum thomasianum (K. Schum.) Britton & Rose-accepted
+             Epithelantha bokei L.D. Benson-accepted
+             Epithelantha micromeris (Engelm.) A. Weber ex Britton & Rose-accepted
+             Eremogone aberrans (M.E. Jones) Ikonn.-accepted
+             Eremogone aculeata (S. Watson) Ikonn.-accepted
+             Eremogone capillaris (Poir.) Fenzl-accepted
+             Eremogone cliftonii Rabeler & R.L. Hartm.-accepted
+             Eremogone congesta (Nutt.) Ikonn.-accepted
+             Eremogone eastwoodiae (Rydb.) Ikonn.-accepted
+             Eremogone fendleri (A. Gray) Ikonn.-accepted
+             Eremogone ferrisiae (Abrams) R.L. Hartm. & Rabeler-accepted
+             Eremogone franklinii (Douglas ex Hook.) R.L. Hartm. & Rabeler-accepted
+             Eremogone gypsophiloides (L.) Fenzl-accepted
+             Eremogone hookeri (Nutt.) W.A. Weber-accepted
+             Eremogone kingii (S. Watson) Ikonn.-accepted
+             Eremogone macradenia (S. Watson) Ikonn.-accepted
+             Eremogone pumicola (Coville & Leiberg) Ikonn.-accepted
+             Eremogone stenomeres (Eastw.) Ikonn.-accepted
+             Eremogone ursina (B.L. Rob.) Ikonn.-accepted
+             Eriogonum abertianum Torr.-accepted
+             Eriogonum acaule Nutt.-accepted
+             Eriogonum alatum Torr.-accepted
+             Eriogonum aliquantum Reveal-accepted
+             Eriogonum allenii S. Watson-accepted
+             Eriogonum alpinum Engelm.-accepted
+             Eriogonum ammophilum Reveal-accepted
+             Eriogonum ampullaceum J.T. Howell-accepted
+             Eriogonum androsaceum Benth.-accepted
+             Eriogonum anemophilum Greene-accepted
+             Eriogonum angulosum Benth.-accepted
+             Eriogonum annuum Nutt.-accepted
+             Eriogonum apiculatum S. Watson-accepted
+             Eriogonum apricum J.T. Howell-accepted
+             Eriogonum arborescens Greene-accepted
+             Eriogonum arcuatum Greene-accepted
+             Eriogonum aretioides Barneby-accepted
+             Eriogonum argillosum J.T. Howell-accepted
+             Eriogonum argophyllum Reveal-accepted
+             Eriogonum arizonicum S. Stokes ex M.E. Jones-accepted
+             Eriogonum artificis Reveal-accepted
+             Eriogonum atrorubens Engelm.-accepted
+             Eriogonum baileyi S. Watson-accepted
+             Eriogonum batemanii M.E. Jones-accepted
+             Eriogonum bicolor M.E. Jones-accepted
+             Eriogonum bifurcatum Reveal-accepted
+             Eriogonum brachyanthum Coville-accepted
+             Eriogonum brachypodum Torr. & A. Gray-accepted
+             Eriogonum brandegeei Rydb.-accepted
+             Eriogonum breedlovei (J.T. Howell) Reveal-accepted
+             Eriogonum brevicaule Nutt.-accepted
+             Eriogonum butterworthianum J.T. Howell-accepted
+             Eriogonum caespitosum Nutt.-accepted
+             Eriogonum callistum Reveal-accepted
+             Eriogonum capillare Small-accepted
+             Eriogonum cernuum Nutt.-accepted
+             Eriogonum chrysops Rydb.-accepted
+             Eriogonum cinereum Benth.-accepted
+             Eriogonum cithariforme S. Watson-accepted
+             Eriogonum clavatum Small-accepted
+             Eriogonum clavellatum Small-accepted
+             Eriogonum codium Reveal, Caplow & K.A. Beck-accepted
+             Eriogonum collinum S. Stokes ex M.E. Jones-accepted
+             Eriogonum coloradense Small-accepted
+             Eriogonum compositum Douglas ex Benth.-accepted
+             Eriogonum concinnum Reveal-accepted
+             Eriogonum congdonii (S. Stokes) Reveal-accepted
+             Eriogonum contiguum (Reveal) Reveal-accepted
+             Eriogonum contortum Small-accepted
+             Eriogonum correllii Reveal-accepted
+             Eriogonum corymbosum Benth.-accepted
+             Eriogonum covilleanum Eastw.-accepted
+             Eriogonum crocatum Davidson-accepted
+             Eriogonum cronquistii Reveal-accepted
+             Eriogonum crosbyae Reveal-accepted
+             Eriogonum cusickii M.E. Jones-accepted
+             Eriogonum darrovii Kearney-accepted
+             Eriogonum dasyanthemum Torr. & A. Gray-accepted
+             Eriogonum davidsonii Greene-accepted
+             Eriogonum deflexum Torr.-accepted
+             Eriogonum deserticola S. Watson-accepted
+             Eriogonum desertorum (Maguire) R.J. Davis-accepted
+             Eriogonum diatomaceum Reveal, J. Reynolds & Picciani-accepted
+             Eriogonum diclinum Reveal-accepted
+             Eriogonum divaricatum Hook.-accepted
+             Eriogonum douglasii Benth.-accepted
+             Eriogonum eastwoodianum J.T. Howell-accepted
+             Eriogonum effusum Nutt.-accepted
+             Eriogonum elatum Douglas ex Benth.-accepted
+             Eriogonum elegans Greene-accepted
+             Eriogonum elongatum Benth.-accepted
+             Eriogonum ephedroides Reveal-accepted
+             Eriogonum eremicola J.T. Howell & Reveal-accepted
+             Eriogonum eremicum Reveal-accepted
+             Eriogonum ericifolium Torr. & A. Gray-accepted
+             Eriogonum esmeraldense S. Watson-accepted
+             Eriogonum evanidum Reveal-accepted
+             Eriogonum exaltatum M.E. Jones-accepted
+             Eriogonum exilifolium Reveal-accepted
+             Eriogonum fasciculatum Benth.-accepted
+             Eriogonum flavum Nutt.-accepted
+             Eriogonum foliosum S. Watson-accepted
+             Eriogonum fusiforme Small-accepted
+             Eriogonum giganteum S. Watson-accepted
+             Eriogonum gilmanii S. Stokes-accepted
+             Eriogonum glandulosum (Nutt.) Nutt. ex Benth.-accepted
+             Eriogonum gordonii Benth.-accepted
+             Eriogonum gossypinum Curran-accepted
+             Eriogonum gracile Benth.-accepted
+             Eriogonum gracilipes S. Watson-accepted
+             Eriogonum gracillimum S. Watson-accepted
+             Eriogonum grande Greene-accepted
+             Eriogonum greggii Torr. & A. Gray-accepted
+             Eriogonum gypsophilum Wooton & Standl.-accepted
+             Eriogonum hastatum Wiggins-accepted
+             Eriogonum havardii S. Watson-accepted
+             Eriogonum heermannii Durand & Hilg.-accepted
+             Eriogonum helichrysoides (Gand.) Prain-accepted
+             Eriogonum hemipterum (Torr.) S. Stokes-accepted
+             Eriogonum heracleoides Nutt.-accepted
+             Eriogonum hieraciifolium Benth.-accepted
+             Eriogonum hirtellum J.T. Howell & Bacig.-accepted
+             Eriogonum hirtiflorum A. Gray ex S. Watson-accepted
+             Eriogonum hoffmannii S. Stokes-accepted
+             Eriogonum holmgrenii Reveal-accepted
+             Eriogonum hookeri S. Watson-accepted
+             Eriogonum howellianum Reveal-accepted
+             Eriogonum hylophilum Reveal & Brotherson-accepted
+             Eriogonum incanum Torr. & A. Gray-accepted
+             Eriogonum inerme (S. Watson) Jeps.-accepted
+             Eriogonum inflatum Torr. & Frém.-accepted
+             Eriogonum intrafractum Coville & Morton-accepted
+             Eriogonum jamesii Benth.-accepted
+             Eriogonum jonesii S. Watson-accepted
+             Eriogonum kelloggii A. Gray-accepted
+             Eriogonum kennedyi Porter ex S. Watson-accepted
+             Eriogonum kingii Torr. & A. Gray-accepted
+             Eriogonum lachnogynum Torr. ex Benth.-accepted
+             Eriogonum lancifolium Reveal & Brotherson-accepted
+             Eriogonum latens Jeps.-accepted
+             Eriogonum latifolium Sm.-accepted
+             Eriogonum lemmonii S. Watson-accepted
+             Eriogonum leptocladon Torr. & A. Gray-accepted
+             Eriogonum leptophyllum (Torr. & A. Gray) Wooton & Standl.-accepted
+             Eriogonum libertini Reveal-accepted
+             Eriogonum lobbii Torr. & A. Gray-accepted
+             Eriogonum loganum A. Nelson-accepted
+             Eriogonum lonchophyllum Torr. & A. Gray-accepted
+             Eriogonum longifolium Nutt.-accepted
+             Eriogonum luteolum Greene-accepted
+             Eriogonum maculatum A. Heller-accepted
+             Eriogonum mancum Rydb.-accepted
+             Eriogonum marifolium Torr. & A. Gray-accepted
+             Eriogonum mensicola S. Stokes-accepted
+             Eriogonum microthecum Nutt.-accepted
+             Eriogonum mitophyllum Reveal-accepted
+             Eriogonum mohavense S. Watson-accepted
+             Eriogonum molestum S. Watson-accepted
+             Eriogonum molle Greene-accepted
+             Eriogonum mortonianum Reveal-accepted
+             Eriogonum multiflorum Benth.-accepted
+             Eriogonum natum Reveal-accepted
+             Eriogonum nealleyi J.M. Coult.-accepted
+             Eriogonum nervulosum (S. Stokes) Reveal-accepted
+             Eriogonum nidularium Coville-accepted
+             Eriogonum niveum Douglas ex Benth.-accepted
+             Eriogonum nortonii Greene-accepted
+             Eriogonum novonudum M. Peck-accepted
+             Eriogonum nudum Douglas ex Benth.-accepted
+             Eriogonum nummulare M.E. Jones-accepted
+             Eriogonum nutans Torr. & A. Gray-accepted
+             Eriogonum ochrocephalum S. Watson-accepted
+             Eriogonum ordii S. Watson-accepted
+             Eriogonum ostlundii M.E. Jones-accepted
+             Eriogonum ovalifolium Nutt.-accepted
+             Eriogonum palmerianum Reveal-accepted
+             Eriogonum panamintense C.V. Morton-accepted
+             Eriogonum panguicense (M.E. Jones) Reveal-accepted
+             Eriogonum parishii S. Watson-accepted
+             Eriogonum parvifolium Sm.-accepted
+             Eriogonum pauciflorum Pursh-accepted
+             Eriogonum pelinophilum Reveal-accepted
+             Eriogonum pendulum S. Watson-accepted
+             Eriogonum pharnaceoides Torr.-accepted
+             Eriogonum plumatella Durand & Hilg.-accepted
+             Eriogonum polycladon Benth.-accepted
+             Eriogonum polypodum Small-accepted
+             Eriogonum prattenianum Durand-accepted
+             Eriogonum prociduum Reveal-accepted
+             Eriogonum pulchrum Eastw.-accepted
+             Eriogonum pusillum Torr. & A. Gray-accepted
+             Eriogonum pyrolifolium Hook.-accepted
+             Eriogonum racemosum Nutt.-accepted
+             Eriogonum reniforme Torr. & Frém.-accepted
+             Eriogonum ripleyi J.T. Howell-accepted
+             Eriogonum rixfordii S. Stokes-accepted
+             Eriogonum robustum Greene-accepted
+             Eriogonum rosense A. Nelson & P.B. Kenn.-accepted
+             Eriogonum roseum Durand & Hilg.-accepted
+             Eriogonum rotundifolium Benth.-accepted
+             Eriogonum rubricaule Tidestr.-accepted
+             Eriogonum rupinum Reveal-accepted
+             Eriogonum salicornioides Gand.-accepted
+             Eriogonum saxatile S. Watson-accepted
+             Eriogonum scabrellum Reveal-accepted
+             Eriogonum scopulorum Reveal-accepted
+             Eriogonum shockleyi S. Watson-accepted
+             Eriogonum siskiyouense Small-accepted
+             Eriogonum smithii Reveal-accepted
+             Eriogonum soliceps Reveal & Björk-accepted
+             Eriogonum soredium Reveal-accepted
+             Eriogonum spathulatum A. Gray-accepted
+             Eriogonum spectabile B.L. Corbin, Reveal & R. Barron-accepted
+             Eriogonum spergulinum A. Gray-accepted
+             Eriogonum sphaerocephalum Douglas ex Benth.-accepted
+             Eriogonum strictum Benth.-accepted
+             Eriogonum subreniforme S. Watson-accepted
+             Eriogonum suffruticosum S. Watson-accepted
+             Eriogonum temblorense J.T. Howell & Twisselm.-accepted
+             Eriogonum tenellum Torr.-accepted
+             Eriogonum ternatum Howell-accepted
+             Eriogonum terrenatum Reveal-accepted
+             Eriogonum thomasii Torr.-accepted
+             Eriogonum thompsoniae S. Watson-accepted
+             Eriogonum thornei (Reveal & Henrickson) L.M. Shultz-accepted
+             Eriogonum thurberi Torr.-accepted
+             Eriogonum thymoides Benth.-accepted
+             Eriogonum tiehmii Reveal-accepted
+             Eriogonum tomentosum Michx.-accepted
+             Eriogonum trichopes Torr.-accepted
+             Eriogonum tripodum Greene-accepted
+             Eriogonum truncatum Torr. & A. Gray-accepted
+             Eriogonum tumulosum (Barneby) Reveal-accepted
+             Eriogonum twisselmannii (J.T. Howell) Reveal-accepted
+             Eriogonum umbellatum Torr.-accepted
+             Eriogonum ursinum S. Watson-accepted
+             Eriogonum vestitum J.T. Howell-accepted
+             Eriogonum villiflorum A. Gray-accepted
+             Eriogonum vimineum Douglas ex Benth.-accepted
+             Eriogonum viridescens A. Heller-accepted
+             Eriogonum viridulum Reveal-accepted
+             Eriogonum viscidulum J.T. Howell-accepted
+             Eriogonum visheri A. Nelson-accepted
+             Eriogonum watsonii Torr. & A. Gray-accepted
+             Eriogonum wetherillii Eastw.-accepted
+             Eriogonum wootonii (Reveal) Reveal-accepted
+             Eriogonum wrightii Torr. ex Benth.-accepted
+             Eriogonum X blissianum H. Mason-accepted
+             Eriogonum X duchesnense Reveal (pro. sp.)-accepted
+             Eriogonum X nebraskense Rydb. (pro. sp.)-accepted
+             Eriogonum zionis J.T. Howell-accepted
+             Eriosyce aspillagae (Söhrens) Katt.-accepted
+             Eriosyce aurata (Pfeiff.) Backeb.-accepted
+             Eriosyce bulbocalyx (Werderm.) Katt.-accepted
+             Eriosyce calderana (F. Ritter) Ferryman-accepted
+             Eriosyce chilensis (Hildm. ex K. Schum.) Katt.-accepted
+             Eriosyce confinis (F. Ritter) Katt.-accepted
+             Eriosyce crispa (F. Ritter) Katt.-accepted
+             Eriosyce curvispina (Bertero ex Colla) Katt.-accepted
+             Eriosyce engleri (F. Ritter) Katt.-accepted
+             Eriosyce eriosyzoides (F. Ritter) Ferryman-accepted
+             Eriosyce esmeraldana (F. Ritter) Katt.-accepted
+             Eriosyce garaventae (F. Ritter) Katt.-accepted
+             Eriosyce heinrichiana (Backeb.) Katt.-accepted
+             Eriosyce iquiquensis (F. Ritter) Ferryman-accepted
+             Eriosyce islayensis (C.F. Först.) Katt.-accepted
+             Eriosyce laui Lüthy-accepted
+             Eriosyce megliolii (Rausch) Ferryman-accepted
+             Eriosyce napina (Phil.) Katt.-accepted
+             Eriosyce occulta Katt.-accepted
+             Eriosyce odieri (Lem. ex Salm-Dyck) Katt.-accepted
+             Eriosyce paucicostata (F. Ritter) Ferryman-accepted
+             Eriosyce recondita (F. Ritter) Katt.-accepted
+             Eriosyce rodentiophila F. Ritter-accepted
+             Eriosyce senilis (Backeb.) Katt.-accepted
+             Eriosyce simulans (F. Ritter) Katt.-accepted
+             Eriosyce sociabilis (F. Ritter) Katt.-accepted
+             Eriosyce strausiana (K. Schum.) Katt.-accepted
+             Eriosyce subgibbosa (Haw.) Katt.-accepted
+             Eriosyce taltalensis (Hutchison) Katt.-accepted
+             Eriosyce umadeave (Werderm.) Katt.-accepted
+             Eriosyce villicumensis (Rausch) Katt.-accepted
+             Eriosyce villosa (Monv.) Katt.-accepted
+             Escobaria alversonii (J.M. Coult.) N.P. Taylor-accepted
+             Escobaria chihuahuensis Britton & Rose-accepted
+             Escobaria chlorantha (Engelm.) Buxb.-accepted
+             Escobaria cubensis (Britton & Rose) D.R. Hunt-accepted
+             Escobaria dasyacantha (Engelm.) Britton & Rose-accepted
+             Escobaria duncanii (Hester) Backeb.-accepted
+             Escobaria emskoetteriana (Quehl) Borg-accepted
+             Escobaria hesteri (Y. Wright) Buxb.-accepted
+             Escobaria laredoi (Glass & R.A. Foster) N.P. Taylor-accepted
+             Escobaria lloydii Britton & Rose-accepted
+             Escobaria minima (Baird) D.R. Hunt-accepted
+             Escobaria missouriensis (Sweet) D.R. Hunt-accepted
+             Escobaria robbinsorum (W.H. Earle) D.R. Hunt-accepted
+             Escobaria sneedii Britton & Rose-accepted
+             Escobaria tuberculosa (Engelm.) Britton & Rose-accepted
+             Escobaria vivipara (Nutt.) Buxb.-accepted
+             Escobaria zilziana (Boed.) Backeb.-accepted
+             Escontria chiotilla (F.A.C. Weber) Rose-accepted
+             Espostoa blossfeldiorum (Werderm.) Buxb.-accepted
+             Espostoa calva F. Ritter-accepted
+             Espostoa frutescens Madsen-accepted
+             Espostoa guentheri (Kupper) Buxb.-accepted
+             Espostoa hylaea F. Ritter-accepted
+             Espostoa lanata (Kunth) Britton & Rose-accepted
+             Espostoa melanostele (Vaupel) Borg-accepted
+             Espostoa mirabilis F. Ritter-accepted
+             Espostoa senilis (F. Ritter) N.P. Taylor-accepted
+             Espostoa superba F. Ritter-accepted
+             Espostoa utcubambensis G.J. Charles-accepted
+             Espostoopsis dybowskii (Rol.-Goss.) Buxb.-accepted
+             Eulychnia acida Phil.-accepted
+             Eulychnia breviflora Phil.-accepted
+             Eulychnia castanea (K. Schum.) Phil.-accepted
+             Eulychnia iquiquensis (K. Schum.) Britton & Rose-accepted
+             Exomis axyrioides Fenzl ex Moq.-accepted
+             Extriplex californica (Moq.) E.H. Zacharias-accepted
+             Extriplex joaquinana (A. Nelson) E.H. Zacharias-accepted
+             Facheiroa cephaliomelana Buining & Brederoo-accepted
+             Facheiroa squamosa (Gürke) P.J. Braun & Esteves-accepted
+             Facheiroa ulei (Gürke) Werderm.-accepted
+             Fagopyrum esculentum Moench-accepted
+             Fagopyrum tataricum (L.) Gaertn.-accepted
+             Fallopia baldschuanica (Regel) Holub-accepted
+             Fallopia cilinodis (Michx.) Holub-accepted
+             Fallopia convolvulus (L.) Á. Löve-accepted
+             Fallopia dumetorum (L.) Holub-accepted
+             Fallopia japonica (Houtt.) Ronse Decr.-accepted
+             Fallopia multiflora (Thunb.) Haraldson-accepted
+             Fallopia sachalinensis (F. Schmidt) Ronse Decr.-accepted
+             Fallopia scandens (L.) Holub-accepted
+             Fallopia X bohemica (Chrtek & Chrtková) J.P. Bailey-accepted
+             Ferocactus alamosanus (Britton & Rose) Britton & Rose-accepted
+             Ferocactus chrysacanthus (Orcutt) Britton & Rose-accepted
+             Ferocactus cylindraceus (Engelm.) Orcutt-accepted
+             Ferocactus diguetii (F.A.C. Weber) Britton & Rose-accepted
+             Ferocactus echidne (DC.) Britton & Rose-accepted
+             Ferocactus emoryi (Engelm.) Orcutt-accepted
+             Ferocactus flavovirens (Scheidw.) Britton & Rose-accepted
+             Ferocactus fordii (Orcutt) Britton & Rose-accepted
+             Ferocactus glaucescens (DC.) Britton & Rose-accepted
+             Ferocactus gracilis H.E. Gates-accepted
+             Ferocactus haematacanthus (Muehlenpf.) Britton & Rose-accepted
+             Ferocactus hamatacanthus (Muehlenpf.) Britton & Rose-accepted
+             Ferocactus herrerae J.G. Ortega-accepted
+             Ferocactus histrix (DC.) G.E. Linds.-accepted
+             Ferocactus johnstonianus Britton & Rose-accepted
+             Ferocactus latispinus (Haw.) Britton & Rose-accepted
+             Ferocactus lindsayi Bravo-accepted
+             Ferocactus macrodiscus (Mart.) Britton & Rose-accepted
+             Ferocactus peninsulae (F.A.C. Weber) Britton & Rose-accepted
+             Ferocactus pilosus (Galeotti) Werderm.-accepted
+             Ferocactus pottsii (Salm-Dyck) Backeb.-accepted
+             Ferocactus robustus (Link & Otto) Britton & Rose-accepted
+             Ferocactus santa-maria Britton & Rose-accepted
+             Ferocactus schwarzii G.E. Linds.-accepted
+             Ferocactus tiburonensis (G.E. Linds.) Backeb.-accepted
+             Ferocactus townsendianus Britton & Rose-accepted
+             Ferocactus viridescens (Torr. & A. Gray) Britton & Rose-accepted
+             Ferocactus wislizeni (Engelm.) Britton & Rose-accepted
+             Frailea buenekeri W.R. Abraham-accepted
+             Frailea castanea Backeb.-accepted
+             Frailea cataphracta (Dams) Britton & Rose-accepted
+             Frailea chiquitana Cárdenas-accepted
+             Frailea curvispina Buining & Brederoo-accepted
+             Frailea fulviseta Buining & Brederoo-accepted
+             Frailea gracillima (Lem.) Britton & Rose-accepted
+             Frailea mammifera Buining & Brederoo-accepted
+             Frailea phaeodisca (Speg.) Spreg.-accepted
+             Frailea pumila (Lem.) Britton & Rose-accepted
+             Frailea pygmaea (Speg.) Britton & Rose-accepted
+             Frailea schilinzkyana (F. Haage ex K. Schum.) Britton & Rose-accepted
+             Frankenia jamesii Torr. ex A. Gray-accepted
+             Frankenia johnstonii Correll-accepted
+             Frankenia palmeri S. Watson-accepted
+             Frankenia pulverulenta L.-accepted
+             Frankenia salina (Molina) I.M. Johnst.-accepted
+             Froelichia arizonica Thornber ex Standl.-accepted
+             Froelichia drummondii Moq.-accepted
+             Froelichia floridana (Nutt.) Moq.-accepted
+             Froelichia gracilis (Hook.) Moq.-accepted
+             Froelichia interrupta (L.) Moq.-accepted
+             Froelichia latifolia R.A. McCauley-accepted
+             Froelichia texana J.M. Coult. & Fisher-accepted
+             Galenia pubescens (Eckl. & Zeyh.) Druce-accepted
+             Galenia secunda (L. f.) Sond.-accepted
+             Geocarpon minimum Mack.-accepted
+             Geohintonia mexicana Glass & W.A. Fitz Maur.-accepted
+             Gilmania luteola (Coville) Coville-accepted
+             Gisekia pharnacioides L.-accepted
+             Glinus lotoides L.-accepted
+             Glinus radiatus (Ruiz & Pav.) Rohrb.-accepted
+             Gomphrena caespitosa Torr.-accepted
+             Gomphrena celosioides Mart.-accepted
+             Gomphrena globosa L.-accepted
+             Gomphrena haageana Klotzsch-accepted
+             Gomphrena martiana Gillies ex Moq.-accepted
+             Gomphrena nealleyi J.M. Coult. & Fisher-accepted
+             Gomphrena nitida Rothr.-accepted
+             Gomphrena serrata L.-accepted
+             Gomphrena sonorae Torr.-accepted
+             Gomphrena viridis Wooton & Standl.-accepted
+             Goodmania luteola (Parry) Reveal & Ertter-accepted
+             Gossypianthus lanuginosus (Poir.) Moq.-accepted
+             Grayia arizonica (Standl.) E.H. Zacharias-accepted
+             Grayia brandegeei A. Gray-accepted
+             Grayia plummeri (Stutz & S.C. Sand.) E.H. Zacharias-accepted
+             Grayia spinosa (Hook.) Moq.-accepted
+             Grusonia aggeria (Ralston & Hilsenb.) E.F. Anderson-accepted
+             Grusonia bradtiana (J.M. Coult.) Britton & Rose-accepted
+             Grusonia clavata (Engelm.) H. Rob.-accepted
+             Grusonia densispina (Ralston & Hilsenb.) Rebman-accepted
+             Grusonia emoryi (Engelm.) Pinkava-accepted
+             Grusonia grahamii (Engelm.) H. Rob.-accepted
+             Grusonia kunzei (Rose) Pinkava-accepted
+             Grusonia parishii (Orcutt) Pinkava-accepted
+             Grusonia pulchella (Engelm.) H. Rob.-accepted
+             Grusonia robertsii Rebman-accepted
+             Grusonia schottii (Engelm.) H. Rob.-accepted
+             Guapira discolor (Spreng.) Little-accepted
+             Guapira fragrans (Dum. Cours.) Little-accepted
+             Guapira obtusata (Jacq.) Little-accepted
+             Guilleminea densa (Humb. & Bonpl. ex Schult.) Moq.-accepted
+             Gymnocalycium alboareolatum Rausch-accepted
+             Gymnocalycium amerhauseri H. Till-accepted
+             Gymnocalycium andreae (Boed.) Backeb.-accepted
+             Gymnocalycium anisitsii (K. Schum.) Britton & Rose-accepted
+             Gymnocalycium baldianum (Speg.) Speg.-accepted
+             Gymnocalycium bayrianum H. Till-accepted
+             Gymnocalycium berchtii Neuhuber-accepted
+             Gymnocalycium bodenbenderianum A. Berger-accepted
+             Gymnocalycium bruchii (Speg.) Hosseus-accepted
+             Gymnocalycium calochlorum (Boed.) Y. Itô-accepted
+             Gymnocalycium capillaense (Schick) Hosseus-accepted
+             Gymnocalycium castellanosii Backeb.-accepted
+             Gymnocalycium chiquitanum Cárdenas-accepted
+             Gymnocalycium denudatum (Link & Otto) Pfeiff. ex Mittler-accepted
+             Gymnocalycium erinaceum J.G. Lamb-accepted
+             Gymnocalycium eurypleurum F. Ritter-accepted
+             Gymnocalycium gibbosum (Haw.) Pfeiff. ex Mittler-accepted
+             Gymnocalycium glaucum F. Ritter-accepted
+             Gymnocalycium horstii Buining-accepted
+             Gymnocalycium hossei (Haage) A. Berger-accepted
+             Gymnocalycium kieslingii O. Ferrari-accepted
+             Gymnocalycium kroenleinii R. Kiesling-accepted
+             Gymnocalycium marsoneri Fric ex Y. Itô-accepted
+             Gymnocalycium mesopotamicum R. Kiesling-accepted
+             Gymnocalycium mihanovichii (Fric & Gürke) Britton & Rose-accepted
+             Gymnocalycium monvillei (Lem.) Pfeiff. ex Britton & Rose-accepted
+             Gymnocalycium mostii (Gürke) Britton & Rose-accepted
+             Gymnocalycium neuhuberi H. Till & W. Till-accepted
+             Gymnocalycium nigriareolatum Backeb.-accepted
+             Gymnocalycium ochoterenae Backeb.-accepted
+             Gymnocalycium oenanthemum Backeb.-accepted
+             Gymnocalycium paraguayense (Mundt ex K. Schum.) Hosseus-accepted
+             Gymnocalycium pflanzii (Vaupel) Werderm.-accepted
+             Gymnocalycium pugionacanthum Backeb. ex H. Till-accepted
+             Gymnocalycium ragonesei A. Cast.-accepted
+             Gymnocalycium reductum (Link) Pfeiff. ex Mittler-accepted
+             Gymnocalycium rhodantherum (Boed.) H. Till-accepted
+             Gymnocalycium ritterianum Rausch-accepted
+             Gymnocalycium robustum R. Kiesling, O. Ferrari & Metzing-accepted
+             Gymnocalycium saglionis (F. Cels) Britton & Rose-accepted
+             Gymnocalycium schickendantzii (F.A.C. Weber) Britton & Rose-accepted
+             Gymnocalycium schroederianum Osten-accepted
+             Gymnocalycium spegazzinii Britton & Rose-accepted
+             Gymnocalycium stellatum (Scheidw.) Speg.-accepted
+             Gymnocalycium stenopleurum F. Ritter-accepted
+             Gymnocalycium striglianum Jeggle & H. Till-accepted
+             Gymnocalycium taningaense Piltz-accepted
+             Gymnocalycium uebelmannianum Rausch-accepted
+             Gymnocalycium uruguayense (Arechav.) Britton & Rose-accepted
+             Gymnocarpos przewalskii Bunge ex Maxim.-accepted
+             Gypsophila acutifolia Steven ex Spreng.-accepted
+             Gypsophila arrostii Guss.-accepted
+             Gypsophila cerastoides D. Don-accepted
+             Gypsophila elegans M. Bieb.-accepted
+             Gypsophila muralis L.-accepted
+             Gypsophila oldhamiana Miq.-accepted
+             Gypsophila pacifica Kom.-accepted
+             Gypsophila paniculata L.-accepted
+             Gypsophila perfoliata L.-accepted
+             Gypsophila pilosa Huds.-accepted
+             Gypsophila repens L.-accepted
+             Gypsophila scorzonerifolia Ser.-accepted
+             Gypsophila stevenii Fisch. ex Schrank-accepted
+             Haageocereus acranthus (Vaupel) Backeb.-accepted
+             Haageocereus chilensis F. Ritter ex D.R. Hunt-accepted
+             Haageocereus decumbens (Vaupel) Backeb.-accepted
+             Haageocereus pacalaensis Backeb.-accepted
+             Haageocereus platinospinus (Werderm. & Backeb.) Backeb.-accepted
+             Haageocereus pseudomelanostele (Werderm. & Backeb.) Backeb.-accepted
+             Haageocereus pseudoversicolor Rauh & Backeb.-accepted
+             Haageocereus tenuis F. Ritter-accepted
+             Haageocereus versicolor (Werderm. & Backeb.) Backeb.-accepted
+             Halocnemum strobilaceum (Pall.) M. Bieb.-accepted
+             Halogeton glomeratus (M. Bieb.) C.A. Mey.-accepted
+             Harrisia aboriginum Small ex Britton & Rose-accepted
+             Harrisia adscendens (Gürke) Britton & Rose-accepted
+             Harrisia balansae (K. Schum.) N.P. Taylor & Zappi-accepted
+             Harrisia brookii Britton-accepted
+             Harrisia divaricata (Lam.) Backeb.-accepted
+             Harrisia earlei Britton & Rose-accepted
+             Harrisia eriophora (Pfeiff.) Britton-accepted
+             Harrisia fernowii Britton-accepted
+             Harrisia fragrans Small ex Britton & Rose-accepted
+             Harrisia gracilis (Mill.) Britton-accepted
+             Harrisia hurstii W.T. Marshall-accepted
+             Harrisia martinii (Labour.) Britton-accepted
+             Harrisia nashii Britton-accepted
+             Harrisia pomanensis (F.A.C. Weber ex K. Schum.) Britton & Rose-accepted
+             Harrisia portoricensis Britton-accepted
+             Harrisia regelii (Weing.) Borg-accepted
+             Harrisia simpsonii Small ex Britton & Rose-accepted
+             Harrisia taetra Areces-accepted
+             Harrisia taylorii Britton-accepted
+             Harrisia tetracantha (Labour.) D.R. Hunt-accepted
+             Harrisia tortuosa (J. Forbes ex Otto & A. Dietr.) Britton & Rose-accepted
+             Hatiora cylindrica Britton & Rose-accepted
+             Hatiora epiphylloides (Porto & Werderm.) Buxb.-accepted
+             Hatiora gaertneri (Regel) Barthlott-accepted
+             Hatiora herminiae (Porto & A. Cast.) Barthlott-accepted
+             Hatiora rosea (Lagerh.) Barthlott-accepted
+             Hatiora salicornioides (Haw.) Britton & Rose-accepted
+             Hermbstaedtia odorata (Burch. ex Moq.) T. Cooke-accepted
+             Herniaria glabra L.-accepted
+             Herniaria hirsuta L.-accepted
+             Herniaria incana Lam.-accepted
+             Hollisteria lanata S. Watson-accepted
+             Holmbergia tweedii (Moq.) Speg.-accepted
+             Holosteum umbellatum L.-accepted
+             Homalocladium platycladum (F. Muell.) L.H. Bailey-accepted
+             Honckenya peploides (L.) Ehrh.-accepted
+             Hylocereus calcaratus (F.A.C. Weber) Britton & Rose-accepted
+             Hylocereus costaricensis (F.A.C. Weber) Britton & Rose-accepted
+             Hylocereus escuintlensis Kimnach-accepted
+             Hylocereus extensus (Salm-Dyck ex DC.) Britton & Rose ex Rose-accepted
+             Hylocereus guatemalensis (Eichlam) Britton & Rose-accepted
+             Hylocereus megalanthus (K. Schum. ex Vaupel) Ralf Bauer-accepted
+             Hylocereus minutiflorus Britton & Rose-accepted
+             Hylocereus monacanthus (Lem.) Britton & Rose-accepted
+             Hylocereus ocamponis (Salm-Dyck) Britton & Rose-accepted
+             Hylocereus setaceus (Salm-Dyck ex DC.) Ralf Bauer-accepted
+             Hylocereus stenopterus (F.A.C. Weber) Britton & Rose-accepted
+             Hylocereus triangularis (L.) Britton & Rose-accepted
+             Hylocereus tricae (D.R. Hunt) Ralf Bauer-accepted
+             Hylocereus undatus (Haw.) Britton & Rose-accepted
+             Illecebrum verticillatum L.-accepted
+             Iresine angustifolia Euphrasén-accepted
+             Iresine diffusa Humb. & Bonpl. ex Willd.-accepted
+             Iresine flavescens Humb. & Bonpl. ex Willd.-accepted
+             Iresine herbstii Hook.-accepted
+             Iresine heterophylla Standl.-accepted
+             Iresine leptoclada (Hook. f.) Henrickson & S.D. Sundb.-accepted
+             Iresine lindenii Van Houtte-accepted
+             Iresine palmeri (S. Watson) Standl.-accepted
+             Iresine rhizomatosa Standl.-accepted
+             Jasminocereus thouarsii (F.A.C. Weber) Backeb.-accepted
+             Johanneshowellia crateriorum Reveal-accepted
+             Johanneshowellia puberula (S. Watson) Reveal-accepted
+             Kochia americana S. Watson-accepted
+             Kochia californica S. Watson-accepted
+             Kochia prostrata (L.) Schrad.-accepted
+             Kochia scoparia (L.) Schrad.-accepted
+             Kochia stellaris Moq.-accepted
+             Koenigia islandica L.-accepted
+             Krascheninnikovia arborescens (Losinsk.) Czerep.-accepted
+             Krascheninnikovia ceratoides (L.) Gueldenst.-accepted
+             Krascheninnikovia lanata (Pursh) A. Meeuse & A. Smit-accepted
+             Lampranthus coccineus (Haw.) N.E. Br.-accepted
+             Lampranthus multiradiatus (Jacq.) N.E. Br.-accepted
+             Lampranthus roseus (Willd.) Schwantes-accepted
+             Lasiocereus fulvus F. Ritter-accepted
+             Lasiocereus rupicola F. Ritter-accepted
+             Lastarriaea coriacea (Goodman) Hoover-accepted
+             Leocereus bahiensis Britton & Rose-accepted
+             Lepismium cruciforme (Vell.) Miq.-accepted
+             Lepismium houlletianum (Lem.) Barthlott-accepted
+             Lepismium incachacanum (Cárdenas) Barthlott-accepted
+             Lepismium lorentzianum (Griseb.) Barthlott-accepted
+             Lepismium lumbricoides (Lem.) Barthlott-accepted
+             Lepismium warmingianum (K. Schum.) Barthlott-accepted
+             Leptocereus arboreus Britton & Rose-accepted
+             Leptocereus assurgens (C. Wright ex Griseb.) Britton & Rose-accepted
+             Leptocereus carinatus Areces-accepted
+             Leptocereus grantianus Britton-accepted
+             Leptocereus leonii Britton & Rose-accepted
+             Leptocereus paniculatus (Lam.) D.R. Hunt-accepted
+             Leptocereus quadricostatus (Bello) Britton & Rose-accepted
+             Leptocereus scopulophilus Areces-accepted
+             Leptocereus sylvestris Britton & Rose-accepted
+             Leptocereus weingartianus (E. Hartmann in Dams) Britton & Rose-accepted
+             Leptocereus wrightii León-accepted
+             Lepyrodiclis holosteoides (C.A. Mey.) Fenzl ex Fisch. & C.A. Mey.-accepted
+             Leuchtenbergia principis Hook.-accepted
+             Lewisia brachycalyx Engelm. ex A. Gray-accepted
+             Lewisia cantelovii J.T. Howell-accepted
+             Lewisia columbiana (Howell ex A. Gray) B.L. Rob.-accepted
+             Lewisia congdonii (Rydb.) S. Clay-accepted
+             Lewisia cotyledon (S. Watson) B.L. Rob.-accepted
+             Lewisia disepala Rydb.-accepted
+             Lewisia kelloggii K. Brandegee-accepted
+             Lewisia leeana (Porter) B.L. Rob.-accepted
+             Lewisia longipetala (Piper) S. Clay-accepted
+             Lewisia maguirei A.H. Holmgren-accepted
+             Lewisia nevadensis (A. Gray) B.L. Rob.-accepted
+             Lewisia oppositifolia (S. Watson) B.L. Rob.-accepted
+             Lewisia pygmaea (A. Gray) B.L. Rob.-accepted
+             Lewisia rediviva Pursh-accepted
+             Lewisia sacajaweana B.L. Wilson & Rey-Vizg.-accepted
+             Lewisia serrata Heckard & Stebbins-accepted
+             Lewisia stebbinsii Gankin & W.R. Hildreth-accepted
+             Lewisia triphylla (S. Watson) B.L. Rob.-accepted
+             Lewisia X whiteae Purdy-accepted
+             Limonium arborescens Kuntze-accepted
+             Limonium californicum (Boiss.) A. Heller-accepted
+             Limonium carolinianum (Walter) Britton-accepted
+             Limonium gerberi Soldano-accepted
+             Limonium leptostachyum (Boiss.) Kuntze-accepted
+             Limonium limbatum Small-accepted
+             Limonium otolepis (Schrenk) Kuntze-accepted
+             Limonium perezii (Stapf) F.T. Hubb.-accepted
+             Limonium ramosissimum (Poir.) Maire-accepted
+             Limonium reniforme (Girard) Lincz.-accepted
+             Limonium sinuatum (L.) Mill.-accepted
+             Limonium vulgare Mill.-accepted
+             Lithophila muscoides Sw.-accepted
+             Loeflingia squarrosa Nutt.-accepted
+             Lophophora diffusa (Croizat) Bravo-accepted
+             Lophophora fricii Haberm.-accepted
+             Lophophora williamsii (Lem. ex Salm-Dyck) J.M. Coult.-accepted
+             Maihuenia patagonica (Phil) Britton & Rose-accepted
+             Maihuenia poeppigii (Otto ex Pfeiff.) F.A.C. Weber ex K. Schum.-accepted
+             Maihueniopsis archiconoidea F. Ritter-accepted
+             Maihueniopsis clavarioides (Otto ex Pfeiff.) E.F. Anderson-accepted
+             Maihueniopsis conoidea (F. Ritter ex Backeb.) F. Ritter-accepted
+             Maihueniopsis darwinii (Hensl.) F. Ritter-accepted
+             Maihueniopsis glomerata (Haw.) R. Kiesling-accepted
+             Maihueniopsis hypogaea (Werderm.) F. Ritter-accepted
+             Maihueniopsis minuta (Backeb.) R. Kiesling-accepted
+             Maihueniopsis subterranea (R.E. Fr.) E.F. Anderson-accepted
+             Maireana aphylla (R. Br.) Paul G. Wilson-accepted
+             Maireana brevifolia (R. Br.) Paul G. Wilson-accepted
+             Maireana erioclada (Benth.) Paul G. Wilson-accepted
+             Maireana georgei (Diels) Paul G. Wilson-accepted
+             Maireana pyramidata (Benth.) Paul G. Wilson-accepted
+             Maireana sedifolia (F. Muell.) Paul G. Wilson-accepted
+             Malephora crocea (Jacq.) Schwantes-accepted
+             Mammillaria albicans (Britton & Rose) A. Berger-accepted
+             Mammillaria albicoma Boed.-accepted
+             Mammillaria albiflora Backeb.-accepted
+             Mammillaria albilanata Backeb.-accepted
+             Mammillaria anniana Glass & R.A. Foster-accepted
+             Mammillaria armillata K. Brandegee-accepted
+             Mammillaria aureilanata Backeb.-accepted
+             Mammillaria backebergiana Buchenau-accepted
+             Mammillaria barbata Engelm.-accepted
+             Mammillaria baumii Boed.-accepted
+             Mammillaria beneckei Ehrenb.-accepted
+             Mammillaria berkiana A.B. Lau-accepted
+             Mammillaria blossfeldiana Boed.-accepted
+             Mammillaria bocasana Poselg.-accepted
+             Mammillaria bocensis R.T. Craig-accepted
+             Mammillaria boelderliana Wohlschl.-accepted
+             Mammillaria bombycina Quehl-accepted
+             Mammillaria boolii G.E. Linds.-accepted
+             Mammillaria brandegeei (J.M. Coult.) Engelm. ex K. Brandegee-accepted
+             Mammillaria candida Scheidw.-accepted
+             Mammillaria capensis (H.E. Gates) R.T. Craig-accepted
+             Mammillaria carmenae Castañeda-accepted
+             Mammillaria carnea Zucc. ex Pfeiff.-accepted
+             Mammillaria carretii Rebut ex K. Schum.-accepted
+             Mammillaria cerralboa (Britton & Rose) Orcutt-accepted
+             Mammillaria coahuilensis (Boed.) Moran-accepted
+             Mammillaria columbiana Salm-Dyck-accepted
+             Mammillaria compressa DC.-accepted
+             Mammillaria crinita DC.-accepted
+             Mammillaria crucigera Mart.-accepted
+             Mammillaria decipiens Scheidw.-accepted
+             Mammillaria deherdtiana Farwig-accepted
+             Mammillaria densispina (J.M. Coult.) Orcutt-accepted
+             Mammillaria dioica K. Brandegee-accepted
+             Mammillaria discolor Haw.-accepted
+             Mammillaria dixanthocentron Backeb. ex Mottram-accepted
+             Mammillaria duoformis R.T. Craig & E.Y. Dawson-accepted
+             Mammillaria duwei Rogoz. & P.J. Braun-accepted
+             Mammillaria eichlamii Quehl-accepted
+             Mammillaria ekmanii Werderm.-accepted
+             Mammillaria elongata DC.-accepted
+             Mammillaria eriacantha Link & Otto ex Pfeiff.-accepted
+             Mammillaria erythrosperma Boed.-accepted
+             Mammillaria evermanniana (Britton & Rose) Orcutt-accepted
+             Mammillaria fittkaui Glass & R.A. Foster-accepted
+             Mammillaria flavicentra Backeb. ex Mottram-accepted
+             Mammillaria formosa Scheidw.-accepted
+             Mammillaria gasseriana Boed.-accepted
+             Mammillaria geminispina Haw.-accepted
+             Mammillaria gigantea Hildm. ex K. Schum.-accepted
+             Mammillaria glassii R.A. Foster-accepted
+             Mammillaria glochidiata Mart.-accepted
+             Mammillaria grahamii Engelm.-accepted
+             Mammillaria grusonii Runge-accepted
+             Mammillaria guelzowiana Werderm.-accepted
+             Mammillaria guerreronis (Bravo) Boed.-accepted
+             Mammillaria guillauminiana Backeb.-accepted
+             Mammillaria haageana Pfeiff.-accepted
+             Mammillaria hahniana Werderm.-accepted
+             Mammillaria halbingeri Boed.-accepted
+             Mammillaria halei Brandegee-accepted
+             Mammillaria hernandezii Glass & R.A. Foster-accepted
+             Mammillaria herrerae Werderm.-accepted
+             Mammillaria heyderi Muehlenpf.-accepted
+             Mammillaria huitzilopochtli D.R. Hunt-accepted
+             Mammillaria humboldtii Ehrenb.-accepted
+             Mammillaria hutchisoniana (H.E. Gates) Boed.-accepted
+             Mammillaria insularis H.E. Gates-accepted
+             Mammillaria jaliscana (Britton & Rose) Boed.-accepted
+             Mammillaria johnstonii Orcutt-accepted
+             Mammillaria karwinskiana Mart.-accepted
+             Mammillaria klissingiana Boed.-accepted
+             Mammillaria knippeliana Quehl-accepted
+             Mammillaria kraehenbuehlii (Krainz) Krainz-accepted
+             Mammillaria lasiacantha Engelm.-accepted
+             Mammillaria laui D.R. Hunt-accepted
+             Mammillaria lenta K. Brandegee-accepted
+             Mammillaria linaresensis R. Wolf & F. Wolf-accepted
+             Mammillaria longiflora (Britton & Rose) A. Berger-accepted
+             Mammillaria longimamma DC.-accepted
+             Mammillaria luethyi G.S. Hinton-accepted
+             Mammillaria magnifica Buchenau-accepted
+             Mammillaria magnimamma Haw.-accepted
+             Mammillaria mainiae K. Brandegee-accepted
+             Mammillaria mammillaris (L.) H. Karst.-accepted
+             Mammillaria marcosii W.A. Fitz Maur. & B. Fitz Maur.-accepted
+             Mammillaria marksiana Krainz-accepted
+             Mammillaria mathildae Kraehenb. & Krainz-accepted
+             Mammillaria matudae Bravo-accepted
+             Mammillaria mazatlanensis K. Schum. ex Gürke-accepted
+             Mammillaria meiacantha Engelm.-accepted
+             Mammillaria melaleuca Karw. ex Salm-Dyck-accepted
+             Mammillaria melanocentra Poselg.-accepted
+             Mammillaria mercadensis (Britton & Rose) Patoni-accepted
+             Mammillaria meyranii Bravo-accepted
+             Mammillaria microhelia Werderm.-accepted
+             Mammillaria moelleriana Boed.-accepted
+             Mammillaria morganiana Tiegel-accepted
+             Mammillaria muehlenpfordtii C.F. Först.-accepted
+             Mammillaria multidigitata Radley ex G.E. Linds.-accepted
+             Mammillaria mystax Mart.-accepted
+             Mammillaria nana Backeb. ex Mottram-accepted
+             Mammillaria napina J.A. Purpus-accepted
+             Mammillaria neopalmeri R.T. Craig-accepted
+             Mammillaria nivosa Link ex Pfeiff.-accepted
+             Mammillaria nunezii (Britton & Rose) Orcutt-accepted
+             Mammillaria orcuttii Boed.-accepted
+             Mammillaria oteroi Glass & R.A. Foster-accepted
+             Mammillaria painteri Rose ex Quehl-accepted
+             Mammillaria parkinsonii Ehrenb.-accepted
+             Mammillaria pectinifera F.A.C. Weber-accepted
+             Mammillaria peninsularis (Britton & Rose) Orcutt-accepted
+             Mammillaria pennispinosa Krainz-accepted
+             Mammillaria perbella Hildm. ex K. Schum.-accepted
+             Mammillaria petrophila K. Brandegee-accepted
+             Mammillaria petterssonii Hildm.-accepted
+             Mammillaria phitauiana (E.M. Baxter) Werderm.-accepted
+             Mammillaria picta Meinsh.-accepted
+             Mammillaria pilispina J.A. Purpus-accepted
+             Mammillaria plumosa F.A.C. Weber-accepted
+             Mammillaria polyedra Mart.-accepted
+             Mammillaria polythele Mart.-accepted
+             Mammillaria pondii Greene-accepted
+             Mammillaria poselgeri Hildm.-accepted
+             Mammillaria pottsii Scheer ex Salm-Dyck-accepted
+             Mammillaria pringlei (J.M. Coult.) K. Brandegee-accepted
+             Mammillaria prolifera (Mill.) Haw.-accepted
+             Mammillaria rekoi (Britton & Rose) Vaupel-accepted
+             Mammillaria rettigiana Boed.-accepted
+             Mammillaria rhodantha Link & Otto-accepted
+             Mammillaria roseoalba Boed.-accepted
+             Mammillaria saboae Glass-accepted
+             Mammillaria sanchez-mejoradae Rodr. González-accepted
+             Mammillaria sartorii J.A. Purpus-accepted
+             Mammillaria schiedeana Ehrenb.-accepted
+             Mammillaria schumannii Hildm.-accepted
+             Mammillaria schwarzii Shurly-accepted
+             Mammillaria scrippsiana (Britton & Rose) Orcutt-accepted
+             Mammillaria sempervivi DC.-accepted
+             Mammillaria senilis Lodd. ex Salm-Dyck-accepted
+             Mammillaria sinistrohamata Boed.-accepted
+             Mammillaria sonorensis R.T. Craig-accepted
+             Mammillaria sphacelata Mart.-accepted
+             Mammillaria sphaerica A. Dietr.-accepted
+             Mammillaria spinosissima Lem.-accepted
+             Mammillaria standleyi (Britton & Rose) Orcutt-accepted
+             Mammillaria supertexta Mart. ex Pfeiff.-accepted
+             Mammillaria surculosa Boed.-accepted
+             Mammillaria tayloriorum Glass & R.A. Foster-accepted
+             Mammillaria tetrancistra Engelm.-accepted
+             Mammillaria theresae Cutak-accepted
+             Mammillaria thornberi Orcutt-accepted
+             Mammillaria tonalensis D.R. Hunt-accepted
+             Mammillaria uncinata Zucc. ex Pfeiff.-accepted
+             Mammillaria varieaculeata Buchenau-accepted
+             Mammillaria vetula Mart.-accepted
+             Mammillaria viridiflora (Britton & Rose) Cory-accepted
+             Mammillaria wagneriana Boed.-accepted
+             Mammillaria weingartiana Boed.-accepted
+             Mammillaria wiesingeri Boed.-accepted
+             Mammillaria winterae Boed.-accepted
+             Mammillaria wrightii Engelm.-accepted
+             Mammillaria xaltianguensis Sánchez-Mej.-accepted
+             Mammillaria zeilmanniana Boed.-accepted
+             Mammillaria zephyranthoides Scheidw.-accepted
+             Mammillaria zublerae Repp.-accepted
+             Matucana aurantiaca (Vaupel) Buxb.-accepted
+             Matucana aureiflora F. Ritter-accepted
+             Matucana formosa F. Ritter-accepted
+             Matucana haynei (Otto) Britton & Rose-accepted
+             Matucana huagalensis (Donald & A.B. Lau) Bregman-accepted
+             Matucana intertexta F. Ritter-accepted
+             Matucana krahnii (Donald) Bregman-accepted
+             Matucana madisoniorum (Hutchison) G.D. Rowley-accepted
+             Matucana oreodoxa (F. Ritter) Slaba-accepted
+             Matucana paucicostata F. Ritter-accepted
+             Matucana pujupatii (Donald & A.B. Lau) Bregman-accepted
+             Matucana ritteri Buining-accepted
+             Matucana tuberculata (Donald) Bregman-accepted
+             Matucana weberbaueri (Vaupel) Backeb.-accepted
+             Melocactus andinus R. Gruber ex N.P. Taylor-accepted
+             Melocactus azureus Buining & Brederoo-accepted
+             Melocactus bahiensis (Britton & Rose) Luetzelb.-accepted
+             Melocactus bellavistensis Rauh & Backeb.-accepted
+             Melocactus braunii Esteves-accepted
+             Melocactus brederooianus Buining-accepted
+             Melocactus broadwayi (Britton & Rose) A. Berger-accepted
+             Melocactus caroli-linnaei N.P. Taylor-accepted
+             Melocactus concinnus Buining & Brederoo-accepted
+             Melocactus conoideus Buining & Brederoo-accepted
+             Melocactus curvispinus Pfeiff.-accepted
+             Melocactus deinacanthus Buining & Brederoo-accepted
+             Melocactus ernestii Vaupel-accepted
+             Melocactus estevesii P.J. Braun-accepted
+             Melocactus ferreophilus Buining & Brederoo-accepted
+             Melocactus glaucescens Buining & Brederoo-accepted
+             Melocactus harlowii (Britton & Rose) Vaupel-accepted
+             Melocactus inconcinnus Buining & Brederoo-accepted
+             Melocactus intortus (Mill.) Urb.-accepted
+             Melocactus lanssensianus P.J. Braun-accepted
+             Melocactus lemairei (Monv. ex Lem.) Miq. ex Lem.-accepted
+             Melocactus levitestatus Buining & Brederoo-accepted
+             Melocactus macracanthos (Salm-Dyck) Link & Otto-accepted
+             Melocactus matanzanus León-accepted
+             Melocactus mazelianus Ríha-accepted
+             Melocactus neryi K. Schum.-accepted
+             Melocactus oreas Miq.-accepted
+             Melocactus pachyacanthus Buining & Brederoo-accepted
+             Melocactus paucispinus G. Heimen & R.J. Paul-accepted
+             Melocactus peruvianus Vaupel-accepted
+             Melocactus praerupticola Areces-accepted
+             Melocactus salvadorensis Werderm.-accepted
+             Melocactus schatzlii H. Till & R. Gruber-accepted
+             Melocactus smithii (Alexander) Buining-accepted
+             Melocactus stramineus Suringar-accepted
+             Melocactus violaceus Pfeiff.-accepted
+             Melocactus X albicephalus Buining & Brederoo-accepted
+             Melocactus X horridus Werderm.-accepted
+             Melocactus zehntneri (Britton & Rose) Leutzelb.-accepted
+             Mesembryanthemum crystallinum L.-accepted
+             Mesembryanthemum nodiflorum L.-accepted
+             Micranthocereus albicephalus (Buining & Brederoo) F. Ritter-accepted
+             Micranthocereus auriazureus Buining & Brederoo-accepted
+             Micranthocereus dolichospermaticus (Buining & Brederoo) F. Ritter-accepted
+             Micranthocereus estevesii (Buining & Brederoo) F. Ritter-accepted
+             Micranthocereus flaviflorus Buining & Brederoo-accepted
+             Micranthocereus polyanthus (Werderm.) Backeb.-accepted
+             Micranthocereus purpureus (Gürke) F. Ritter-accepted
+             Micranthocereus streckeri Van Heek & Van Criek.-accepted
+             Micranthocereus violaciflorus Buining-accepted
+             Micromonolepis pusilla (Torr. ex S. Watson) Ulbr.-accepted
+             Microtea debilis Sw.-accepted
+             Microtea portoricensis Urb.-accepted
+             Mila caespitosa Britton & Rose-accepted
+             Minuartia arctica (Steven ex Ser.) Graebn.-accepted
+             Minuartia austromontana S.J. Wolf & Packer-accepted
+             Minuartia biflora (L.) Schinz & Thell.-accepted
+             Minuartia californica (A. Gray) Mattf.-accepted
+             Minuartia caroliniana (Walter) Mattf.-accepted
+             Minuartia cismontana Meinke & Zika-accepted
+             Minuartia cumberlandensis (Wofford & Kral) McNeill-accepted
+             Minuartia dawsonensis (Britton) House-accepted
+             Minuartia decumbens T.W. Nelson & J.P. Nelson-accepted
+             Minuartia douglasii (Fenzl ex Torr. & A. Gray) Mattf.-accepted
+             Minuartia drummondii (Shinners) McNeill-accepted
+             Minuartia elegans (Cham. & Schltdl.) Schischk.-accepted
+             Minuartia glabra (Michx.) Mattf.-accepted
+             Minuartia godfreyi (Shinners) McNeill-accepted
+             Minuartia graminifolia (Ard.) Jáv.-accepted
+             Minuartia groenlandica (Retz.) Ostenf.-accepted
+             Minuartia howellii (S. Watson) Mattf.-accepted
+             Minuartia hybrida (Vill.) Schischk.-accepted
+             Minuartia laricifolia (L.) Schinz & Thell.-accepted
+             Minuartia macrantha (Rydb.) House-accepted
+             Minuartia macrocarpa (Pursh) Ostenf.-accepted
+             Minuartia marcescens (Fernald) House-accepted
+             Minuartia michauxii (Fenzl) Farw.-accepted
+             Minuartia muscorum (Fassett) Rabeler-accepted
+             Minuartia nuttallii (Pax) Briq.-accepted
+             Minuartia obtusiloba (Rydb.) House-accepted
+             Minuartia patula (Michx.) Mattf.-accepted
+             Minuartia pusilla (S. Watson) Mattf.-accepted
+             Minuartia rosei (Maguire & Barneby) McNeill-accepted
+             Minuartia rossii (R. Br. ex Richardson) Graebn.-accepted
+             Minuartia rubella (Wahlenb.) Hiern-accepted
+             Minuartia stolonifera T.W. Nelson & J.P. Nelson-accepted
+             Minuartia stricta (Sw.) Hiern-accepted
+             Minuartia tenella (J. Gay) Mattf.-accepted
+             Minuartia uniflora (Walter) Mattf.-accepted
+             Minuartia verna (L.) Hiern-accepted
+             Minuartia yukonensis Hultén-accepted
+             Miqueliopuntia miquelii (Monv.) F. Ritter-accepted
+             Mirabilis aggregata (Ortega) Cav.-accepted
+             Mirabilis albida (Walter) Heimerl-accepted
+             Mirabilis alipes (S. Watson) Pilz-accepted
+             Mirabilis austrotexana B.L. Turner-accepted
+             Mirabilis coccinea (Torr.) Benth. & Hook. f.-accepted
+             Mirabilis expansa (Ruiz & Pav.) Standl.-accepted
+             Mirabilis gigantea (Standl.) Shinners-accepted
+             Mirabilis glabra (S. Watson) Standl.-accepted
+             Mirabilis glabrifolia (Ortega) I.M. Johnst.-accepted
+             Mirabilis greenei S. Watson-accepted
+             Mirabilis jalapa L.-accepted
+             Mirabilis laevis (Benth.) Curran-accepted
+             Mirabilis latifolia (A. Gray) Diggs, Lipscomb & O'Kennon-accepted
+             Mirabilis linearis (Pursh) Heimerl-accepted
+             Mirabilis longiflora L.-accepted
+             Mirabilis macfarlanei Constance & Rollins-accepted
+             Mirabilis melanotricha (Standl.) Spellenb.-accepted
+             Mirabilis multiflora (Torr.) A. Gray-accepted
+             Mirabilis nyctaginea (Michx.) MacMill.-accepted
+             Mirabilis oxybaphoides (A. Gray) A. Gray-accepted
+             Mirabilis pudica Barneby-accepted
+             Mirabilis rotundifolia (Greene) Standl.-accepted
+             Mirabilis tenuiloba S. Watson-accepted
+             Mirabilis texensis (J.M. Coult.) B.L. Turner-accepted
+             Mirabilis violacea (L.) Heimerl-accepted
+             Moehringia lateriflora (L.) Fenzl-accepted
+             Moehringia macrophylla (Hook.) Fenzl-accepted
+             Moehringia trinervia (L.) Clairv.-accepted
+             Moenchia erecta (L.) G. Gaertn., B. Mey. & Scherb.-accepted
+             Mollugo cerviana (L.) Ser.-accepted
+             Mollugo flavescens Andersson-accepted
+             Mollugo nudicaulis Lam.-accepted
+             Mollugo pentaphylla L.-accepted
+             Mollugo verticillata L.-accepted
+             Monolepis nuttalliana (Schult.) Greene-accepted
+             Monolepis spathulata A. Gray-accepted
+             Montia bostockii (A.E. Porsild) S.L. Welsh-accepted
+             Montia chamissoi (Ledeb. ex Spreng.) Greene-accepted
+             Montia dichotoma (Nutt.) Howell-accepted
+             Montia diffusa (Nutt.) Greene-accepted
+             Montia fontana L.-accepted
+             Montia howellii S. Watson-accepted
+             Montia linearis (Douglas ex Hook.) Greene-accepted
+             Montia parvifolia (Moc. ex DC.) Greene-accepted
+             Mucronea californica Benth.-accepted
+             Mucronea perfoliata (A. Gray) A. Heller-accepted
+             Muehlenbeckia axillaris (Hook. f.) Walp.-accepted
+             Muehlenbeckia complexa Meisn.-accepted
+             Muehlenbeckia hastulata (Sm.) I.M. Johnst.-accepted
+             Myosoton aquaticum (L.) Moench-accepted
+             Myrtillocactus cochal (Orcutt) Britton & Rose-accepted
+             Myrtillocactus eichlamii Britton & Rose-accepted
+             Myrtillocactus geometrizans (Mart. ex Pfeiff.) Console-accepted
+             Myrtillocactus schenckii (J.A. Purpus) Britton & Rose-accepted
+             Neea buxifolia (Hook. f.) Heimerl-accepted
+             Nemacaulis denudata Nutt.-accepted
+             Neobuxbaumia euphorbioides (Haw.) Buxb.-accepted
+             Neobuxbaumia macrocephala (F.A.C. Weber ex K. Schum.) E.Y. Dawson-accepted
+             Neobuxbaumia mezcalaensis (Bravo) Backeb.-accepted
+             Neobuxbaumia polylopha (DC.) Backeb.-accepted
+             Neobuxbaumia sanchezmejoradae A.B. Lau-accepted
+             Neobuxbaumia scoparia (Polseg.) Backeb.-accepted
+             Neobuxbaumia squamulosa Scheinvar & Sánchez-Mej.-accepted
+             Neobuxbaumia tetetzo (J.M. Coult.) Backeb.-accepted
+             Neolloydia conoidea (DC.) Britton & Rose-accepted
+             Neolloydia matehualensis Backeb.-accepted
+             Neoraimondia arequipensis (Meyen) Backeb.-accepted
+             Neoraimondia herzogiana (Backeb.) Buxb. & Krainz-accepted
+             Neowerdermannia chilensis Backeb.-accepted
+             Neowerdermannia vorwerkii Fric-accepted
+             Nepenthes adnata Tamin & M. Hotta ex Schlauer-accepted
+             Nepenthes alata Blanco-accepted
+             Nepenthes albomarginata T. Lobb ex Lindl.-accepted
+             Nepenthes ampullaria Jack-accepted
+             Nepenthes andamana M. Catal.-accepted
+             Nepenthes appendiculata Chi. C. Lee, Bourke, Rembold, W. Taylor & S.T. Yeo-accepted
+             Nepenthes argentii Jebb & Cheek-accepted
+             Nepenthes aristolochioides Jebb & Cheek-accepted
+             Nepenthes attenboroughii A.S. Rob., S. McPherson & V.B. Heinrich-accepted
+             Nepenthes baramensis C. Clarke, J.A. Moran & Chi. C. Lee-accepted
+             Nepenthes bellii K. Kondo-accepted
+             Nepenthes benstonei C. Clarke-accepted
+             Nepenthes bicalcarata Hook. f.-accepted
+             Nepenthes bokorensis Mey-accepted
+             Nepenthes bongso Korth.-accepted
+             Nepenthes boschiana Korth.-accepted
+             Nepenthes burbidgeae Hook. f. ex Burb.-accepted
+             Nepenthes burkei Mast.-accepted
+             Nepenthes campanulata Sh. Kurata-accepted
+             Nepenthes ceciliae Gronem., Coritico, Micheler, Marwinski, Acil & V.B. Amoroso-accepted
+             Nepenthes chang M. Catal.-accepted
+             Nepenthes chaniana C. Clarke, Chi. C. Lee & S. McPherson-accepted
+             Nepenthes clipeata Danser-accepted
+             Nepenthes danseri Jebb & Cheek-accepted
+             Nepenthes deaniana Macfarl.-accepted
+             Nepenthes densiflora Danser-accepted
+             Nepenthes diatas Jebb & Cheek-accepted
+             Nepenthes distillatoria L.-accepted
+             Nepenthes dubia Danser-accepted
+             Nepenthes edwardsiana Low ex Hook. f.-accepted
+             Nepenthes ephippiata Danser-accepted
+             Nepenthes epiphytica A.S. Rob., Nerz & Wistuba-accepted
+             Nepenthes eustachya Miq.-accepted
+             Nepenthes eymae Sh. Kurata-accepted
+             Nepenthes faizaliana J.H. Adam & Wilcock-accepted
+             Nepenthes flava Wistuba, Nerz & A. Fleischm.-accepted
+             Nepenthes fusca Danser-accepted
+             Nepenthes gantungensis S. McPherson, Cervancia, Chi. C. Lee, Jaunzems, Mey & A.S. Rob.-accepted
+             Nepenthes glabrata J.R. Turnbull & A.T. Middleton-accepted
+             Nepenthes glandulifera Chi. C. Lee-accepted
+             Nepenthes gracilis Korth.-accepted
+             Nepenthes gracillima Ridl.-accepted
+             Nepenthes gymnamphora Nees-accepted
+             Nepenthes hamata J.R. Turnbull & A.T. Middleton-accepted
+             Nepenthes hamiguitanensis Gronem., Wistuba, V.B. Heinrich, S. McPherson, Mey & V.B. Amoroso-accepted
+             Nepenthes hirsuta Hook. f.-accepted
+             Nepenthes hispida Beck-accepted
+             Nepenthes holdenii Mey-accepted
+             Nepenthes hurrelliana Cheek & A.L. Lamb-accepted
+             Nepenthes inermis Danser-accepted
+             Nepenthes insignis Danser-accepted
+             Nepenthes izumiae Troy Davis, C. Clarke & Tamin-accepted
+             Nepenthes jacquelineae Clarke, Davis & Tamin-accepted
+             Nepenthes jamban Chi. C. Lee, Hernawati & Akhriadi-accepted
+             Nepenthes kampotiana Lecomte-accepted
+             Nepenthes kerrii M. Catal. & Kruetr.-accepted
+             Nepenthes khasiana Hook. f.-accepted
+             Nepenthes klossii Ridl.-accepted
+             Nepenthes lamii Jebb & Cheek-accepted
+             Nepenthes lavicola Wistuba & Rischer-accepted
+             Nepenthes lingulata Chi. C. Lee, Hernawati & Akhriadi-accepted
+             Nepenthes longifolia Nerz & Wistuba-accepted
+             Nepenthes lowii Hook. f.-accepted
+             Nepenthes macfarlanei Hemsl.-accepted
+             Nepenthes macrophylla (Marabini) Jebb & Cheek-accepted
+             Nepenthes macrovulgaris J.R. Turnbull & A.T. Middleton-accepted
+             Nepenthes madagascariensis Poir.-accepted
+             Nepenthes mantalingajanensis Nerz & Wistuba-accepted
+             Nepenthes mapuluensis J.H. Adam & Wilcock-accepted
+             Nepenthes masoalensis Schmid-Hollinger-accepted
+             Nepenthes maxima Reinw. ex Nees-accepted
+             Nepenthes merrilliana Macfarl.-accepted
+             Nepenthes micramphora V.B. Heinrich, S. McPherson, Gronem. & V.B. Amoroso-accepted
+             Nepenthes mikei B. Salmon & Maulder-accepted
+             Nepenthes mindanaoensis Sh. Kurata-accepted
+             Nepenthes mira Jebb & Cheek-accepted
+             Nepenthes mirabilis (Lour.) Druce-accepted
+             Nepenthes mollis Danser-accepted
+             Nepenthes monticola A.S. Rob., Wistuba, Nerz, M. Mansur & S. McPherson-accepted
+             Nepenthes muluensis M. Hotta-accepted
+             Nepenthes murudensis Culham ex Jebb & Cheek-accepted
+             Nepenthes naga Akhriadi, Hernawati, Primaldhi & M. Hambali-accepted
+             Nepenthes neoguineensis Macfarl.-accepted
+             Nepenthes nigra Nerz, Wistuba, Chi. C. Lee, Bourke, U. Zimm. & S. McPherson-accepted
+             Nepenthes northiana Hook. f.-accepted
+             Nepenthes ovata Nerz & Wistuba-accepted
+             Nepenthes palawanensis S. McPherson, Cervancia, Chi. C. Lee, Jaunzems, Mey & A.S. Rob.-accepted
+             Nepenthes paniculata Danser-accepted
+             Nepenthes papuana Danser-accepted
+             Nepenthes pectinata Danser-accepted
+             Nepenthes peltata Sh. Kurata-accepted
+             Nepenthes pervillei Blume-accepted
+             Nepenthes petiolata Danser-accepted
+             Nepenthes philippinensis Macfarl.-accepted
+             Nepenthes pilosa Danser-accepted
+             Nepenthes pitopangii Chi. C. Lee, S. McPherson, Bourke & M. Mansur-accepted
+             Nepenthes platychila Chi. C. Lee-accepted
+             Nepenthes pulchra Gronem., S. McPherson, Coritico, Micheler, Marwinski & V.B. Amoroso-accepted
+             Nepenthes rafflesiana Jack-accepted
+             Nepenthes rajah Hook. f.-accepted
+             Nepenthes ramispina Ridl.-accepted
+             Nepenthes reinwardtiana Miq.-accepted
+             Nepenthes rhombicaulis Sh. Kurata-accepted
+             Nepenthes rigidifolia Akhriadi, Hernawati & Tamin-accepted
+             Nepenthes robcantleyi Cheek-accepted
+             Nepenthes rowanae F.M. Bailey-accepted
+             Nepenthes sanguinea Lindl.-accepted
+             Nepenthes saranganiensis Sh. Kurata-accepted
+             Nepenthes sharifah-hapsahii J.H. Adam & Hafiza-accepted
+             Nepenthes sibuyanensis Nerz-accepted
+             Nepenthes singalana Becc.-accepted
+             Nepenthes smilesii Hemsl.-accepted
+             Nepenthes spathulata Danser-accepted
+             Nepenthes spectabilis Danser-accepted
+             Nepenthes stenophylla Mast.-accepted
+             Nepenthes sumatrana (Miq.) G. Beck-accepted
+             Nepenthes suratensis M. Catal.-accepted
+             Nepenthes surigaoensis Elmer-accepted
+             Nepenthes talangensis Nerz & Wistuba-accepted
+             Nepenthes tenax C. Clarke & R. Kruger-accepted
+             Nepenthes tentaculata Hook. f.-accepted
+             Nepenthes tenuis Nerz & Wistuba-accepted
+             Nepenthes thai Cheek-accepted
+             Nepenthes thorelii Lecomte-accepted
+             Nepenthes tobaica Danser-accepted
+             Nepenthes tomoriana Danser-accepted
+             Nepenthes treubiana Warb.-accepted
+             Nepenthes truncata Macfarl.-accepted
+             Nepenthes undulatifolia Nerz, Wistuba, U. Zimm., Chi. C. Lee, Pirade & Pitopang-accepted
+             Nepenthes veitchii Hook. f.-accepted
+             Nepenthes ventricosa Blanco-accepted
+             Nepenthes vieillardii Hook. f.-accepted
+             Nepenthes villosa Hook. f.-accepted
+             Nepenthes vogelii Schuit. & de Vogel-accepted
+             Nepenthes X alisaputrana J.H. Adam & Wilcock-accepted
+             Nepenthes X bauensis Chi. C. Lee-accepted
+             Nepenthes X cincta Mast.-accepted
+             Nepenthes X coccinea Mast.-accepted
+             Nepenthes X harryana Burb.-accepted
+             Nepenthes X hookeriana Lindl.-accepted
+             Nepenthes X kinabaluensis Sh. Kurata-accepted
+             Nepenthes X pyriformis Sh. Kurata (pro sp.)-accepted
+             Nepenthes X trichocarpa Miq.-accepted
+             Nepenthes X trusmadiensis Marabini-accepted
+             Nitrophila mohavensis Munz & J.C. Roos-accepted
+             Nitrophila occidentalis (Moq.) S. Watson-accepted
+             Nopalea auberi (Pfeiff.) Salm-Dyck-accepted
+             Nopalea cochenillifera (L.) Salm-Dyck-accepted
+             Nopalea dejecta (Salm-Dyck) Salm-Dyck-accepted
+             Nopalea hondurensis (Standl.) Rebman-accepted
+             Nopalea inaperta A. Schott ex Griffiths-accepted
+             Nototrichium divaricatum Lorence-accepted
+             Nototrichium humile Hillebr.-accepted
+             Nototrichium sandwicense (A. Gray) Hillebr.-accepted
+             Nyctaginia capitata Choisy-accepted
+             Oberna multifida (Adams) Ikonn.-accepted
+             Obregonia denegrii Fric-accepted
+             Okenia hypogaea Schltdl. & Cham.-accepted
+             Opuntia acaulis Ekman & Werderm.-accepted
+             Opuntia aciculata Griffiths-accepted
+             Opuntia anacantha Speg.-accepted
+             Opuntia apurimacensis (F. Ritter) R. Crook & Mottram-accepted
+             Opuntia arcei Cárdenas-accepted
+             Opuntia arechavaletae Speg.-accepted
+             Opuntia assumptionis K. Schum.-accepted
+             Opuntia atrispina Griffiths-accepted
+             Opuntia aurantiaca Lindl.-accepted
+             Opuntia aurea E.M. Baxter-accepted
+             Opuntia aureispina (S. Brack & K.D. Heil) Pinkava & B.D. Parfitt-accepted
+             Opuntia basilaris Engelm. & J.M. Bigelow-accepted
+             Opuntia boldinghii Britton & Rose-accepted
+             Opuntia borinquensis Britton & Rose-accepted
+             Opuntia bravoana E.M. Baxter-accepted
+             Opuntia caracassana Salm-Dyck-accepted
+             Opuntia chaffeyi Britton & Rose-accepted
+             Opuntia chisosensis (M.S. Anthony) D.J. Ferguson-accepted
+             Opuntia chlorotica Engelm. & J.M. Bigelow-accepted
+             Opuntia cordobensis Speg.-accepted
+             Opuntia curassavica (L.) Mill.-accepted
+             Opuntia decumbens Salm-Dyck-accepted
+             Opuntia delaetiana (F.A.C. Weber) Vaupel-accepted
+             Opuntia depressa Rose-accepted
+             Opuntia discata Griffiths-accepted
+             Opuntia ekmanii Werderm.-accepted
+             Opuntia elata Salm-Dyck-accepted
+             Opuntia elatior Mill.-accepted
+             Opuntia engelmannii Salm-Dyck ex Engelm.-accepted
+             Opuntia excelsa Sánchez-Mej.-accepted
+             Opuntia ficus-indica (L.) Mill.-accepted
+             Opuntia fragilis (Nutt.) Haw.-accepted
+             Opuntia fuliginosa Griffiths-accepted
+             Opuntia galapageia Hensl.-accepted
+             Opuntia gosseliniana F.A.C. Weber-accepted
+             Opuntia huajuapensis Bravo-accepted
+             Opuntia humifusa (Raf.) Raf.-accepted
+             Opuntia hyptiacantha F.A.C. Weber-accepted
+             Opuntia lagunae E.M. Baxter-accepted
+             Opuntia lasiacantha Pfeiff.-accepted
+             Opuntia leucotricha DC.-accepted
+             Opuntia littoralis (Engelm.) Cockerell-accepted
+             Opuntia macrocentra Engelm.-accepted
+             Opuntia macrorhiza Engelm.-accepted
+             Opuntia megapotamica Arechav.-accepted
+             Opuntia megarrhiza Rose-accepted
+             Opuntia microdasys (Lehm.) Pfeiff.-accepted
+             Opuntia monacantha (Willd.) Haw.-accepted
+             Opuntia nicholii L.D. Benson-accepted
+             Opuntia oricola Philbrick-accepted
+             Opuntia parviclada S. Arias & Gama-accepted
+             Opuntia phaeacantha Engelm.-accepted
+             Opuntia pilifera F.A.C. Weber-accepted
+             Opuntia pinkavae B.D. Parfitt-accepted
+             Opuntia pittieri Britton & Rose-accepted
+             Opuntia polyacantha Haw.-accepted
+             Opuntia pottsii Salm-Dyck-accepted
+             Opuntia puberula Pfeiff.-accepted
+             Opuntia pubescens J.C. Wendl. ex Pfeiff.-accepted
+             Opuntia pusilla (Haw.) Nutt.-accepted
+             Opuntia pycnantha Engelm. ex J.M. Coult.-accepted
+             Opuntia quimilo K. Schum.-accepted
+             Opuntia quitensis F.A.C. Weber-accepted
+             Opuntia repens Bello-accepted
+             Opuntia robinsonii J.G. Ortega-accepted
+             Opuntia robusta H.L. Wendl. ex Pfeiff.-accepted
+             Opuntia rufida Engelm.-accepted
+             Opuntia salmiana J. Parm. ex Pfeiff.-accepted
+             Opuntia sanguinea Proctor-accepted
+             Opuntia santa-rita (Griffiths & Hare) Rose-accepted
+             Opuntia scheeri F.A.C. Weber-accepted
+             Opuntia schickendantzii F.A.C. Weber-accepted
+             Opuntia schumannii F.A.C. Weber ex A. Berger-accepted
+             Opuntia soederstromiana Britton & Rose-accepted
+             Opuntia stenarthra K. Schum.-accepted
+             Opuntia stenopetala Engelm.-accepted
+             Opuntia streptacantha Lem.-accepted
+             Opuntia stricta (Haw.) Haw.-accepted
+             Opuntia strigil Engelm.-accepted
+             Opuntia sulphurea G. Don ex Loudon-accepted
+             Opuntia taylorii Britton & Rose-accepted
+             Opuntia tehuacana S. Arias & U. Guzmán-accepted
+             Opuntia tehuantepecana (Bravo) Bravo-accepted
+             Opuntia tomentosa Salm-Dyck-accepted
+             Opuntia tortispina Engelm. & J.M. Bigelow-accepted
+             Opuntia triacantha (Willd.) Sweet-accepted
+             Opuntia tuna (L.) Mill.-accepted
+             Opuntia valida Griffiths-accepted
+             Opuntia velutina F.A.C. Weber-accepted
+             Opuntia wilcoxii Britton & Rose-accepted
+             Opuntia X aequatorialis Britton & Rose (pro sp.)-accepted
+             Opuntia X andersonii H.M. Hern., Gómez-Hin. & Bárcenas-accepted
+             Opuntia X columbiana Griffiths (pro sp.)-accepted
+             Opuntia X cubensis Britton & Rose (pro sp.)-accepted
+             Opuntia X curvispina Griffiths (pro sp.)-accepted
+             Opuntia X demissa Griffiths (pro sp.)-accepted
+             Opuntia X edwardsii V.E. Grant & K.A. Grant-accepted
+             Opuntia X lucayana Britton (pro sp.)-accepted
+             Opuntia X occidentalis Engelm. & J.M. Bigelow (pro sp.)-accepted
+             Opuntia X rooneyi M.P. Griff.-accepted
+             Opuntia X spinosibacca M.S. Anthony (pro sp.)-accepted
+             Opuntia X vaseyi (J.M. Coult.) Britton & Rose (pro sp.)-accepted
+             Opuntia X wootonii Griffiths (pro sp.)-accepted
+             Oreocereus celsianus (Salm-Dyck) A. Berger ex Riccob.-accepted
+             Oreocereus doelzianus (Backeb.) Borg-accepted
+             Oreocereus hempelianus (Gürke) D.R. Hunt-accepted
+             Oreocereus leucotrichus (Phil.) B. Wagenkn.-accepted
+             Oreocereus pseudofossulatus D.R. Hunt-accepted
+             Oreocereus trollii Kupper-accepted
+             Oroya borchersii (Boed.) Backeb.-accepted
+             Oroya peruviana (K. Schum.) Britton & Rose-accepted
+             Ortegocactus macdougallii Alexander-accepted
+             Oscularia vredenburgensis (L. Bolus) H.E.K. Hartmann-accepted
+             Oxyria digyna (L.) Hill-accepted
+             Oxytheca dendroidea Nutt.-accepted
+             Oxytheca perfoliata Torr. & A. Gray-accepted
+             Oxytheca watsonii Torr. & A. Gray-accepted
+             Pachycereus fulviceps (F.A.C. Weber ex Schumann) D.R. Hunt-accepted
+             Pachycereus gatesii (M.E. Jones) D.R. Hunt-accepted
+             Pachycereus gaumeri Britton & Rose-accepted
+             Pachycereus grandis Rose-accepted
+             Pachycereus hollianus (F.A.C. Weber) Buxb.-accepted
+             Pachycereus lepidanthus (Eichlam) Britton & Rose-accepted
+             Pachycereus marginatus (DC.) Britton & Rose-accepted
+             Pachycereus militaris (Audot) D.R. Hunt-accepted
+             Pachycereus pecten-aboriginum (Engelm. ex S. Watson) Britton & Rose-accepted
+             Pachycereus pringlei (S. Watson) Britton & Rose-accepted
+             Pachycereus schottii (Engelm.) D.R. Hunt-accepted
+             Pachycereus tepamo Gama & S. Arias-accepted
+             Pachycereus weberi (J.M. Coult.) Backeb.-accepted
+             Parodia alacriportana Backeb. & Voll-accepted
+             Parodia allosiphon (Marchesi) N.P. Taylor-accepted
+             Parodia arnostiana (Lisal & Kolarik) Hofacker-accepted
+             Parodia aureicentra Backeb.-accepted
+             Parodia ayopayana Cárdenas-accepted
+             Parodia buiningii (Buxb.) N.P. Taylor-accepted
+             Parodia carambeiensis (Buining & Brederoo) Hofacker-accepted
+             Parodia chrysacanthion (K. Schum.) Backeb.-accepted
+             Parodia columnaris Cárdenas-accepted
+             Parodia comarapana Cárdenas-accepted
+             Parodia commutans F. Ritter-accepted
+             Parodia concinna (Monv.) N.P. Taylor-accepted
+             Parodia crassigibba (F. Ritter) N.P. Taylor-accepted
+             Parodia erinacea (Haw.) N.P. Taylor-accepted
+             Parodia formosa F. Ritter-accepted
+             Parodia fusca (F. Ritter) Rogoz. & P.J. Braun-accepted
+             Parodia gibbulosoides F.H. Brandt-accepted
+             Parodia haselbergii (Haage ex Rümpler) F.H. Brandt-accepted
+             Parodia hausteiniana Rausch-accepted
+             Parodia herteri (Werderm.) N.P. Taylor-accepted
+             Parodia horstii (F. Ritter) N.P. Taylor-accepted
+             Parodia langsdorffii (Lehm.) D.R. Hunt-accepted
+             Parodia leninghausii (F. Haage) F.H. Brandt-accepted
+             Parodia linkii (Lehm.) R. Kiesling-accepted
+             Parodia maassii (Heese) A. Berger-accepted
+             Parodia magnifica (F. Ritter) F.H. Brandt-accepted
+             Parodia mammulosa (Lem.) N.P. Taylor-accepted
+             Parodia microsperma (F.A.C. Weber) Speg.-accepted
+             Parodia mueller-melchersii (Backeb.) N.P. Taylor-accepted
+             Parodia muricata (Otto ex Pfeiff.) Hofacker-accepted
+             Parodia neoarechavaletae (Havlícek) D.R. Hunt-accepted
+             Parodia neohorstii (S. Theun.) N.P. Taylor-accepted
+             Parodia nigrispina (K. Schum.) F.H. Brandt-accepted
+             Parodia nivosa (Fric) Backeb.-accepted
+             Parodia nothorauschii D.R. Hunt-accepted
+             Parodia ocampoi Cárdenas-accepted
+             Parodia otaviana Cárdenas-accepted
+             Parodia ottonis (Lehm.) N.P. Taylor-accepted
+             Parodia oxycostata (Buining & Brederoo) Hofacker-accepted
+             Parodia penicillata Fechser & Steeg-accepted
+             Parodia prestoensis F.H. Brandt-accepted
+             Parodia procera F. Ritter-accepted
+             Parodia rechensis (Buining) F.H. Brandt-accepted
+             Parodia ritteri Buining-accepted
+             Parodia rudibuenekeri (W.R. Abraham) Rogoz. & P.J. Braun-accepted
+             Parodia schumanniana (Nic.) F.H. Brandt-accepted
+             Parodia schwebsiana (Werderm.) Backeb.-accepted
+             Parodia scopa (Spreng.) N.P. Taylor-accepted
+             Parodia stockingeri (Prestlé) Rogoz. & P.J. Braun-accepted
+             Parodia stuemeri (Werderm.) Backeb.-accepted
+             Parodia subterranea F. Ritter-accepted
+             Parodia taratensis Cárdenas-accepted
+             Parodia tenuicylindrica (F. Ritter) D.R. Hunt-accepted
+             Parodia tuberculata Cárdenas-accepted
+             Parodia turbinata (Arechav.) Hofacker-accepted
+             Parodia turecekiana R. Kiesling-accepted
+             Parodia warasii (F. Ritter) F.H. Brandt-accepted
+             Parodia werdermanniana (Herter) N.P. Taylor-accepted
+             Paronychia ahartii Ertter-accepted
+             Paronychia americana (Nutt.) Fenzl ex Walp.-accepted
+             Paronychia argyrocoma (Michx.) Nutt.-accepted
+             Paronychia baldwinii (Torr. & A. Gray) Fenzl ex Walp.-accepted
+             Paronychia canadensis (L.) Alph. Wood-accepted
+             Paronychia chartacea Fernald-accepted
+             Paronychia congesta Correll-accepted
+             Paronychia depressa (Torr. & A. Gray) Nutt. ex A. Nelson-accepted
+             Paronychia drummondii Torr. & A. Gray-accepted
+             Paronychia echinulata Chater-accepted
+             Paronychia erecta (Chapm.) Shinners-accepted
+             Paronychia fastigiata (Raf.) Fernald-accepted
+             Paronychia franciscana Eastw.-accepted
+             Paronychia herniarioides (Michx.) Nutt.-accepted
+             Paronychia jamesii Torr. & A. Gray-accepted
+             Paronychia jonesii M.C. Johnst.-accepted
+             Paronychia lindheimeri Engelm. ex A. Gray-accepted
+             Paronychia maccartii Correll-accepted
+             Paronychia monticola Cory-accepted
+             Paronychia patula Shinners-accepted
+             Paronychia pulvinata A. Gray-accepted
+             Paronychia rugelii (Chapm.) Shuttlw. ex Chapm.-accepted
+             Paronychia sessiliflora Nutt.-accepted
+             Paronychia setacea Torr. & A. Gray-accepted
+             Paronychia virginica Spreng.-accepted
+             Paronychia wilkinsonii S. Watson-accepted
+             Patellifolia patellaris (Moq.) A.J. Scott, Ford-Lloyd & J.T. Williams-accepted
+             Pediocactus bradyi L.D. Benson-accepted
+             Pediocactus despainii S.L. Welsh & Goodrich-accepted
+             Pediocactus knowltonii L.D. Benson-accepted
+             Pediocactus nigrispinus (Hochstätter) Hochstätter-accepted
+             Pediocactus paradinei B.W. Benson-accepted
+             Pediocactus peeblesianus (Croizat) L.D. Benson-accepted
+             Pediocactus sileri (Engelm. ex J.M. Coult.) L.D. Benson-accepted
+             Pediocactus simpsonii (Engelm.) Britton & Rose-accepted
+             Pediocactus winkleri K.D. Heil-accepted
+             Pelecyphora aselliformis Ehrenb.-accepted
+             Pelecyphora strobiliformis (Werderm.) Kreuz.-accepted
+             Peniocereus castellae Sánchez-Mej.-accepted
+             Peniocereus chiapensis (Bravo) Gómez-Hin. & H.M. Hern.-accepted
+             Peniocereus cuixmalensis Sánchez-Mej.-accepted
+             Peniocereus fosterianus Cutak-accepted
+             Peniocereus greggii (Engelm.) Britton & Rose-accepted
+             Peniocereus guatemalensis (Britton & Rose) D.R. Hunt-accepted
+             Peniocereus hirschtianus (K. Schum.) D.R. Hunt-accepted
+             Peniocereus johnstonii Britton & Rose-accepted
+             Peniocereus lazaro-cardenasii (J.L. Contr., J. Jiménez Ram., Sánchez-Mej. & C.A. Toledo) D.R. Hunt-accepted
+             Peniocereus macdougallii Cutak-accepted
+             Peniocereus maculatus (Weing.) Cutak-accepted
+             Peniocereus marianus (Gentry) Sánchez-Mej.-accepted
+             Peniocereus oaxacensis (Britton & Rose) D.R. Hunt-accepted
+             Peniocereus occidentalis Bravo-accepted
+             Peniocereus rosei J.G. Ortega-accepted
+             Peniocereus serpentinus (Lag. & Rodr.) N.P. Taylor-accepted
+             Peniocereus striatus (Brandegee) Buxb.-accepted
+             Peniocereus tepalcatepecanus Sánchez-Mej.-accepted
+             Peniocereus viperinus (F.A.C. Weber) Buxb.-accepted
+             Peniocereus zopilotensis (J. Meyrán) Buxb.-accepted
+             Pereskia aculeata Mill.-accepted
+             Pereskia aureiflora F. Ritter-accepted
+             Pereskia bahiensis Gürke-accepted
+             Pereskia bleo (Kunth) DC.-accepted
+             Pereskia diaz-romeroana Cárdenas-accepted
+             Pereskia grandifolia Haw.-accepted
+             Pereskia guamacho F.A.C. Weber-accepted
+             Pereskia horrida (Kunth) DC.-accepted
+             Pereskia lychnidiflora DC.-accepted
+             Pereskia marcanoi Areces-accepted
+             Pereskia nemorosa Rojas Acosta-accepted
+             Pereskia portulacifolia (L.) DC.-accepted
+             Pereskia quisqueyana Alain-accepted
+             Pereskia sacharosa Griseb.-accepted
+             Pereskia stenantha F. Ritter-accepted
+             Pereskia weberiana K. Schum.-accepted
+             Pereskia zinniiflora DC.-accepted
+             Pereskiopsis aquosa (F.A.C. Weber) Britton & Rose-accepted
+             Pereskiopsis blakeana J.G. Ortega-accepted
+             Pereskiopsis diguetii (F.A.C. Weber) Britton & Rose-accepted
+             Pereskiopsis kellermanii Rose-accepted
+             Pereskiopsis porteri (Brandegee ex F.A.C. Weber) Britton & Rose-accepted
+             Pereskiopsis rotundifolia (DC.) Britton & Rose-accepted
+             Persicaria amphibia (L.) Delarbre-accepted
+             Persicaria arifolia (L.) Haraldson-accepted
+             Persicaria bicornis (Raf.) Nieuwl.-accepted
+             Persicaria bungeana (Turcz.) Nakai-accepted
+             Persicaria capitata (Buch.-Ham. ex D. Don) H. Gross-accepted
+             Persicaria careyi (Olney) Greene-accepted
+             Persicaria chinensis (L.) H. Gross-accepted
+             Persicaria decipiens (R. Br.) K.L. Wilson-accepted
+             Persicaria glabra (Willd.) M. Gómez-accepted
+             Persicaria hirsuta (Walter) Small-accepted
+             Persicaria hydropiper (L.) Opiz-accepted
+             Persicaria hydropiperoides (Michx.) Small-accepted
+             Persicaria lapathifolia (L.) Gray-accepted
+             Persicaria longiseta (Bruijn) Kitag.-accepted
+             Persicaria maculosa Gray-accepted
+             Persicaria meisneriana (Cham. & Schltdl.) M. Gómez-accepted
+             Persicaria minor (Huds.) Opiz-accepted
+             Persicaria nepalensis (Meisn.) H. Gross-accepted
+             Persicaria nodosa (Pers.) Opiz-accepted
+             Persicaria orientalis (L.) Spach-accepted
+             Persicaria pensylvanica (L.) M. Gómez-accepted
+             Persicaria perfoliata (L.) H. Gross-accepted
+             Persicaria posumbu (Buch.-Ham. ex D. Don) H. Gross-accepted
+             Persicaria punctata (Elliott) Small-accepted
+             Persicaria puritanorum (Fernald) Soják-accepted
+             Persicaria robustior (Small) E.P. Bicknell-accepted
+             Persicaria sagittata (L.) H. Gross-accepted
+             Persicaria setacea (Baldwin) Small-accepted
+             Persicaria virginiana (L.) Gaertn.-accepted
+             Persicaria wallichii Greuter & Burdet-accepted
+             Petiveria alliacea L.-accepted
+             Petrorhagia dubia (Raf.) G. López & Romo-accepted
+             Petrorhagia nanteuilii (Burnat) P.W. Ball & Heywood-accepted
+             Petrorhagia prolifera (L.) P.W. Ball & Heywood-accepted
+             Petrorhagia saxifraga (L.) Link-accepted
+             Pfaffia aurata (Mart.) Borsch-accepted
+             Pfaffia grandiflora (Hook.) R.E. Fr.-accepted
+             Pfeiffera asuntapatensis (M. Kessler, Ibisch & Barthlott) Ralf Bauer-accepted
+             Pfeiffera boliviana (Britton) D.R. Hunt-accepted
+             Pfeiffera brevispina D.R. Hunt-accepted
+             Pfeiffera crenata (Britton) P.V. Heath-accepted
+             Pfeiffera ianthothele (Monv.) F.A.C. Weber-accepted
+             Pfeiffera micrantha (Vaupel) P.V. Heath-accepted
+             Pfeiffera miyagawae Barthlott & Rauh-accepted
+             Pfeiffera monacantha (Griseb.) P.V. Heath-accepted
+             Pfeiffera paranganiensis (Cárdenas) P.V. Heath-accepted
+             Phaulothamnus spinescens A. Gray-accepted
+             Phemeranthus aurantiacus (Engelm.) Kiger-accepted
+             Phemeranthus brevicaulis (S. Watson) Kiger-accepted
+             Phemeranthus brevifolius (Torr.) Hershk.-accepted
+             Phemeranthus calcaricus (S. Ware) Kiger-accepted
+             Phemeranthus calycinus (Engelm.) Kiger-accepted
+             Phemeranthus humilis (Greene) Kiger-accepted
+             Phemeranthus longipes (Wooton & Standl.) Kiger-accepted
+             Phemeranthus marginatus (Greene) Kiger-accepted
+             Phemeranthus mengesii (W. Wolf) Kiger-accepted
+             Phemeranthus parviflorus (Nutt.) Kiger-accepted
+             Phemeranthus rugospermus (Holz.) Kiger-accepted
+             Phemeranthus sediformis (Poelln.) Kiger-accepted
+             Phemeranthus spinescens (Torr.) Hershk.-accepted
+             Phemeranthus teretifolius (Pursh) Raf.-accepted
+             Phemeranthus thompsonii (N.D. Atwood & S.L. Welsh) Kiger-accepted
+             Phemeranthus validulus (Greene) Kiger-accepted
+             Phytolacca acinosa Roxb.-accepted
+             Phytolacca americana L.-accepted
+             Phytolacca bogotensis Kunth-accepted
+             Phytolacca dodecandra L'Her.-accepted
+             Phytolacca heterotepala H. Walter-accepted
+             Phytolacca icosandra L.-accepted
+             Phytolacca octandra L.-accepted
+             Phytolacca rivinoides Kunth & C.D. Bouché-accepted
+             Phytolacca sandwicensis Endl.-accepted
+             Pierrebraunia bahiensis (P.J. Braun & Esteves) Esteves-accepted
+             Pierrebraunia brauniorum Esteves-accepted
+             Pilosocereus albisummus P.J. Braun & Esteves-accepted
+             Pilosocereus alensis (F.A.C. Weber ex Rol.-Goss.) Byles & G.D. Rowley-accepted
+             Pilosocereus arrabidae (Lem.) Byles & G.D. Rowley-accepted
+             Pilosocereus aureispinus (Buining & Brederoo) F. Ritter-accepted
+             Pilosocereus aurisetus (Werderm.) Byles & G.D. Rowley-accepted
+             Pilosocereus azulensis N.P. Taylor & Zappi-accepted
+             Pilosocereus bohlei Hofacker-accepted
+             Pilosocereus brasiliensis (Britton & Rose) Backeb.-accepted
+             Pilosocereus catingicola (Gürke) Byles & G.D. Rowley-accepted
+             Pilosocereus chrysacanthus (F.A.C. Weber) Byles & G.D. Rowley-accepted
+             Pilosocereus chrysostele (Vaupel) Byles & G.D. Rowley-accepted
+             Pilosocereus collinsii (Britton & Rose) Byles & G.D. Rowley-accepted
+             Pilosocereus densiareolatus F. Ritter-accepted
+             Pilosocereus diersianus (Esteves) P.J. Braun & Esteves-accepted
+             Pilosocereus flavipulvinatus (Buining & Brederoo) F. Ritter-accepted
+             Pilosocereus flexibilispinus P.J. Braun & Esteves-accepted
+             Pilosocereus floccosus (Backeb. & Voll) Byles & G.D. Rowley-accepted
+             Pilosocereus fulvilanatus (Buining & Brederoo) F. Ritter-accepted
+             Pilosocereus glaucochrous (Werderm.) Byles & G.D. Rowley-accepted
+             Pilosocereus gounellei (F.A.C. Weber ex K. Schum.) Byles & G.D. Rowley-accepted
+             Pilosocereus juaruensis (Buining & Brederoo) P.J. Braun & Esteves-accepted
+             Pilosocereus lanuginosus (L.) Byles & G.D. Rowley-accepted
+             Pilosocereus leucocephalus (Poselg.) Byles & G.D. Rowley-accepted
+             Pilosocereus machrisii (E.Y. Dawson) Backeb.-accepted
+             Pilosocereus magnificus (Buining & Brederoo) F. Ritter-accepted
+             Pilosocereus mollispinus P.J. Braun & Esteves-accepted
+             Pilosocereus multicostatus F. Ritter-accepted
+             Pilosocereus oligolepis (Vapel) Byles & G.D. Rowley-accepted
+             Pilosocereus pachycladus F. Ritter-accepted
+             Pilosocereus parvus (Diers & Esteves) P.J. Braun & Esteves-accepted
+             Pilosocereus pentaedrophorus (Labour.) Byles & G.D. Rowley-accepted
+             Pilosocereus piauhyensis (Gürke) Byles & G.D. Rowley-accepted
+             Pilosocereus polygonus (Lam.) Byles & G.D. Rowley-accepted
+             Pilosocereus purpusii (Britton & Rose) Byles & G.D. Rowley-accepted
+             Pilosocereus pusillibaccatus P.J. Braun & Esteves-accepted
+             Pilosocereus quadricentralis (E.Y. Dawson) Backeb.-accepted
+             Pilosocereus robinii (Lem.) Byles & G.D. Rowley-accepted
+             Pilosocereus royenii (L.) Byles & G.D. Rowley-accepted
+             Pilosocereus splendidus F. Ritter-accepted
+             Pilosocereus tuberculatus (Werderm.) Byles & G.D. Rowley-accepted
+             Pilosocereus tweedyanus (Britton & Rose) Byles & G.D. Rowley-accepted
+             Pilosocereus ulei (K. Schum.) Byles & G.D. Rowley-accepted
+             Pilosocereus vilaboensis (Diers & Esteves) P.J. Braun & Esteves-accepted
+             Pilosocereus X occultiflorus P.J. Braun & Esteves-accepted
+             Pilosocereus X subsimilis Rizzini & A. Mattos-accepted
+             Pisonia aculeata L.-accepted
+             Pisonia albida (Heimerl) Britton ex Standl.-accepted
+             Pisonia brunoniana Endl.-accepted
+             Pisonia capitata (S. Watson) Standl.-accepted
+             Pisonia grandis R. Br.-accepted
+             Pisonia rotundata Griseb.-accepted
+             Pisonia sandwicensis Hillebr.-accepted
+             Pisonia subcordata Sw.-accepted
+             Pisonia taina Trejo-accepted
+             Pisonia umbellifera (J.R. Forst. & G. Forst.) Seem.-accepted
+             Pisonia wagneriana Fosberg-accepted
+             Plumbago auriculata Lam.-accepted
+             Plumbago indica L.-accepted
+             Plumbago zeylanica L.-accepted
+             Polaskia chende (Rol.-Goss.) A.C. Gibson & K.E. Horak-accepted
+             Polaskia chichipe (Rol.-Goss.) Backeb.-accepted
+             Pollichia campestris Aiton-accepted
+             Polycarpaea corymbosa (L.) Lam.-accepted
+             Polycarpon alsinifolium (Biv.) DC.-accepted
+             Polycarpon depressum Nutt.-accepted
+             Polycarpon tetraphyllum (L.) L.-accepted
+             Polycnemum arvense L.-accepted
+             Polycnemum majus A. Braun-accepted
+             Polycnemum verrucosum Láng-accepted
+             Polygonella americana (Fisch. & C.A. Mey.) Small-accepted
+             Polygonella articulata (L.) Meisn.-accepted
+             Polygonella basiramia (Small) G.L. Nesom & V.M. Bates-accepted
+             Polygonella ciliata Meisn.-accepted
+             Polygonella fimbriata (Elliott) Horton-accepted
+             Polygonella gracilis Meisn.-accepted
+             Polygonella macrophylla Small-accepted
+             Polygonella myriophylla (Small) Horton-accepted
+             Polygonella parksii Cory-accepted
+             Polygonella polygama (Vent.) Engelm. & A. Gray-accepted
+             Polygonella robusta (Small) G.L. Nesom & V.M. Bates-accepted
+             Polygonum achoreum S.F. Blake-accepted
+             Polygonum acuminatum Kunth-accepted
+             Polygonum arenarium Waldst. & Kit.-accepted
+             Polygonum argyrocoleon Steud. ex Kunze-accepted
+             Polygonum austiniae Greene-accepted
+             Polygonum aviculare L.-accepted
+             Polygonum bellardii All.-accepted
+             Polygonum bidwelliae S. Watson-accepted
+             Polygonum bolanderi W.H. Brewer-accepted
+             Polygonum californicum Meisn.-accepted
+             Polygonum cascadense W.H. Baker-accepted
+             Polygonum douglasii Greene-accepted
+             Polygonum engelmannii Greene-accepted
+             Polygonum equisetiforme Sm.-accepted
+             Polygonum erectum L.-accepted
+             Polygonum fowleri B.L. Rob.-accepted
+             Polygonum franktonii S.J. Wolf & McNeill-accepted
+             Polygonum gabrielae Costea & Tardif-accepted
+             Polygonum glaucum Nutt.-accepted
+             Polygonum heterosepalum M. Peck & Ownbey-accepted
+             Polygonum hickmanii H. Hinds & Rand. Morgan-accepted
+             Polygonum humifusum C. Merck ex K. Koch-accepted
+             Polygonum lacerum Kunth-accepted
+             Polygonum majus (Meisn.) Piper-accepted
+             Polygonum marinense T.R. Mert. & P.H. Raven-accepted
+             Polygonum minimum S. Watson-accepted
+             Polygonum nuttallii Small-accepted
+             Polygonum oxyspermum C.A. Mey. & Bunge ex Ledeb.-accepted
+             Polygonum paronychia Cham. & Schltdl.-accepted
+             Polygonum paronychioides C.A. Mey.-accepted
+             Polygonum parryi Greene-accepted
+             Polygonum patulum M. Bieb.-accepted
+             Polygonum plebeium R. Br.-accepted
+             Polygonum polycnemoides Jaub. & Spach-accepted
+             Polygonum polygaloides Meisn.-accepted
+             Polygonum ramosissimum Michx.-accepted
+             Polygonum sawatchense Small-accepted
+             Polygonum segetum Kunth-accepted
+             Polygonum shastense W.H. Brewer-accepted
+             Polygonum spergulariiforme Meisn. ex Small-accepted
+             Polygonum striatulum B.L. Rob.-accepted
+             Polygonum tenue Michx.-accepted
+             Polygonum utahense Brenckle & Cottam-accepted
+             Portulaca amilis Speg.-accepted
+             Portulaca australis Endl.-accepted
+             Portulaca biloba Urb.-accepted
+             Portulaca caulerpoides Britton & P. Wilson ex Britton-accepted
+             Portulaca grandiflora Hook.-accepted
+             Portulaca halimoides L.-accepted
+             Portulaca lutea Sol. ex G. Forst.-accepted
+             Portulaca molokiniensis Hobdy-accepted
+             Portulaca oleracea L.-accepted
+             Portulaca pilosa L.-accepted
+             Portulaca quadrifida L.-accepted
+             Portulaca rubricaulis Kunth-accepted
+             Portulaca sclerocarpa A. Gray-accepted
+             Portulaca smallii P. Wilson-accepted
+             Portulaca suffrutescens Engelm.-accepted
+             Portulaca teretifolia Kunth-accepted
+             Portulaca umbraticola Kunth-accepted
+             Portulaca villosa Cham.-accepted
+             Portulacaria afra (L.) Jacq.-accepted
+             Praecereus euchlorus (F.A.C. Weber ex K. Schum.) N.P. Taylor-accepted
+             Praecereus saxicola (Morong) N.P. Taylor-accepted
+             Proatriplex pleiantha (W.A. Weber) Stutz & G.L. Chu-accepted
+             Pseudoacanthocereus brasiliensis (Britton & Rose) F. Ritter-accepted
+             Pseudoacanthocereus sicariguensis (Croizat & Tamayo) N.P. Taylor-accepted
+             Pseudorhipsalis acuminata Cufod.-accepted
+             Pseudorhipsalis alata (Sw.) Britton & Rose-accepted
+             Pseudorhipsalis amazonica (K. Schum.) Ralf Bauer-accepted
+             Pseudorhipsalis himantoclada (Rol.-Goss.) Britton & Rose-accepted
+             Pseudorhipsalis lankesteri (Kimnach) Barthlott-accepted
+             Pseudorhipsalis ramulosa (Salm-Dyck) Barthlott-accepted
+             Pseudostellaria jamesiana (Torr.) W.A. Weber & R.L. Hartm.-accepted
+             Pseudostellaria oxyphylla (B.L. Rob.) R.L. Hartm. & Rabeler-accepted
+             Pseudostellaria sierrae Rabeler & R.L. Hartm.-accepted
+             Psilocaulon coriarium (Burch. ex N.E. Br.) N.E. Br.-accepted
+             Psilotrichum ferrugineum (Roxb.) Moq.-accepted
+             Pterocactus araucanus A. Cast.-accepted
+             Pterocactus australis (F.A.C. Weber) Backeb.-accepted
+             Pterocactus fischeri Britton & Rose-accepted
+             Pterocactus gonjianii R. Kiesling-accepted
+             Pterocactus hickenii Britton & Rose-accepted
+             Pterocactus megliolii R. Kiesling-accepted
+             Pterocactus reticulatus R. Kiesling-accepted
+             Pterocactus tuberosus (Pfeiff.) Britton & Rose-accepted
+             Pterocactus valentini Speg.-accepted
+             Pterostegia drymarioides Fisch. & C.A. Mey.-accepted
+             Pygmaeocereus bieblii Diers-accepted
+             Pygmaeocereus bylesianus Andreae & Backeb.-accepted
+             Quiabentia verticillata (Vaupel) Borg-accepted
+             Quiabentia zehntneri (Britton & Rose) Britton & Rose-accepted
+             Rauhocereus riosaniensis Backeb.-accepted
+             Rebutia albopectinata Rausch-accepted
+             Rebutia arenacea Cárdenas-accepted
+             Rebutia breviflora (Backeb.) D.R. Hunt-accepted
+             Rebutia canigueralii Cárdenas-accepted
+             Rebutia cardenasiana (R. Vásquez) G. Navarro-accepted
+             Rebutia cintia Hjertson-accepted
+             Rebutia cylindrica (Donald & A.B. Lau) D.R. Hunt-accepted
+             Rebutia deminuta (F.A.C. Weber) Britton & Rose-accepted
+             Rebutia einsteinii Fric-accepted
+             Rebutia fabrisii Rausch-accepted
+             Rebutia fidana (Backeb.) D.R. Hunt-accepted
+             Rebutia fiebrigii (Gürke) Britton & Rose-accepted
+             Rebutia glomeriseta Cárdenas-accepted
+             Rebutia heliosa Rausch-accepted
+             Rebutia krugerae (Cárdenas) Backeb.-accepted
+             Rebutia mentosa (F. Ritter) Donald-accepted
+             Rebutia minuscula K. Schum.-accepted
+             Rebutia neocumingii (Backeb.) D.R. Hunt-accepted
+             Rebutia neumanniana (Werderm.) D.R. Hunt-accepted
+             Rebutia oligacantha (F.H. Brandt) D.R. Hunt-accepted
+             Rebutia padcayensis Rausch-accepted
+             Rebutia pulchra Cárdenas-accepted
+             Rebutia pulvinosa F. Ritter & Buining-accepted
+             Rebutia pygmaea (R.E. Fr.) Britton & Rose-accepted
+             Rebutia ritteri (Wessner) Buining & Donald-accepted
+             Rebutia steinbachii Werderm.-accepted
+             Rebutia steinmannii (Solms) Britton & Rose-accepted
+             Rebutia tarijensis Rausch-accepted
+             Rebutia vasqueziana (Rausch) D.R. Hunt-accepted
+             Rheum officinale Baill.-accepted
+             Rheum palmatum L.-accepted
+             Rheum rhabarbarum L.-accepted
+             Rheum rhaponticum L.-accepted
+             Rhipsalis agudoensis N.P. Taylor-accepted
+             Rhipsalis baccifera (Sol. ex J.M. Mill.) Stearn-accepted
+             Rhipsalis burchellii Britton & Rose-accepted
+             Rhipsalis campos-portoana Loefgr.-accepted
+             Rhipsalis cereoides (Backeb. & Voll) Backeb.-accepted
+             Rhipsalis cereuscula Haw.-accepted
+             Rhipsalis clavata F.A.C. Weber-accepted
+             Rhipsalis crispata Pfeiff.-accepted
+             Rhipsalis cuneata Britton & Rose-accepted
+             Rhipsalis dissimilis (G. Lindb.) K. Schum.-accepted
+             Rhipsalis elliptica G. Lindb. ex K. Schum.-accepted
+             Rhipsalis ewaldiana Barthlott & N.P. Taylor-accepted
+             Rhipsalis floccosa Salm-Dyck ex Pfeiff.-accepted
+             Rhipsalis grandiflora Haw.-accepted
+             Rhipsalis hoelleri Barthlott & N.P. Taylor-accepted
+             Rhipsalis juengeri Barthlott & N.P. Taylor-accepted
+             Rhipsalis lindbergiana K. Schum.-accepted
+             Rhipsalis mesembryanthemoides Haw.-accepted
+             Rhipsalis micrantha DC.-accepted
+             Rhipsalis neves-armondii K. Schum.-accepted
+             Rhipsalis oblonga Loefgr.-accepted
+             Rhipsalis occidentalis Barthlott-accepted
+             Rhipsalis olivifera N.P. Taylor & Zappi-accepted
+             Rhipsalis ormindoi N.P. Taylor & Zappi-accepted
+             Rhipsalis pacheco-leonis Loefgr.-accepted
+             Rhipsalis pachyptera Pfeiff.-accepted
+             Rhipsalis paradoxa (Salm-Dyck ex Pfeiff.) Salm-Dyck-accepted
+             Rhipsalis pentaptera A. Dietr.-accepted
+             Rhipsalis pilocarpa Loefgr.-accepted
+             Rhipsalis pulchra Loefgr.-accepted
+             Rhipsalis puniceodiscus G. Lindb.-accepted
+             Rhipsalis russellii Britton & Rose-accepted
+             Rhipsalis sulcata F.A.C. Weber-accepted
+             Rhipsalis teres Steud.-accepted
+             Rhipsalis trigona Pfeiff.-accepted
+             Rivina humilis L.-accepted
+             Rumex acetosa L.-accepted
+             Rumex acetosella L.-accepted
+             Rumex albescens Hillebr.-accepted
+             Rumex alpinus L.-accepted
+             Rumex altissimus Alph. Wood-accepted
+             Rumex aquaticus L.-accepted
+             Rumex arcticus Trautv.-accepted
+             Rumex beringensis Jurtzev & V.V. Petrovsky-accepted
+             Rumex britannica L.-accepted
+             Rumex brownii Campd.-accepted
+             Rumex bucephalophorus L.-accepted
+             Rumex californicus Rech. f.-accepted
+             Rumex chrysocarpus Moris-accepted
+             Rumex confertus Willd.-accepted
+             Rumex conglomeratus Murray-accepted
+             Rumex crassus Rech. f.-accepted
+             Rumex crispus L.-accepted
+             Rumex cristatus DC.-accepted
+             Rumex cuneifolius Campd.-accepted
+             Rumex densiflorus Osterh.-accepted
+             Rumex dentatus L.-accepted
+             Rumex ellipticus Greene-accepted
+             Rumex fascicularis Small-accepted
+             Rumex floridanus Meisn.-accepted
+             Rumex frutescens Thouars-accepted
+             Rumex fueginus Phil.-accepted
+             Rumex giganteus W.T. Aiton-accepted
+             Rumex graminifolius Georgi ex Lamb.-accepted
+             Rumex hastatulus Baldwin-accepted
+             Rumex hesperius Greene-accepted
+             Rumex hymenosepalus Torr.-accepted
+             Rumex kerneri Borbás-accepted
+             Rumex krausei Jurtzev & V.V. Petrovsky-accepted
+             Rumex lacustris Greene-accepted
+             Rumex lapponicus (Hiitonen) Czernov-accepted
+             Rumex longifolius DC.-accepted
+             Rumex maritimus L.-accepted
+             Rumex mexicanus Meisn.-accepted
+             Rumex nematopodus Rech. f.-accepted
+             Rumex obovatus Danser-accepted
+             Rumex obtusifolius L.-accepted
+             Rumex occidentalis S. Watson-accepted
+             Rumex orthoneurus Rech. f.-accepted
+             Rumex pallidus Bigelow-accepted
+             Rumex palustris Sm.-accepted
+             Rumex paraguayensis D. Parodi-accepted
+             Rumex patientia L.-accepted
+             Rumex paucifolius Nutt.-accepted
+             Rumex persicarioides L.-accepted
+             Rumex praecox Rydb.-accepted
+             Rumex pseudonatronatus Borbás-accepted
+             Rumex pseudoxyria (Tolm.) A.P. Khokhr.-accepted
+             Rumex pulcher L.-accepted
+             Rumex pycnanthus Rech. f.-accepted
+             Rumex rugosus Campd.-accepted
+             Rumex salicifolius Weinm.-accepted
+             Rumex sanguineus L.-accepted
+             Rumex scutatus L.-accepted
+             Rumex sibiricus Hultén-accepted
+             Rumex skottsbergii O. Deg. & I. Deg.-accepted
+             Rumex spiralis Small-accepted
+             Rumex stenophyllus Ledeb.-accepted
+             Rumex subarcticus Lepage-accepted
+             Rumex thyrsiflorus Fingerh.-accepted
+             Rumex tomentellus Rech. f.-accepted
+             Rumex transitorius Rech. f.-accepted
+             Rumex triangulivalvis (Danser) Rech. f.-accepted
+             Rumex utahensis Rech. f.-accepted
+             Rumex venosus Pursh-accepted
+             Rumex verticillatus L.-accepted
+             Rumex vesicarius L.-accepted
+             Rumex violascens Rech. f.-accepted
+             Rumex X alexidis B. Boivin-accepted
+             Rumex X confusus Simonkai-accepted
+             Rumex X dissimilis Rech. f. (pro. sp.)-accepted
+             Rumex X franktonis B. Boivin-accepted
+             Rumex X pratensis Mert. & W.D.J. Koch-accepted
+             Sagina apetala Ard.-accepted
+             Sagina caespitosa (J. Vahl) Lange-accepted
+             Sagina decumbens (Elliott) Torr. & A. Gray-accepted
+             Sagina japonica (Sw.) Ohwi-accepted
+             Sagina maritima G. Don-accepted
+             Sagina maxima A. Gray-accepted
+             Sagina nivalis (Lindblom) Fr.-accepted
+             Sagina nodosa (L.) Fenzl-accepted
+             Sagina procumbens L.-accepted
+             Sagina saginoides (L.) H. Karst.-accepted
+             Sagina subulata (Sw.) C. Presl-accepted
+             Sagina X normaniana Lagerh.-accepted
+             Salicornia bigelovii Torr.-accepted
+             Salicornia depressa Standl.-accepted
+             Salicornia maritima S.L. Wolff & Jefferies-accepted
+             Salicornia mucronata Lag.-accepted
+             Salicornia rubra A. Nelson-accepted
+             Salsola aphylla L. f.-accepted
+             Salsola australis R. Br.-accepted
+             Salsola collina Pall.-accepted
+             Salsola kali L.-accepted
+             Salsola paulsenii Litv.-accepted
+             Salsola ryanii Hrusa & Gaskin-accepted
+             Salsola soda L.-accepted
+             Salsola tragus L.-accepted
+             Salsola vermiculata L.-accepted
+             Samaipaticereus corroanus Cárdenas-accepted
+             Saponaria ocymoides L.-accepted
+             Saponaria officinalis L.-accepted
+             Saponaria pumilio (L.) Fenzl ex A. Braun-accepted
+             Sarcobatus baileyi Coville-accepted
+             Sarcobatus vermiculatus (Hook.) Torr.-accepted
+             Sarcocornia fruticosa (L.) A.J. Scott-accepted
+             Sarcocornia pacifica (Standl.) A.J. Scott-accepted
+             Sarcocornia perennis (Mill.) A.J. Scott-accepted
+             Sarcocornia utahensis (Tidestr.) A.J. Scott-accepted
+             Schiedea adamantis H. St. John-accepted
+             Schiedea amplexicaulis H. Mann-accepted
+             Schiedea apokremnos H. St. John-accepted
+             Schiedea attenuata W.L. Wagner, Weller & A.K. Sakai-accepted
+             Schiedea diffusa A. Gray-accepted
+             Schiedea globosa H. Mann-accepted
+             Schiedea haleakalensis O. Deg. & Sherff-accepted
+             Schiedea hawaiiensis Hillebr.-accepted
+             Schiedea helleri Sherff-accepted
+             Schiedea hookeri A. Gray-accepted
+             Schiedea implexa (Hillebr.) Sherff-accepted
+             Schiedea jacobii W.L. Wagner, Weller & A.C. Medeiros-accepted
+             Schiedea kaalae Wawra-accepted
+             Schiedea kauaiensis H. St. John-accepted
+             Schiedea kealiae Caum & Hosaka-accepted
+             Schiedea laui W.L. Wagner & Weller-accepted
+             Schiedea ligustrina Cham. & Schltdl.-accepted
+             Schiedea lychnoides Hillebr.-accepted
+             Schiedea lydgatei Hillebr.-accepted
+             Schiedea mannii H. St. John-accepted
+             Schiedea membranacea H. St. John-accepted
+             Schiedea menziesii Hook.-accepted
+             Schiedea nuttallii Hook.-accepted
+             Schiedea obovata (Sherff) W.L. Wagner & Weller-accepted
+             Schiedea pentandra W.L. Wagner & E. Harris-accepted
+             Schiedea perlmanii W.L. Wagner & Weller-accepted
+             Schiedea pubescens Hillebr.-accepted
+             Schiedea salicaria Hillebr.-accepted
+             Schiedea sarmentosa O. Deg. & Sherff-accepted
+             Schiedea spergulina A. Gray-accepted
+             Schiedea stellarioides H. Mann-accepted
+             Schiedea trinervis (H. Mann) Pax & K. Hoffm.-accepted
+             Schiedea verticillata F. Br.-accepted
+             Schiedea viscosa H. Mann-accepted
+             Schlumbergera kautskyi (Horobin & McMillan) N.P. Taylor-accepted
+             Schlumbergera microsphaerica (K. Schum.) Hoevel-accepted
+             Schlumbergera opuntioides (Loefgr. & Dusén) D.R. Hunt-accepted
+             Schlumbergera orssichiana Barthlott & McMillan-accepted
+             Schlumbergera russelliana (Hook.) Britton & Rose-accepted
+             Schlumbergera truncata (Haw.) Moran-accepted
+             Schlumbergera X buckleyi D.R. Hunt-accepted
+             Scleranthus annuus L.-accepted
+             Scleranthus perennis L.-accepted
+             Sclerocactus blainei S.L. Welsh & K.H. Thorne-accepted
+             Sclerocactus brevihamatus (Engelm.) D.R. Hunt-accepted
+             Sclerocactus brevispinus K.D. Heil & J.M. Porter-accepted
+             Sclerocactus cloverae K.D. Heil & J.M. Porter-accepted
+             Sclerocactus erectocentrus (J.M. Coult.) N.P. Taylor-accepted
+             Sclerocactus glaucus (K. Schum.) L.D. Benson-accepted
+             Sclerocactus intertextus (Engelm.) N.P. Taylor-accepted
+             Sclerocactus johnsonii (Parry ex Engelm.) N.P. Taylor-accepted
+             Sclerocactus mariposensis (Hester) N.P. Taylor-accepted
+             Sclerocactus mesae-verdae (Boissev. & C. Davidson) L.D. Benson-accepted
+             Sclerocactus nyensis Hochstätter-accepted
+             Sclerocactus papyracanthus (Engelm.) N.P. Taylor-accepted
+             Sclerocactus parviflorus Clover & Jotter-accepted
+             Sclerocactus polyancistrus (Engelm. & J.M. Bigelow) Britton & Rose-accepted
+             Sclerocactus pubispinus (Engelm.) L.D. Benson-accepted
+             Sclerocactus scheeri (Salm-Dyck) N.P. Taylor-accepted
+             Sclerocactus schlesseri K.D. Heil & S.L. Welsh-accepted
+             Sclerocactus sileri (L.D. Benson) K.D. Heil & J.M. Porter-accepted
+             Sclerocactus spinosior (Engelm.) D. Woodruff & L.D. Benson-accepted
+             Sclerocactus uncinatus (Galeotti ex Pfeiff.) N.P. Taylor-accepted
+             Sclerocactus unguispinus (Engelm.) N.P. Taylor-accepted
+             Sclerocactus warnockii (L.D. Benson) N.P. Taylor-accepted
+             Sclerocactus wetlandicus Hochstätter-accepted
+             Sclerocactus whipplei (Engelm. & J.M. Bigelow) Britton & Rose-accepted
+             Sclerocactus wrightiae L.D. Benson-accepted
+             Scopulophila rixfordii (Brandegee) Munz & I.M. Johnst.-accepted
+             Selenicereus anthonyanus (Alexander) D.R. Hunt-accepted
+             Selenicereus atropilosus Kimnach-accepted
+             Selenicereus chrysocardium (Alexander) Kimnach-accepted
+             Selenicereus grandiflorus (L.) Britton & Rose-accepted
+             Selenicereus hamatus (Scheidw.) Britton & Rose-accepted
+             Selenicereus inermis (Otto) Britton & Rose-accepted
+             Selenicereus murrillii Britton & Rose-accepted
+             Selenicereus nelsonii (Weing.) Britton & Rose-accepted
+             Selenicereus pteranthus (Link ex A. Dietr.) Britton & Rose-accepted
+             Selenicereus spinulosus (DC.) Britton & Rose-accepted
+             Selenicereus vagans (Brandegee) Britton & Rose-accepted
+             Selenicereus validus S. Arias & U. Guzmán-accepted
+             Sesuvium crithmoides Welw.-accepted
+             Sesuvium maritimum (Walter) Britton, Sterns & Poggenb.-accepted
+             Sesuvium microphyllum Willd.-accepted
+             Sesuvium portulacastrum (L.) L.-accepted
+             Sesuvium trianthemoides Correll-accepted
+             Sesuvium verrucosum Raf.-accepted
+             Sidotheca caryophylloides (Parry) Reveal-accepted
+             Sidotheca emarginata (H.M. Hall) Reveal-accepted
+             Sidotheca trilobata (A. Gray) Reveal-accepted
+             Silene acaulis (L.) Jacq.-accepted
+             Silene alexandri Hillebr.-accepted
+             Silene antirrhina L.-accepted
+             Silene aperta Greene-accepted
+             Silene apetala Willd.-accepted
+             Silene armeria L.-accepted
+             Silene atropurpurea (Griseb.) Greuter & Burdet-accepted
+             Silene bernardina S. Watson-accepted
+             Silene bridgesii Rohrb.-accepted
+             Silene campanulata S. Watson-accepted
+             Silene caroliniana Walter-accepted
+             Silene catesbaei Walter-accepted
+             Silene chalcedonica (L.) E.H.L. Krause-accepted
+             Silene chlorantha (Willd.) Ehrh.-accepted
+             Silene coeli-rosa (L.) Godr.-accepted
+             Silene conica L.-accepted
+             Silene coniflora Nees ex DC.-accepted
+             Silene conoidea L.-accepted
+             Silene coronaria (L.) Clairv.-accepted
+             Silene cryptopetala Hillebr.-accepted
+             Silene csereii Baumg.-accepted
+             Silene degeneri Sherff-accepted
+             Silene dichotoma Ehrh.-accepted
+             Silene dioica (L.) Clairv.-accepted
+             Silene douglasii Hook.-accepted
+             Silene drummondii Hook.-accepted
+             Silene flos-cuculi (L.) Greuter & Burdet-accepted
+             Silene flos-jovis (L.) Greuter & Burdet-accepted
+             Silene fulgens (Fisch.) E.H.L. Krause-accepted
+             Silene gallica L.-accepted
+             Silene grayi S. Watson-accepted
+             Silene hawaiiensis Sherff-accepted
+             Silene hitchguirei Bocquet-accepted
+             Silene hookeri Nutt.-accepted
+             Silene inaperta L.-accepted
+             Silene invisa C.L. Hitchc. & Maguire-accepted
+             Silene involucrata (Cham. & Schltdl.) Bocquet-accepted
+             Silene italica (L.) Pers.-accepted
+             Silene kingii (S. Watson) Bocquet-accepted
+             Silene laciniata Cav.-accepted
+             Silene lanceolata A. Gray-accepted
+             Silene latifolia Poir.-accepted
+             Silene lemmonii S. Watson-accepted
+             Silene marmorensis Kruckeb.-accepted
+             Silene menziesii Hook.-accepted
+             Silene mongolica Maxim.-accepted
+             Silene montana Arrond.-accepted
+             Silene nachlingerae Tiehm-accepted
+             Silene nivea (Nutt.) Muhl. ex Otth-accepted
+             Silene noctiflora L.-accepted
+             Silene nocturna L.-accepted
+             Silene nuda (S. Watson) C.L. Hitchc. & Maguire-accepted
+             Silene nutans L.-accepted
+             Silene occidentalis S. Watson-accepted
+             Silene oregana S. Watson-accepted
+             Silene ostenfeldii (A.E. Porsild) J.K. Morton-accepted
+             Silene ovata Pursh-accepted
+             Silene parishii S. Watson-accepted
+             Silene parryi (S. Watson) C.L. Hitchc. & Maguire-accepted
+             Silene pendula L.-accepted
+             Silene perlmanii W.L. Wagner, D.R. Herbst & Sohmer-accepted
+             Silene petersonii Maguire-accepted
+             Silene plankii C.L. Hitchc. & Maguire-accepted
+             Silene pseudatocion Desf.-accepted
+             Silene rectiramea B.L. Rob.-accepted
+             Silene regia Sims-accepted
+             Silene repens Patrin ex Pers.-accepted
+             Silene rotundifolia Nutt.-accepted
+             Silene rupestris L.-accepted
+             Silene salmonacea T.W. Nelson, J.P. Nelson & S.A. Erwin-accepted
+             Silene sargentii S. Watson-accepted
+             Silene scaposa B.L. Rob.-accepted
+             Silene scouleri Hook.-accepted
+             Silene secundiflora Otth-accepted
+             Silene seelyi C.V. Morton & J.W. Thomp.-accepted
+             Silene serpentinicola T.W. Nelson & J.P. Nelson-accepted
+             Silene sibirica (L.) Pers.-accepted
+             Silene songarica (Fisch., C.A. Mey., & Avé-Lall.) Bocquet-accepted
+             Silene sorensenis (B. Boivin) Bocquet-accepted
+             Silene spaldingii S. Watson-accepted
+             Silene stellata (L.) W.T. Aiton-accepted
+             Silene struthioloides A. Gray-accepted
+             Silene subciliata B.L. Rob.-accepted
+             Silene suecica (Lodd.) Greuter & Burdet-accepted
+             Silene suksdorfii B.L. Rob.-accepted
+             Silene thurberi S. Watson-accepted
+             Silene uniflora Roth-accepted
+             Silene uralensis (Rupr.) Bocquet-accepted
+             Silene verecunda S. Watson-accepted
+             Silene virginica L.-accepted
+             Silene viscaria (L.) Jess.-accepted
+             Silene vulgaris (Moench) Garcke-accepted
+             Silene williamsii Britton-accepted
+             Silene wrightii A. Gray-accepted
+             Silene X hampeana Meusel & K. Werner-accepted
+             Simmondsia chinensis (Link) C.K. Schneid.-accepted
+             Spergula arvensis L.-accepted
+             Spergula morisonii Boreau-accepted
+             Spergula pentandra L.-accepted
+             Spergularia atrosperma R. Rossbach-accepted
+             Spergularia bocconi (Scheele) Graebn.-accepted
+             Spergularia canadensis (Pers.) G. Don-accepted
+             Spergularia diandra (Guss.) Held. & Sart.-accepted
+             Spergularia echinosperma Celak.-accepted
+             Spergularia macrotheca (Hornem. ex Cham. & Schltdl.) Heynh.-accepted
+             Spergularia media (L.) C. Presl ex Griseb.-accepted
+             Spergularia platensis (Cambess.) Fenzl-accepted
+             Spergularia purpurea (Pers.) G. Don f.-accepted
+             Spergularia rubra (L.) J. Presl & C. Presl-accepted
+             Spergularia salina J. Presl & C. Presl-accepted
+             Spergularia villosa (Pers.) Cambess.-accepted
+             Spinacia oleracea L.-accepted
+             Stegnosperma cubense A. Rich.-accepted
+             Stellaria alaskana Hultén-accepted
+             Stellaria alsine Grimm-accepted
+             Stellaria americana (Porter ex B.L. Rob.) Standl.-accepted
+             Stellaria antillana Urb.-accepted
+             Stellaria borealis Bigelow-accepted
+             Stellaria calycantha (Ledeb.) Bong.-accepted
+             Stellaria corei Shinners-accepted
+             Stellaria crassifolia Ehrh.-accepted
+             Stellaria crispa Cham. & Schltdl.-accepted
+             Stellaria cuspidata Willd. ex Schltdl.-accepted
+             Stellaria dicranoides (Cham. & Schltdl.) Fenzl-accepted
+             Stellaria fontinalis (Short & Peter) B.L. Rob.-accepted
+             Stellaria graminea L.-accepted
+             Stellaria holostea L.-accepted
+             Stellaria humifusa Rottb.-accepted
+             Stellaria irrigua Bunge-accepted
+             Stellaria littoralis Torr.-accepted
+             Stellaria longifolia Muhl. ex Willd.-accepted
+             Stellaria longipes Goldie-accepted
+             Stellaria media (L.) Vill.-accepted
+             Stellaria neglecta Weihe-accepted
+             Stellaria nemorum L.-accepted
+             Stellaria nitens Nutt.-accepted
+             Stellaria obtusa Engelm.-accepted
+             Stellaria pallida (Dumort.) Crép.-accepted
+             Stellaria palustris (Murray) Retz.-accepted
+             Stellaria parva Pedersen-accepted
+             Stellaria porsildii C.C. Chinnappa-accepted
+             Stellaria pubera Michx.-accepted
+             Stellaria pulvinata Grubov-accepted
+             Stellaria ruscifolia Pall. ex Schltdl.-accepted
+             Stellaria umbellata Turcz. ex Kar. & Kir.-accepted
+             Stenocactus coptonogonus (Lem.) A. Berger-accepted
+             Stenocactus crispatus (DC.) A. Berger-accepted
+             Stenocactus multicostatus (Hildm.) A. Berger-accepted
+             Stenocactus obvallatus (DC.) A. Berger-accepted
+             Stenocactus ochoterenanus Tiegel-accepted
+             Stenocactus phyllacanthus (A. Dietr. & Otto) A. Berger-accepted
+             Stenocactus sulphureus (A. Dietr.) Bravo-accepted
+             Stenocactus vaupelianus (Werderm.) F.M. Knuth-accepted
+             Stenocereus alamosensis (J.M. Coult.) A.C. Gibson & K.E. Horak-accepted
+             Stenocereus aragonii (F.A.C. Weber) Buxb.-accepted
+             Stenocereus beneckei (Ehrenb.) A. Berger & Buxb.-accepted
+             Stenocereus chacalapensis (Bravo & T. MacDoug.) Buxb.-accepted
+             Stenocereus chrysocarpus Sánchez-Mej.-accepted
+             Stenocereus dumortieri (Scheidw.) Buxb.-accepted
+             Stenocereus eichlamii (Britton & Rose) Buxb.-accepted
+             Stenocereus eruca (Brandegee) A.C. Gibson & K.E. Horak-accepted
+             Stenocereus fimbriatus (Lam.) Lourteig-accepted
+             Stenocereus fricii Sánchez-Mej.-accepted
+             Stenocereus griseus (Haw.) Buxb.-accepted
+             Stenocereus gummosus (Engelm.) A.C. Gibson & K.E. Horak-accepted
+             Stenocereus humilis (Britton & Rose) D.R. Hunt-accepted
+             Stenocereus kerberi (K. Schum.) A.C. Gibson & K.E. Horak-accepted
+             Stenocereus martinezii (J.G. Ortega) Buxb.-accepted
+             Stenocereus montanus (Britton & Rose) Buxb.-accepted
+             Stenocereus pruinosus (Otto ex Pfeiff.) Buxb.-accepted
+             Stenocereus queretaroensis (F.A.C. Weber) Buxb.-accepted
+             Stenocereus quevedonis (J.G. Ortega) Buxb.-accepted
+             Stenocereus standleyi (J.G. Ortega) Buxb.-accepted
+             Stenocereus stellatus (Pfeiff.) Riccob.-accepted
+             Stenocereus thurberi (Engelm.) Buxb.-accepted
+             Stenocereus treleasei (Rose) Backeb.-accepted
+             Stenogonum flexum (M.E. Jones) Reveal & J.T. Howell-accepted
+             Stenogonum salsuginosum Nutt.-accepted
+             Stephanocereus leucostele (Gürke) A. Berger-accepted
+             Stephanocereus luetzelburgii (Vaupel) N.P. Taylor & Eggli-accepted
+             Stetsonia coryne (Salm-Dyck) Britton & Rose-accepted
+             Stipulicida setacea Michx.-accepted
+             Strombocactus disciformis (DC.) Britton & Rose-accepted
+             Strophocactus chontalensis (Alexander) Ralf Bauer-accepted
+             Strophocactus testudo (Karw. ex Zucc.) Ralf Bauer-accepted
+             Strophocactus wittii (K. Schum.) Britton & Rose-accepted
+             Stutzia covillei (Standl.) E.H. Zacharias-accepted
+             Stutzia dioica (Nutt.) E.H. Zacharias-accepted
+             Suaeda calceoliformis (Hook.) Moq.-accepted
+             Suaeda californica S. Watson-accepted
+             Suaeda conferta (Small) I.M. Johnst.-accepted
+             Suaeda esteroa Ferren & S.A. Whitmore-accepted
+             Suaeda linearis (Elliott) Moq.-accepted
+             Suaeda linifolia Pall.-accepted
+             Suaeda maritima (L.) Dumort.-accepted
+             Suaeda mexicana (Standl.) Standl.-accepted
+             Suaeda nigra J.F. Macbr.-accepted
+             Suaeda occidentalis (S. Watson) S. Watson-accepted
+             Suaeda rolandii Bassett & Crompton-accepted
+             Suaeda tampicensis (Standl.) Standl.-accepted
+             Suaeda taxifolia (Standl.) Standl.-accepted
+             Suaeda vera Forssk. ex J.F. Gmel.-accepted
+             Suckleya suckleyana (Torr.) Rydb.-accepted
+             Systenotheca vortriedei (Brandegee) Reveal & Hardham-accepted
+             Tacinga braunii Esteves-accepted
+             Tacinga funalis Britton & Rose-accepted
+             Tacinga inamoena (K. Schum.) N.P. Taylor & Stuppy-accepted
+             Tacinga lilae (Trujillo & Marisela Ponce) Majure & R. Puente-accepted
+             Tacinga palmadora (Britton & Rose) N.P. Taylor & Stuppy-accepted
+             Tacinga saxatilis (F. Ritter) N.P. Taylor & Stuppy-accepted
+             Tacinga werneri (Eggli) N.P. Taylor & Stuppy-accepted
+             Tacinga X quipa (F.A.C. Weber) N.P. Taylor & Stuppy-accepted
+             Talinopsis frutescens A. Gray-accepted
+             Talinum caffrum (Thunb.) Eckl. & Zeyh.-accepted
+             Talinum fruticosum (L.) Juss.-accepted
+             Talinum paniculatum (Jacq.) Gaertn.-accepted
+             Talinum polygaloides Gillies ex Arn.-accepted
+             Talinum portulacifolium (Forssk.) Asch. ex Schweinf.-accepted
+             Tamarix africana Poir.-accepted
+             Tamarix aphylla (L.) H. Karst.-accepted
+             Tamarix aralensis Bunge-accepted
+             Tamarix canariensis Willd.-accepted
+             Tamarix chinensis Lour.-accepted
+             Tamarix dioica Roxb. ex Roth-accepted
+             Tamarix gallica L.-accepted
+             Tamarix parviflora DC.-accepted
+             Tamarix ramosissima Ledeb.-accepted
+             Tamarix stricta Boiss.-accepted
+             Tamarix tetragyna Ehrenb.-accepted
+             Tephrocactus alexanderi (Britton & Rose) Backeb.-accepted
+             Tephrocactus aoracanthus (Lem.) Lem.-accepted
+             Tephrocactus articulatus (Otto) Backeb.-accepted
+             Tephrocactus bonnieae (D.J. Ferguson & R. Kiesling) Stuppy-accepted
+             Tephrocactus molinensis (Speg.) Backeb.-accepted
+             Tephrocactus nigrispinus (K. Schum.) Backeb.-accepted
+             Tephrocactus weberi (Speg.) Backeb.-accepted
+             Tetragonia tetragonioides (Pall.) Kuntze-accepted
+             Thelocactus bicolor (Galeotti ex Pfeiff.) Britton & Rose-accepted
+             Thelocactus buekii (Klein bis) Britton & Rose-accepted
+             Thelocactus conothelos (Regel & Klein bis) F.M. Knuth-accepted
+             Thelocactus hastifer (Werderm. & Boed.) F.M. Knuth-accepted
+             Thelocactus hexaedrophorus (Lem.) Britton & Rose-accepted
+             Thelocactus lausseri Ríha & Busek-accepted
+             Thelocactus leucacanthus (Zucc. ex Pfeiff.) Britton & Rose-accepted
+             Thelocactus macdowellii (Rebut ex Quehl) W.T. Marshall-accepted
+             Thelocactus multicephalus Halda & Panar.-accepted
+             Thelocactus rinconensis (Poselger) Britton & Rose-accepted
+             Thelocactus setispinus (Engelm.) E.F. Anderson-accepted
+             Thelocactus tulensis (Polseg.) Britton & Rose-accepted
+             Tidestromia carnosa (Steyerm.) I.M. Johnst.-accepted
+             Tidestromia lanuginosa (Nutt.) Standl.-accepted
+             Tidestromia suffruticosa (Torr.) Standl.-accepted
+             Trianthema portulacastrum L.-accepted
+             Trichostigma octandrum (L.) H. Walter-accepted
+             Triplaris americana L.-accepted
+             Triplaris caracasana Cham.-accepted
+             Triplaris cumingiana Fisch. & C.A. Mey. ex C.A. Mey.-accepted
+             Tripterocalyx carneus (Greene) L.A. Galloway-accepted
+             Tripterocalyx crux-maltae (Kellogg) Standl.-accepted
+             Tripterocalyx micranthus (Torr.) Hook.-accepted
+             Tripterocalyx wootonii Standl.-accepted
+             Tunilla corrugata (Salm-Dyck) D.R. Hunt & Iliff-accepted
+             Tunilla erectoclada (Backeb.) D.R. Hunt & Iliff-accepted
+             Tunilla microdisca (F.A.C. Weber) D.R. Hunt & Iliff-accepted
+             Tunilla soehrensii (Britton & Rose) D.R. Hunt & Iliff-accepted
+             Turbinicarpus alonsoi Glass & S. Arias-accepted
+             Turbinicarpus beguinii (N.P. Taylor) Mosco & Zanov.-accepted
+             Turbinicarpus gielsdorfianus (Werderm.) V. John & Ríha-accepted
+             Turbinicarpus hoferi Lüthy & A.B. Lau-accepted
+             Turbinicarpus horripilus (Lem.) V. John & Ríha-accepted
+             Turbinicarpus laui Glass & R.A. Foster-accepted
+             Turbinicarpus lophophoroides (Werderm.) Buxb. & Backeb.-accepted
+             Turbinicarpus mandragora (A. Berger) A.D. Zimmerman-accepted
+             Turbinicarpus pseudomacrochele (Backeb.) Rauh & Backeb.-accepted
+             Turbinicarpus pseudopectinatus (Backeb.) Glass & R.A. Foster-accepted
+             Turbinicarpus saueri (Boed.) V. John & Ríha-accepted
+             Turbinicarpus schmiedickeanus (Boed.) Rauh & Backeb.-accepted
+             Turbinicarpus subterraneus (Backeb.) A.D. Zimmerman-accepted
+             Turbinicarpus swobodae Diers-accepted
+             Turbinicarpus valdezianus (H. Moeller) Glass & R.A. Foster-accepted
+             Turbinicarpus viereckii (Werderm.) V. John & Ríha-accepted
+             Turbinicarpus X mombergeri Ríha-accepted
+             Uebelmannia buiningii Donald-accepted
+             Uebelmannia gummifera (Backeb. & Voll) Buining & Brederoo-accepted
+             Uebelmannia pectinifera Buining-accepted
+             Ullucus tuberosus Caldas-accepted
+             Vaccaria hispanica (Mill.) Rauschert-accepted
+             Velezia rigida L.-accepted
+             Weberbauerocereus albus F. Ritter-accepted
+             Weberbauerocereus cephalomacrostibas (Werderm. & Backeb.) F. Ritter-accepted
+             Weberbauerocereus churinensis F. Ritter-accepted
+             Weberbauerocereus cuzcoensis Kníze-accepted
+             Weberbauerocereus rauhii Backeb.-accepted
+             Weberbauerocereus weberbaueri (K. Schum.) Backeb.-accepted
+             Weberbauerocereus winterianus F. Ritter-accepted
+             Weberocereus bradei (Britton & Rose) G.D. Rowley-accepted
+             Weberocereus frohningiorum Ralf Bauer-accepted
+             Weberocereus glaber (Eichlam) G.D. Rowley-accepted
+             Weberocereus imitans (Kimnach & Hutchison) Buxb.-accepted
+             Weberocereus rosei (Kimnach) Buxb.-accepted
+             Weberocereus tonduzii (F.A.C. Weber) G.D. Rowley-accepted
+             Weberocereus trichophorus H. Johnson & Kimnach-accepted
+             Weberocereus tunilla (F.A.C. Weber) Britton & Rose-accepted
+             Wilhelmsia physodes (Fisch. ex Ser.) McNeill-accepted
+             X Cleistocana mirabilis (Buining) D.R. Hunt-accepted
+             X Espostocactus mirabilis (Rauh & Backeb.) G.D. Rowley-accepted
+             X Haagespostoa climaxantha (Werderm.) G.D. Rowley-accepted
+             X Myrtgerocactus lindsayi Moran-accepted
+             X Pacherocactus orcuttii (K. Brandegee) G.D. Rowley-accepted
+             Yavia cryptocarpa R. Kiesling & Piltz-accepted
+             Yungasocereus inquisivensis (Cárdenas) F. Ritter-accepted

@@ -1,0 +1,270 @@
+             Aiouea laevis (Mart.) Kosterm.-accepted
+             Anaxagorea acuminata (Dunal) A. DC.-accepted
+             Anemopsis californica (Nutt.) Hook. & Arn.-accepted
+             Aniba bracteata (Nees) Mez-accepted
+             Aniba firmula (Nees & Mart.) Mez-accepted
+             Aniba guianensis Aubl.-accepted
+             Annona cherimola Mill.-accepted
+             Annona diversifolia Saff.-accepted
+             Annona glabra L.-accepted
+             Annona montana Macfad.-accepted
+             Annona mucosa Jacq.-accepted
+             Annona muricata L.-accepted
+             Annona purpurea Moc. & Sessé ex Dunal-accepted
+             Annona reticulata L.-accepted
+             Annona senegalensis Pers.-accepted
+             Annona squamosa L.-accepted
+             Aristolochia anguicida Jacq.-accepted
+             Aristolochia bilabiata L.-accepted
+             Aristolochia bilobata L.-accepted
+             Aristolochia californica Torr.-accepted
+             Aristolochia clematitis L.-accepted
+             Aristolochia cordifolia Glaz.-accepted
+             Aristolochia coryi I.M. Johnst.-accepted
+             Aristolochia elegans Mast.-accepted
+             Aristolochia erecta L.-accepted
+             Aristolochia grandiflora Sw.-accepted
+             Aristolochia labiata Willd.-accepted
+             Aristolochia littoralis D. Parodi-accepted
+             Aristolochia macrophylla Lam.-accepted
+             Aristolochia maxima Jacq.-accepted
+             Aristolochia oblongata Jacq.-accepted
+             Aristolochia odoratissima L.-accepted
+             Aristolochia peltata L.-accepted
+             Aristolochia pentandra Jacq.-accepted
+             Aristolochia reticulata Nutt.-accepted
+             Aristolochia ringens Vahl-accepted
+             Aristolochia rotunda L.-accepted
+             Aristolochia rugosa Lam.-accepted
+             Aristolochia serpentaria L.-accepted
+             Aristolochia surinamensis Willd.-accepted
+             Aristolochia tomentosa Sims-accepted
+             Aristolochia trilobata L.-accepted
+             Aristolochia watsonii Wooton & Standl.-accepted
+             Aristolochia wrightii Seem.-accepted
+             Artabotrys hexapetalus (L. f.) Bhandari-accepted
+             Asarum canadense L.-accepted
+             Asarum caudatum Lindl.-accepted
+             Asarum hartwegii S. Watson-accepted
+             Asarum lemmonii S. Watson-accepted
+             Asarum marmoratum Piper-accepted
+             Asarum wagneri K.L. Lu & Mesler-accepted
+             Ascarina diffusa A.C. Sm.-accepted
+             Asimina incana (W. Bartram) Exell-accepted
+             Asimina longifolia Kral-accepted
+             Asimina obovata (Willd.) Nash-accepted
+             Asimina parviflora (Michx.) Dunal-accepted
+             Asimina pygmea (W. Bartram) Dunal-accepted
+             Asimina reticulata Shuttlew. ex Chapm.-accepted
+             Asimina tetramera Small-accepted
+             Asimina triloba (L.) Dunal-accepted
+             Asimina X nashii Kral-accepted
+             Beilschmiedia pendula (Sw.) Hemsl.-accepted
+             Beilschmiedia roxburgiana Nees-accepted
+             Calycanthus brockianus R.J. Ferry & R.J. Ferry f.-accepted
+             Calycanthus floridus L.-accepted
+             Calycanthus occidentalis Hook. & Arn.-accepted
+             Cananga odorata (Lam.) Hook. f. & Thomson-accepted
+             Canella winterana (L.) Gaertn.-accepted
+             Cassytha filiformis L.-accepted
+             Cinnamomum burmannii (Nees & T. Nees) Blume-accepted
+             Cinnamomum camphora (L.) J. Presl-accepted
+             Cinnamomum cassia (L.) D. Don-accepted
+             Cinnamomum elongatum (Nees) Kosterm.-accepted
+             Cinnamomum montanum (Sw.) Bercht. & J. Presl.-accepted
+             Cinnamomum sessilifolium Kaneh.-accepted
+             Cinnamomum tamala (Buch.-Ham.) T. Nees & Eberm.-accepted
+             Cinnamomum triplinerve (Ruiz & Pav.) Kosterm.-accepted
+             Cinnamomum verum J. Presl-accepted
+             Cryptocarya lauriflora (Blanco) Merr.-accepted
+             Cryptocarya mannii Hillebr.-accepted
+             Deeringothamnus pulchellus Small-accepted
+             Deeringothamnus rugelii (B.L. Rob.) Small-accepted
+             Drimys winteri J.R. Forst. & G. Forst.-accepted
+             Duguetia tobagensis (Urb.) R.E. Fr.-accepted
+             Endiandra elaeocarpa Gillespie-accepted
+             Eusideroxylon zwageri Teijsm. & Binn.-accepted
+             Friesodielsia obovata (Benth.) Verdc.-accepted
+             Guatteria blainii (Griseb.) Urb.-accepted
+             Guatteria caribaea Urb.-accepted
+             Hedyosmum arborescens Sw.-accepted
+             Hernandia labyrinthica Tuyama-accepted
+             Hernandia sonora L.-accepted
+             Hexastylis arifolia (Michx.) Small-accepted
+             Hexastylis contracta H.L. Blomq.-accepted
+             Hexastylis heterophylla (Ashe) Small-accepted
+             Hexastylis lewisii (Fernald) H.L. Blomq. & Oosting-accepted
+             Hexastylis minor (Ashe) H.L. Blomq.-accepted
+             Hexastylis naniflora H.L. Blomq.-accepted
+             Hexastylis rhombiformis Gaddy-accepted
+             Hexastylis shuttleworthii (Britten & Baker f.) Small-accepted
+             Hexastylis sorriei Gaddy-accepted
+             Hexastylis speciosa R.M. Harper-accepted
+             Hexastylis virginica (L.) Small-accepted
+             Horsfieldia amklaal Kaneh.-accepted
+             Horsfieldia nunu Kaneh.-accepted
+             Horsfieldia palauensis Kaneh.-accepted
+             Houttuynia cordata Thunb.-accepted
+             Laurus nobilis L.-accepted
+             Licaria brittoniana C.K. Allen & L.E. Greg.-accepted
+             Licaria parvifolia (Lam.) Kosterm.-accepted
+             Licaria triandra (Sw.) Kosterm.-accepted
+             Lindera benzoin (L.) Blume-accepted
+             Lindera melissifolia (Walter) Blume-accepted
+             Lindera subcoriacea Wofford-accepted
+             Liriodendron chinense (Hemsl.) Sarg.-accepted
+             Liriodendron tulipifera L.-accepted
+             Litsea aestivalis (L.) Fernald-accepted
+             Litsea cubeba (Lour.) Pers.-accepted
+             Magnolia acuminata (L.) L.-accepted
+             Magnolia ashei Weath.-accepted
+             Magnolia champaca (L.) Baill. ex Pierre-accepted
+             Magnolia dealbata Zucc.-accepted
+             Magnolia denudata Desr.-accepted
+             Magnolia doltsopa (Buch.-Ham. ex DC.) Figlar-accepted
+             Magnolia fraseri Walter-accepted
+             Magnolia grandiflora L.-accepted
+             Magnolia kobus DC.-accepted
+             Magnolia macrophylla Michx.-accepted
+             Magnolia portoricensis Bello-accepted
+             Magnolia pterocarpa Roxb.-accepted
+             Magnolia pyramidata W. Bartram-accepted
+             Magnolia splendens Urb.-accepted
+             Magnolia stellata (Siebold & Zucc.) Maxim.-accepted
+             Magnolia tripetala (L.) L.-accepted
+             Magnolia virginiana L.-accepted
+             Magnolia X soulangeana Soul.-Bod.-accepted
+             Meiogyne cylindrocarpa (Burck) Heusden-accepted
+             Mollinedia ovata Ruiz & Pav.-accepted
+             Monodora myristica (Gaertn.) Dunal-accepted
+             Myristica fragrans Houtt.-accepted
+             Nectandra coriacea (Sw.) Griseb.-accepted
+             Nectandra hihua (Ruiz & Pav.) Rohwer-accepted
+             Nectandra krugii Mez-accepted
+             Nectandra martinicensis Mez-accepted
+             Nectandra membranacea (Sw.) Griseb.-accepted
+             Nectandra patens (Sw.) Griseb.-accepted
+             Nectandra turbacensis (Kunth) Nees-accepted
+             Ocotea cuneata (Griseb.) M. Gómez-accepted
+             Ocotea floribunda (Sw.) Mez-accepted
+             Ocotea foeniculacea Mez-accepted
+             Ocotea foetens (Aiton) Baill.-accepted
+             Ocotea leucoxylon (Sw.) Laness.-accepted
+             Ocotea moschata (Meisn.) Mez-accepted
+             Ocotea portoricensis Mez-accepted
+             Ocotea spathulata Mez-accepted
+             Ocotea wrightii (Meisn.) Mez-accepted
+             Oxandra lanceolata (Sw.) Baill.-accepted
+             Oxandra laurifolia (Sw.) A. Rich.-accepted
+             Parakmeria lotungensis (Chun & C.H. Tsoong) Y.W. Law-accepted
+             Peperomia alata Ruiz & Pav.-accepted
+             Peperomia alternifolia Yunck.-accepted
+             Peperomia amplexicaulis (Sw.) A. Dietr.-accepted
+             Peperomia angustata Kunth-accepted
+             Peperomia blanda (Jacq.) Kunth-accepted
+             Peperomia cogniauxii Urb.-accepted
+             Peperomia cookiana C. DC.-accepted
+             Peperomia degeneri Yunck.-accepted
+             Peperomia dendrophila Schltdl.-accepted
+             Peperomia distachya (L.) A. Dietr.-accepted
+             Peperomia eekana C. DC.-accepted
+             Peperomia ellipticibacca C. DC.-accepted
+             Peperomia emarginella (Sw. ex Wikstr.) C. DC.-accepted
+             Peperomia expallescens C. DC.-accepted
+             Peperomia glabella (Sw.) A. Dietr.-accepted
+             Peperomia globulanthera C. DC.-accepted
+             Peperomia hernandiifolia (Vahl) A. Dietr.-accepted
+             Peperomia hesperomannii Wawra-accepted
+             Peperomia hirtipetiola C. DC.-accepted
+             Peperomia humilis A. Dietr.-accepted
+             Peperomia hypoleuca Miq.-accepted
+             Peperomia kipahuluensis H. St. John & Lamoureux-accepted
+             Peperomia kokeana Yunck.-accepted
+             Peperomia latifolia Miq.-accepted
+             Peperomia ligustrina Hillebr.-accepted
+             Peperomia macraeana C. DC.-accepted
+             Peperomia maculosa (L.) Hook.-accepted
+             Peperomia magnoliifolia (Jacq.) A. Dietr.-accepted
+             Peperomia mariannensis C. DC.-accepted
+             Peperomia mauiensis Wawra-accepted
+             Peperomia megalopoda Trel.-accepted
+             Peperomia membranacea Hook. & Arn.-accepted
+             Peperomia myrtifolia (Vahl) A. Dietr.-accepted
+             Peperomia oahuensis C. DC.-accepted
+             Peperomia obovatilimba C. DC.-accepted
+             Peperomia obtusifolia (L.) A. Dietr.-accepted
+             Peperomia parvulifolia Trel.-accepted
+             Peperomia pellucida (L.) Kunth-accepted
+             Peperomia pereskiifolia (Jacq.) Kunth-accepted
+             Peperomia polystachya (Ait.) Hook.-accepted
+             Peperomia portoricensis Urb.-accepted
+             Peperomia quadrifolia (L.) Kunth-accepted
+             Peperomia remyi C. DC.-accepted
+             Peperomia rhombea Ruiz & Pav.-accepted
+             Peperomia robustior Urb.-accepted
+             Peperomia rockii C. DC.-accepted
+             Peperomia rotundifolia (L.) Kunth-accepted
+             Peperomia sandwicensis Miq.-accepted
+             Peperomia serpens (Sw.) Louden-accepted
+             Peperomia simplex Desv. ex Ham.-accepted
+             Peperomia spathulifolia Small-accepted
+             Peperomia subpetiolata Yunck.-accepted
+             Peperomia tenella (Sw.) A. Dietr.-accepted
+             Peperomia tetraphylla Hook. & Arn.-accepted
+             Peperomia urocarpa Fisch. & C.A. Mey.-accepted
+             Peperomia wheeleri Britton-accepted
+             Peperomia yabucoana Urb. & C. DC.-accepted
+             Persea americana Mill.-accepted
+             Persea borbonia (L.) Spreng.-accepted
+             Persea humilis Nash-accepted
+             Persea krugii Mez-accepted
+             Persea palustris (Raf.) Sarg.-accepted
+             Persea schiedeana Nees-accepted
+             Persea urbaniana Mez-accepted
+             Peumus boldus Molina-accepted
+             Piper aduncum L.-accepted
+             Piper aequale Vahl-accepted
+             Piper amalago L.-accepted
+             Piper angustifolium Lam.-accepted
+             Piper angustilimbum C. DC.-accepted
+             Piper auritum Kunth-accepted
+             Piper betle L.-accepted
+             Piper blattarum Spreng.-accepted
+             Piper cubeba L. f.-accepted
+             Piper dilatatum Rich.-accepted
+             Piper glabrescens (Miq.) C. DC.-accepted
+             Piper guahamense C. DC.-accepted
+             Piper guineense Schumach. & Thonn.-accepted
+             Piper hispidum Sw.-accepted
+             Piper jacquemontianum Kunth-accepted
+             Piper lambeauense C. DC.-accepted
+             Piper longifolium Ruiz & Pav.-accepted
+             Piper longum L.-accepted
+             Piper marginatum Jacq.-accepted
+             Piper methysticum G. Forst.-accepted
+             Piper mornicola C. DC.-accepted
+             Piper nigrum L.-accepted
+             Piper obliquum Ruiz & Pav.-accepted
+             Piper ornatum N.E. Br.-accepted
+             Piper peltatum L.-accepted
+             Piper ponapense C. DC.-accepted
+             Piper reticulatum L.-accepted
+             Piper retrofractum Vahl-accepted
+             Piper swartzianum (Miq.) C. DC.-accepted
+             Piper trigonum C. DC.-accepted
+             Piper umbellatum L.-accepted
+             Pleodendron costaricense N. Zamora, Hammel & Aguilar-accepted
+             Pleodendron ekmanii Urb.-accepted
+             Pleodendron macranthum (Baill.) Tiegh.-accepted
+             Sassafras albidum (Nutt.) Nees-accepted
+             Saururus cernuus L.-accepted
+             Stelechocarpus burahol (Blume) Hook. f. & Thomson-accepted
+             Talauma hodgsonii Hook. f. & Thomson-accepted
+             Umbellularia californica (Hook. & Arn.) Nutt.-accepted
+             Virola calophylla (Spruce) Warb.-accepted
+             Virola calophylloidea Markgr.-accepted
+             Virola elongata (Benth.) Warb.-accepted
+             Virola sebifera Aubl.-accepted
+             Virola surinamensis (Rol. ex Rottb.) Warb.-accepted
+             Xylopia aethiopica (Dunal) A. Rich.-accepted
+             Xylopia frutescens Aubl.-accepted
